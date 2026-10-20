@@ -1,0 +1,3669 @@
+[
+  {
+    "id": "B0B66QHB23",
+    "name": "subrtex Leather ding Room, Dining Chairs Set of 2, Black",
+    "mean_dimensions_m": [
+      0.4699,
+      0.4064,
+      0.889
+    ],
+    "mean_weight_kg": 11.521246198,
+    "volume_m3": 0.16976998304,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18.5\"D x 16\"W x 35\"H",
+    "raw_weight": "25.4 pounds",
+    "source_row": 3,
+    "source_url": "https://www.amazon.com/dp/B0B66QHB23",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CG1N9QRC",
+    "name": "JOIN IRON Foldable TV Trays for Eating Set of 4 with Stand,Folding TV/Snack Tray Table Set,Folding TV Dinner Tables for Small Space,(Grey)",
+    "mean_dimensions_m": [
+      0.48005999999999993,
+      0.36067999999999995,
+      0.6604
+    ],
+    "mean_weight_kg": 12.156275516000001,
+    "volume_m3": 0.11434696614431997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18.9\"D x 14.2\"W x 26\"H",
+    "raw_weight": "26.8 Pounds",
+    "source_row": 6,
+    "source_url": "https://www.amazon.com/dp/B0CG1N9QRC",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C9WYYFLB",
+    "name": "LOVMOR 30'' Bathroom Vanity Sink Base Cabine, Storage Cabinet with 3-Drawers on The Left, Suitable for Bathrooms, Kitchens, Laundry Rooms and Other Places.",
+    "mean_dimensions_m": [
+      0.5334,
+      0.762,
+      0.8763
+    ],
+    "mean_weight_kg": 34.926612490000004,
+    "volume_m3": 0.35617283604,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "21\"D x 30\"W x 34.5\"H",
+    "raw_weight": "77 Pounds",
+    "source_row": 7,
+    "source_url": "https://www.amazon.com/dp/B0C9WYYFLB",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09NZY3R1T",
+    "name": "Folews Bathroom Organizer Over The Toilet Storage, 4-Tier Bathroom Shelves Over Toilet Shelf Above Toilet Storage Rack Freestanding Bathroom Space Saver Adjustable Shelves and Baskets, Black",
+    "mean_dimensions_m": [
+      0.32004,
+      0.64008,
+      1.7399
+    ],
+    "mean_weight_kg": 8.300740371000002,
+    "volume_m3": 0.35642060844768,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "12.6\"D x 25.2\"W x 68.5\"H",
+    "raw_weight": "18.3 Pounds",
+    "source_row": 8,
+    "source_url": "https://www.amazon.com/dp/B09NZY3R1T",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09PTXGFZD",
+    "name": "Lerliuo Nightstand, Side Table, Industrial Bedside Table with 2 Drawers and Open Shelf, Grey Night Stand, End Table with Steel Frame for Bedroom, Dorm, Gray/Black 23.6''H",
+    "mean_dimensions_m": [
+      0.350012,
+      0.45008799999999993,
+      0.599948
+    ],
+    "mean_weight_kg": 9.53,
+    "volume_m3": 0.09451352875114508,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13.78\"D x 17.72\"W x 23.62\"H",
+    "raw_weight": "9.53 Kilograms",
+    "source_row": 16,
+    "source_url": "https://www.amazon.com/dp/B09PTXGFZD",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B002FL3LL2",
+    "name": "Boss Office Products Any Task Mid-Back Task Chair with Loop Arms in Grey",
+    "mean_dimensions_m": [
+      0.6858,
+      0.6604,
+      1.0413999999999999
+    ],
+    "mean_weight_kg": 14.51495584,
+    "volume_m3": 0.4716524760479999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "27\"D x 26\"W x 41\"H",
+    "raw_weight": "32 pounds",
+    "source_row": 17,
+    "source_url": "https://www.amazon.com/dp/B002FL3LL2",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BFJGDHVF",
+    "name": "DOMYDEVM Black End Table, Nightstand with Charging Station, Bedside Table with Drawer, Small Side Table with USB Ports and Outlets for Bedroom",
+    "mean_dimensions_m": [
+      0.299974,
+      0.40004999999999996,
+      0.599948
+    ],
+    "mean_weight_kg": 4.535923700000001,
+    "volume_m3": 0.0719965189808676,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "11.81\"D x 15.75\"W x 23.62\"H",
+    "raw_weight": "10 Pounds",
+    "source_row": 20,
+    "source_url": "https://www.amazon.com/dp/B0BFJGDHVF",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B093KMM9D3",
+    "name": "Table-Mate II PRO TV Tray Table - Folding Table with Cup Holder and Tablet Slot- Couch Desk for Working from Home, TV Trays for Eating, Portable and Adjustable TV Table, Slate Gray",
+    "mean_dimensions_m": [
+      0.381,
+      0.5334,
+      0.7365999999999999
+    ],
+    "mean_weight_kg": 5.7696949464000005,
+    "volume_m3": 0.14969582963999997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15\"D x 21\"W x 29\"H",
+    "raw_weight": "12.72 pounds",
+    "source_row": 22,
+    "source_url": "https://www.amazon.com/dp/B093KMM9D3",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C7QD8KYX",
+    "name": "EGFheal White Dress Up Storage",
+    "mean_dimensions_m": [
+      0.8128,
+      0.4826,
+      1.143
+    ],
+    "mean_weight_kg": 18.143694800000002,
+    "volume_m3": 0.44835007103999996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "32 x 19 x 45 inches",
+    "raw_weight": "40 pounds",
+    "source_row": 23,
+    "source_url": "https://www.amazon.com/dp/B0C7QD8KYX",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B098KNRNLQ",
+    "name": "Leick Home 70007-WTGD Mixed Metal and Wood Stepped Tier Bookshelf, White Herringbone/Satin Gold",
+    "mean_dimensions_m": [
+      0.30479999999999996,
+      0.8128,
+      0.7746999999999999
+    ],
+    "mean_weight_kg": 14.016004233,
+    "volume_m3": 0.19192529356799995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "12\"D x 32\"W x 30.5\"H",
+    "raw_weight": "30.9 pounds",
+    "source_row": 25,
+    "source_url": "https://www.amazon.com/dp/B098KNRNLQ",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09QZ3LYWB",
+    "name": "Gbuzozie 38L Round Laundry Hamper Cute Mermaid Girl Storage Basket Waterproof Coating Organizer Bin For Nursery Clothes Toys",
+    "mean_dimensions_m": [
+      0.35052,
+      0.35052,
+      0.4191
+    ],
+    "mean_weight_kg": 0.2806602789375,
+    "volume_m3": 0.05149241572464,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13.8\"L x 13.8\"W x 16.5\"H",
+    "raw_weight": "9.9 ounces",
+    "source_row": 28,
+    "source_url": "https://www.amazon.com/dp/B09QZ3LYWB",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09T5T67VC",
+    "name": "Tiita Comfy Saucer Chair, Soft Faux Fur Oversized Folding Accent Chair, Lounge Lazy Chair for Kids Teens Adults, Metal Frame Moon Chair for Bedroom, Living Room, Dorm Rooms",
+    "mean_dimensions_m": [
+      0.54864,
+      0.59944,
+      0.8000999999999999
+    ],
+    "mean_weight_kg": 5.8967008100000005,
+    "volume_m3": 0.26313429695616,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "21.6\"D x 23.6\"W x 31.5\"H",
+    "raw_weight": "13 pounds",
+    "source_row": 29,
+    "source_url": "https://www.amazon.com/dp/B09T5T67VC",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C99NS6CZ",
+    "name": "Summer Desk Decor,Welcome Summer Wood Block Sign Desk Decor,Rustic Summer Fruits and Popsicles Wooden Box Plaque Sign Desk Decor for Home Office Shelf Table Decorations",
+    "mean_dimensions_m": [
+      0.030479999999999997,
+      0.127,
+      0.127
+    ],
+    "mean_weight_kg": 0.07484274105000001,
+    "volume_m3": 0.00049161192,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "1.2 x 5 x 5 inches",
+    "raw_weight": "2.64 ounces",
+    "source_row": 30,
+    "source_url": "https://www.amazon.com/dp/B0C99NS6CZ",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BWQ8M4Q3",
+    "name": "Homebeez 39.1\" Length Bedroom Storage Bench, End Bed Ottoman Bench with Golden Metal Legs, Dressing Chair for Entryway Living Room,Green",
+    "mean_dimensions_m": [
+      0.99314,
+      0.44958,
+      0.4927599999999999
+    ],
+    "mean_weight_kg": 9.52543977,
+    "volume_m3": 0.22001531042011196,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "39.1\"D x 17.7\"W x 19.4\"H",
+    "raw_weight": "21 pounds",
+    "source_row": 31,
+    "source_url": "https://www.amazon.com/dp/B0BWQ8M4Q3",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B01M3VT58B",
+    "name": "Flash Furniture Webb Commercial Grade 24\" Round Blue Metal Indoor-Outdoor Table",
+    "mean_dimensions_m": [
+      0.6095999999999999,
+      0.6095999999999999,
+      0.7365999999999999
+    ],
+    "mean_weight_kg": 12.24699399,
+    "volume_m3": 0.2737295170559999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "24\"D x 24\"W x 29\"H",
+    "raw_weight": "27 Pounds",
+    "source_row": 32,
+    "source_url": "https://www.amazon.com/dp/B01M3VT58B",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08RTLBD1T",
+    "name": "CangLong Mid Century Modern Side Chair with Wood Legs for Kitchen, Living Dining Room, Set of 1, Black",
+    "mean_dimensions_m": [
+      0.5613400000000001,
+      0.4826,
+      0.8293099999999999
+    ],
+    "mean_weight_kg": 4.3590226757,
+    "volume_m3": 0.22466230486803998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "22.1\"D x 19\"W x 32.65\"H",
+    "raw_weight": "9.61 pounds",
+    "source_row": 34,
+    "source_url": "https://www.amazon.com/dp/B08RTLBD1T",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08N5H868H",
+    "name": "HomePop Metal Accent Table Triangle Base Round Mirror Top, Black, 18.24D x 24W x 18H in",
+    "mean_dimensions_m": [
+      0.46329599999999993,
+      0.6095999999999999,
+      0.4572
+    ],
+    "mean_weight_kg": 4.581282937,
+    "volume_m3": 0.12912482045951998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18.24\"D x 24\"W x 18\"H",
+    "raw_weight": "10.1 Pounds",
+    "source_row": 35,
+    "source_url": "https://www.amazon.com/dp/B08N5H868H",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B94T1TZ1",
+    "name": "HomePop Home Decor | K2380-YDQY-2 | Luxury Large Faux Leather Square Storage Ottoman | Ottoman with Storage for Living Room & Bedroom, Dark Brown",
+    "mean_dimensions_m": [
+      0.7111999999999999,
+      0.7111999999999999,
+      0.40004999999999996
+    ],
+    "mean_weight_kg": 13.789208048,
+    "volume_m3": 0.20234746627199995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "28\"D x 28\"W x 15.75\"H",
+    "raw_weight": "30.4 pounds",
+    "source_row": 39,
+    "source_url": "https://www.amazon.com/dp/B0B94T1TZ1",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CP45784G",
+    "name": "Moroccan Leather Pouf Ottoman for Living Room - Round Leather Ottoman Pouf Cover - Unstuffed Pouf Ottoman Leather Foot Stool - Moroccan Pouf Ottoman - Moroccan Ottoman Pouf Leather (Brown)",
+    "mean_dimensions_m": [
+      0.508,
+      0.508,
+      0.30479999999999996
+    ],
+    "mean_weight_kg": 0.90718474,
+    "volume_m3": 0.07865790719999999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "20\"D x 20\"W x 12\"H",
+    "raw_weight": "2 pounds",
+    "source_row": 40,
+    "source_url": "https://www.amazon.com/dp/B0CP45784G",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BW4WN2NL",
+    "name": "Solid Wood Wine Cabinet, bar Rack - Home Wood Furniture",
+    "mean_dimensions_m": [
+      0.4191,
+      0.83566,
+      1.0896599999999999
+    ],
+    "mean_weight_kg": 23.59,
+    "volume_m3": 0.3816262890039599,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "16.5\"D x 32.9\"W x 42.9\"H",
+    "raw_weight": "23.59 Kilograms",
+    "source_row": 44,
+    "source_url": "https://www.amazon.com/dp/B0BW4WN2NL",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BVQSPCCF",
+    "name": "Black Leather Office Chair Mid Back Leather Desk Chair Modern Excutive Office Chair with Arms and Wheels for Home Office, by Artswish",
+    "mean_dimensions_m": [
+      0.51054,
+      0.5206999999999999,
+      0.889
+    ],
+    "mean_weight_kg": 12.292353227000001,
+    "volume_m3": 0.236330140242,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "20.1\"D x 20.5\"W x 35\"H",
+    "raw_weight": "27.1 pounds",
+    "source_row": 45,
+    "source_url": "https://www.amazon.com/dp/B0BVQSPCCF",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08B45QFG7",
+    "name": "Convenience Concepts Tucson Flip Top End Table with Charging Station and Shelf, 23.75\"L x 11.25\"W x 24\"H, Charcoal Gray/Black",
+    "mean_dimensions_m": [
+      0.28575,
+      0.60325,
+      0.6095999999999999
+    ],
+    "mean_weight_kg": 9.071847400000001,
+    "volume_m3": 0.10508204789999998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "11.25\"D x 23.75\"W x 24\"H",
+    "raw_weight": "20 Pounds",
+    "source_row": 46,
+    "source_url": "https://www.amazon.com/dp/B08B45QFG7",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CMX4CMMS",
+    "name": "3-Tier Kitchen Storage Cart with Handle, Multifunction Utility Rolling Cart Kitchen Storage Organizer, Mobile Shelving Unit Cart with Lockable Wheels for Office, Living Room, Kitchen - Black",
+    "mean_dimensions_m": [
+      0.4064,
+      0.2794,
+      0.1016
+    ],
+    "mean_weight_kg": 1.6238606846,
+    "volume_m3": 0.011536493055999998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "16\"D x 11\"W x 4\"H",
+    "raw_weight": "3.58 pounds",
+    "source_row": 47,
+    "source_url": "https://www.amazon.com/dp/B0CMX4CMMS",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C2YQZS69",
+    "name": "Mimoglad Office Chair, High Back Ergonomic Desk Chair with Adjustable Lumbar Support and Headrest, Swivel Task Chair with flip-up Armrests for Guitar Playing, 5 Years Warranty",
+    "mean_dimensions_m": [
+      0.419862,
+      0.499872,
+      1.289812
+    ],
+    "mean_weight_kg": 12.70058636,
+    "volume_m3": 0.27070220546211915,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "16.53\"D x 19.68\"W x 50.78\"H",
+    "raw_weight": "28 pounds",
+    "source_row": 48,
+    "source_url": "https://www.amazon.com/dp/B0C2YQZS69",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09BVQZM3S",
+    "name": "1 Pack Adjustable Height Center Support Leg for Bed Frame,Bed Center Slat Heavy Extra Durable Steel Support Legs | Suitable for Bed Frame,Cabinet and Wooden Furniture",
+    "mean_dimensions_m": [
+      0.178054,
+      0.116078,
+      0.09398
+    ],
+    "mean_weight_kg": 0.7121400209000001,
+    "volume_m3": 0.0019423929448837598,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "7.01 x 4.57 x 3.7 inches",
+    "raw_weight": "1.57 Pounds",
+    "source_row": 50,
+    "source_url": "https://www.amazon.com/dp/B09BVQZM3S",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0722V6KMX",
+    "name": "Stylo Culture Traditional Cotton Patchwork Embroidered Ottoman Stool Pouf Cover Black Floral Seat 45 cm Seating Pouffe Case Bean Bag Home Decor",
+    "mean_dimensions_m": [
+      0.4572,
+      0.4572,
+      0.3302
+    ],
+    "mean_weight_kg": 0.4309127515,
+    "volume_m3": 0.069022313568,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18\"D x 18\"W x 13\"H",
+    "raw_weight": "15.2 ounces",
+    "source_row": 51,
+    "source_url": "https://www.amazon.com/dp/B0722V6KMX",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B93TC1Z8",
+    "name": "Smlttel Gold Clothing Rack With Shelves, Gold Coat Rack Freestanding with Marble Base, Coat Hanger Rack,Hat Tree Coat Rack Standing Clothes Racks for Boutique\uff0cBedroom",
+    "mean_dimensions_m": [
+      0.6095999999999999,
+      0.3302,
+      1.7018
+    ],
+    "mean_weight_kg": 8.61825503,
+    "volume_m3": 0.342555185856,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "24\"D x 13\"W x 67\"H",
+    "raw_weight": "19 Pounds",
+    "source_row": 54,
+    "source_url": "https://www.amazon.com/dp/B0B93TC1Z8",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0787KRJ8S",
+    "name": "Franklin Sports NFL Storage Ottoman + Container - NFL Football Team Folding Organizer Bins - NFL Office, Bedroom + Living Room D\u00e9cor - 14\" x 14\"",
+    "mean_dimensions_m": [
+      0.35559999999999997,
+      0.35559999999999997,
+      0.35559999999999997
+    ],
+    "mean_weight_kg": 2.48,
+    "volume_m3": 0.044966103615999994,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "shipping_or_package",
+    "raw_dimensions": "14 x 14 x 14 inches",
+    "raw_weight": "2.48 Kilograms",
+    "source_row": 55,
+    "source_url": "https://www.amazon.com/dp/B0787KRJ8S",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C4NT8N8C",
+    "name": "Furnistar 15.9 inch Modern Round Velvet Storage Ottoman with Gold Plating Base, Upholstered Footrest Makeup Stool for Bedroom Living Room, Grey(Ship from US)",
+    "mean_dimensions_m": [
+      0.40386,
+      0.40386,
+      0.40386
+    ],
+    "mean_weight_kg": 2.7215542200000002,
+    "volume_m3": 0.065870737032456,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15.9\"D x 15.9\"W x 15.9\"H",
+    "raw_weight": "6 pounds",
+    "source_row": 57,
+    "source_url": "https://www.amazon.com/dp/B0C4NT8N8C",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B00UV7B29A",
+    "name": "Need Fold Wall Mounted Workbench Folding Wall Table Length 47.2\" Width 20\" Perfect Addition to Garage & Shed/Home Office/Laundry Room/Home Bar/Kitchen & Dining Room",
+    "mean_dimensions_m": [
+      0.508,
+      1.20015,
+      0.180086
+    ],
+    "mean_weight_kg": 10.160469088,
+    "volume_m3": 0.1097941481532,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "20\"D x 47.25\"W x 7.09\"H",
+    "raw_weight": "22.4 Pounds",
+    "source_row": 60,
+    "source_url": "https://www.amazon.com/dp/B00UV7B29A",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08T7JP8ZN",
+    "name": "Big Joe Fuf XL Cover Only Machine Washable, Gray Plush, Soft Polyester",
+    "mean_dimensions_m": [
+      1.2446,
+      1.5875,
+      0.9905999999999999
+    ],
+    "mean_weight_kg": 1.9821986569,
+    "volume_m3": 1.9572299564999995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "49\"D x 62.5\"W x 39\"H",
+    "raw_weight": "4.37 pounds",
+    "source_row": 61,
+    "source_url": "https://www.amazon.com/dp/B08T7JP8ZN",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B19ZGGXC",
+    "name": "TIMCORR CD Case DVD Holder Storage: 144 Capacity DVD Cases Organizer Portable Wallet Storage - CD Plastic Protective Carrying Binder for Home Travel (Black)",
+    "mean_dimensions_m": [
+      0.104902,
+      0.175006,
+      0.299974
+    ],
+    "mean_weight_kg": 0.24947580350000004,
+    "volume_m3": 0.0055070665031352875,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "4.13\"D x 6.89\"W x 11.81\"H",
+    "raw_weight": "8.8 Ounces",
+    "source_row": 63,
+    "source_url": "https://www.amazon.com/dp/B0B19ZGGXC",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C3B4D4RH",
+    "name": "SogesHome Wood Corner Cabinet Wall Corner Storage Cabinet, Storage Display Table Stand Cabinet, with Doors and Open Shelf, for Small Places, Living Room, White&Teak",
+    "mean_dimensions_m": [
+      0.680212,
+      0.63754,
+      0.9270999999999999
+    ],
+    "mean_weight_kg": 18.8,
+    "volume_m3": 0.402048372546808,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "26.78\"D x 25.1\"W x 36.5\"H",
+    "raw_weight": "18.8 Kilograms",
+    "source_row": 66,
+    "source_url": "https://www.amazon.com/dp/B0C3B4D4RH",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B4CL1M1M",
+    "name": "Toy Storage for Lego Play Mat Bag - Duplo Toy Organizer Storage Bag by Drawstring for Kids Tidy Toy with Lips can as Gift (Orange 47 inch)",
+    "mean_dimensions_m": [
+      0.340106,
+      0.27609799999999995,
+      0.069088
+    ],
+    "mean_weight_kg": 0.02,
+    "volume_m3": 0.006487541888374143,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13.39\"L x 10.87\"W x 2.72\"H",
+    "raw_weight": "0.02 Kilograms",
+    "source_row": 67,
+    "source_url": "https://www.amazon.com/dp/B0B4CL1M1M",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B00FEAN1SY",
+    "name": "Flash Furniture Jefferson 2 Pk. Contemporary Brown Vinyl Adjustable Height Barstool with Panel Back and Chrome Base",
+    "mean_dimensions_m": [
+      0.4699,
+      0.38734999999999997,
+      1.1112499999999998
+    ],
+    "mean_weight_kg": 10.296546799,
+    "volume_m3": 0.20226501885624995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18.5\"D x 15.25\"W x 43.75\"H",
+    "raw_weight": "22.7 pounds",
+    "source_row": 68,
+    "source_url": "https://www.amazon.com/dp/B00FEAN1SY",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B01B65BYYI",
+    "name": "Convenience Concepts American Heritage Round End Table, Pink",
+    "mean_dimensions_m": [
+      0.45085,
+      0.45085,
+      0.6095999999999999
+    ],
+    "mean_weight_kg": 5.4431084400000005,
+    "volume_m3": 0.12391078443599997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "17.75\"D x 17.75\"W x 24\"H",
+    "raw_weight": "12 Pounds",
+    "source_row": 70,
+    "source_url": "https://www.amazon.com/dp/B01B65BYYI",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B000TMHWGO",
+    "name": "Flash Furniture Diamond Black Vinyl Luxurious Conference Chair with Accent Nail Trim",
+    "mean_dimensions_m": [
+      0.6858,
+      0.6095999999999999,
+      0.8000999999999999
+    ],
+    "mean_weight_kg": 9.979032140000001,
+    "volume_m3": 0.3344927503679999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "27\"D x 24\"W x 31.5\"H",
+    "raw_weight": "22 pounds",
+    "source_row": 71,
+    "source_url": "https://www.amazon.com/dp/B000TMHWGO",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CGQZBCZP",
+    "name": "Winrise Office Chair Ergonomic Desk Chair, High Back Gaming Chair, Big and Tall Reclining chair Comfy Home Office Desk Chair Lumbar Support Breathable Mesh Computer Chair Adjustable Armrests(B-Orange)",
+    "mean_dimensions_m": [
+      0.6985,
+      0.6985,
+      1.28016
+    ],
+    "mean_weight_kg": 17.23651006,
+    "volume_m3": 0.62459294436,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "27.5\"D x 27.5\"W x 50.4\"H",
+    "raw_weight": "38 pounds",
+    "source_row": 73,
+    "source_url": "https://www.amazon.com/dp/B0CGQZBCZP",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B017TNJR72",
+    "name": "Adeco Euro Style Fabric Arm Bench Chair Footstool Cubic Ottomans, Brown",
+    "mean_dimensions_m": [
+      0.4572,
+      0.4572,
+      0.4572
+    ],
+    "mean_weight_kg": 5.4431084400000005,
+    "volume_m3": 0.095569357248,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18\"D x 18\"W x 18\"H",
+    "raw_weight": "12 pounds",
+    "source_row": 74,
+    "source_url": "https://www.amazon.com/dp/B017TNJR72",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09FR4XSCT",
+    "name": "itbe Easy Fit Ready-to-Assemble Multipurpose One Door Wall Steel Cabinet Space Organizer (Blue)",
+    "mean_dimensions_m": [
+      0.284988,
+      0.34975799999999996,
+      0.639826
+    ],
+    "mean_weight_kg": 6.200607697900001,
+    "volume_m3": 0.0637758292896347,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "11.22\"D x 13.77\"W x 25.19\"H",
+    "raw_weight": "13.67 pounds",
+    "source_row": 78,
+    "source_url": "https://www.amazon.com/dp/B09FR4XSCT",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B075M1PKSW",
+    "name": "Way Basics Vinyl Record Storage - 2 Tier Book Shelf Turntable Stand (Fits 170 Albums)",
+    "mean_dimensions_m": [
+      0.36067999999999995,
+      0.4572,
+      0.73914
+    ],
+    "mean_weight_kg": 5.397749203,
+    "volume_m3": 0.12188632654943998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "14.2\"D x 18\"W x 29.1\"H",
+    "raw_weight": "11.9 Pounds",
+    "source_row": 81,
+    "source_url": "https://www.amazon.com/dp/B075M1PKSW",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CB7SG59J",
+    "name": "MoNiBloom Adjustable Bar Stools Set of 2, 360\u00b0 Swivel Counter Height Barstool Kitchen Counter Island Dining Chair, Dark Grey PU Leather Bistro Swivel Stool for Living Room Kitchen, 250 lbs Capacity",
+    "mean_dimensions_m": [
+      0.381,
+      0.4572,
+      0.9905999999999999
+    ],
+    "mean_weight_kg": 14.741752025,
+    "volume_m3": 0.17255578391999998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15\"D x 18\"W x 39\"H",
+    "raw_weight": "32.5 pounds",
+    "source_row": 83,
+    "source_url": "https://www.amazon.com/dp/B0CB7SG59J",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B01D378FYE",
+    "name": "MJL Furniture Designs Upholstered Cubed/Square Olivia Series Ottoman, 17\" x 19\" x 19\", Smoke Grey",
+    "mean_dimensions_m": [
+      0.4826,
+      0.4826,
+      0.43179999999999996
+    ],
+    "mean_weight_kg": 6.80388555,
+    "volume_m3": 0.10056741176799998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19\"D x 19\"W x 17\"H",
+    "raw_weight": "15 pounds",
+    "source_row": 86,
+    "source_url": "https://www.amazon.com/dp/B01D378FYE",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CKPFKDZY",
+    "name": "Cpintltr Small Foot Stool Ottoman Modern Accent Step Stool Seat with Solid Wood Legs Velvet Soft Padded Pouf Ottomans Sofa Footrest Stools for Couch Living Room Bedroom Entryway (Green 2 PCS)",
+    "mean_dimensions_m": [
+      0.2794,
+      0.4064,
+      0.254
+    ],
+    "mean_weight_kg": 3.62873896,
+    "volume_m3": 0.028841232639999995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "11\"D x 16\"W x 10\"H",
+    "raw_weight": "8 pounds",
+    "source_row": 87,
+    "source_url": "https://www.amazon.com/dp/B0CKPFKDZY",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CHVQ6BC5",
+    "name": "YuiHome Extendable Round, Farmhouse 16\" Leaf Table for Dining Room, Kitchen,Natural Wood Wash",
+    "mean_dimensions_m": [
+      1.0668,
+      1.0668,
+      0.762
+    ],
+    "mean_weight_kg": 6.80388555,
+    "volume_m3": 0.86720342688,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "42\"D x 42\"W x 30\"H",
+    "raw_weight": "15 Pounds",
+    "source_row": 88,
+    "source_url": "https://www.amazon.com/dp/B0CHVQ6BC5",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CBBV4S1P",
+    "name": "Ergonomic Office Chair,Office Chair, with Lumbar Support & 3D Headrest & Flip Up Arms Home Office Desk Chairs Rockable High Back Swivel Computer Chair White Frame Mesh Study Chair\uff08All Black\uff09",
+    "mean_dimensions_m": [
+      0.5003799999999999,
+      0.5206999999999999,
+      1.2191999999999998
+    ],
+    "mean_weight_kg": 11.022294591000001,
+    "volume_m3": 0.3176599582271999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19.7\"D x 20.5\"W x 48\"H",
+    "raw_weight": "24.3 pounds",
+    "source_row": 89,
+    "source_url": "https://www.amazon.com/dp/B0CBBV4S1P",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B084WLY61H",
+    "name": "Kate and Laurel Celia Round Metal Foldable Accent Table with Tray Top, Black",
+    "mean_dimensions_m": [
+      0.35559999999999997,
+      0.35559999999999997,
+      0.65405
+    ],
+    "mean_weight_kg": 1.9958064280000003,
+    "volume_m3": 0.082705512008,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "14\"D x 14\"W x 25.75\"H",
+    "raw_weight": "4.4 Pounds",
+    "source_row": 90,
+    "source_url": "https://www.amazon.com/dp/B084WLY61H",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09NBWCTDS",
+    "name": "Lizipai Floating Bedside Table, No Assembly Required,Night Stand with Drawer, 19\" X 13\" X 5.9\", White",
+    "mean_dimensions_m": [
+      0.150114,
+      0.48005999999999993,
+      0.32004
+    ],
+    "mean_weight_kg": 7.19,
+    "volume_m3": 0.0230632751378736,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "5.91\"D x 18.9\"W x 12.6\"H",
+    "raw_weight": "7.19 Kilograms",
+    "source_row": 91,
+    "source_url": "https://www.amazon.com/dp/B09NBWCTDS",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BSZ96YG7",
+    "name": "CordaRoy's Chenille Bean Bag Ottoman Footstool, 26\" x 17\", Rainforest",
+    "mean_dimensions_m": [
+      0.6604,
+      0.6604,
+      0.43179999999999996
+    ],
+    "mean_weight_kg": 3.9825410085999997,
+    "volume_m3": 0.18832013948799997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "26\"D x 26\"W x 17\"H",
+    "raw_weight": "8.78 pounds",
+    "source_row": 92,
+    "source_url": "https://www.amazon.com/dp/B0BSZ96YG7",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CD7FSWMK",
+    "name": "Plebs Home Solid Desktop Store Cart, with Rubber Wood Countertop, Island has 8 Handle-Free Drawers, Including a Flatware Organizer and 5 Wheels, for Dining, Kitchen, Living Room-Dark Blue, 53.15 Inch",
+    "mean_dimensions_m": [
+      1.35001,
+      0.4699,
+      0.9398
+    ],
+    "mean_weight_kg": 13.6077711,
+    "volume_m3": 0.5961806431201999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "53.15\"D x 18.5\"W x 37\"H",
+    "raw_weight": "30 Pounds",
+    "source_row": 93,
+    "source_url": "https://www.amazon.com/dp/B0CD7FSWMK",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C99D3V15",
+    "name": "ErGear Ergonomic Desk Chair, Office Chair with 2'' Adjustable Lumbar Support, Computer Chair with Flip-Up Armrests & Headrest, High Back Office Desk Chair with 4'' Thicken Seat for Home Office, Black",
+    "mean_dimensions_m": [
+      0.64008,
+      0.61976,
+      1.379474
+    ],
+    "mean_weight_kg": 12.927382545,
+    "volume_m3": 0.5472317914180992,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "25.2\"D x 24.4\"W x 54.31\"H",
+    "raw_weight": "28.5 pounds",
+    "source_row": 94,
+    "source_url": "https://www.amazon.com/dp/B0C99D3V15",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09DKG6JDN",
+    "name": "Homebeez 18.9\" Round Velvet Storage Ottoman Multi-Function Vanity Stool Footrest with Storage for Bedroom/Living Room,Orange",
+    "mean_dimensions_m": [
+      0.48005999999999993,
+      0.48005999999999993,
+      0.4191
+    ],
+    "mean_weight_kg": 5.488467677,
+    "volume_m3": 0.09658478166875996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18.9\"D x 18.9\"W x 16.5\"H",
+    "raw_weight": "12.1 pounds",
+    "source_row": 96,
+    "source_url": "https://www.amazon.com/dp/B09DKG6JDN",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B01LWPSVUW",
+    "name": "Homepop Home Decor | Backless Nailhead Trim Counter Height Bar Stools | 24 Inch Bar Stools | Decorative Home Furniture (Blue Tweed)",
+    "mean_dimensions_m": [
+      0.3302,
+      0.4699,
+      0.6604
+    ],
+    "mean_weight_kg": 5.080234544,
+    "volume_m3": 0.102468311192,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13\"D x 18.5\"W x 26\"H",
+    "raw_weight": "11.2 pounds",
+    "source_row": 98,
+    "source_url": "https://www.amazon.com/dp/B01LWPSVUW",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CD7TH3BF",
+    "name": "MoNiBloom Round Folding Faux Fur Saucer Chair for Bedroom Living Room Dorm Courtyard Foldable Metal Frame Oversized Large Comfy Furry Padded Soft Lounge Lazy Cozy Moon Chair for Adults (Burgundy)",
+    "mean_dimensions_m": [
+      0.49529999999999996,
+      0.8382,
+      0.8255
+    ],
+    "mean_weight_kg": 5.198168560200001,
+    "volume_m3": 0.34271495973,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19.5\"D x 33\"W x 32.5\"H",
+    "raw_weight": "11.46 pounds",
+    "source_row": 100,
+    "source_url": "https://www.amazon.com/dp/B0CD7TH3BF",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C1NSNDW2",
+    "name": "YMYNY Vanity Stool Chair with Storage, Square Velvet Ottoman Foot Stool, Modern Multifunctional Makeup Stool for Bedroom, Living Room, Office, Gold Legs, 18.9 * 15.75 * 11.6\", Dusty Blue, UHBD024G",
+    "mean_dimensions_m": [
+      0.294894,
+      0.40004999999999996,
+      0.48005999999999993
+    ],
+    "mean_weight_kg": 4.490564463,
+    "volume_m3": 0.05663380379668198,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "11.61\"D x 15.75\"W x 18.9\"H",
+    "raw_weight": "9.9 pounds",
+    "source_row": 101,
+    "source_url": "https://www.amazon.com/dp/B0C1NSNDW2",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0069H9BYO",
+    "name": "Casual Home 5 Piece Tray Table Set, Espresso",
+    "mean_dimensions_m": [
+      0.37465,
+      0.4826,
+      0.6476999999999999
+    ],
+    "mean_weight_kg": 12.70058636,
+    "volume_m3": 0.11710810449299998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "14.75\"D x 19\"W x 25.5\"H",
+    "raw_weight": "28 Pounds",
+    "source_row": 102,
+    "source_url": "https://www.amazon.com/dp/B0069H9BYO",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C5DH6ZY6",
+    "name": "Get Set Style Black Glass Side Table, Square Glass End Table Modern Coffee Table with Storage, Glass Mirrored Table for Living Room, Balcony, Bedroom, Office",
+    "mean_dimensions_m": [
+      0.5003799999999999,
+      0.5003799999999999,
+      0.5499099999999999
+    ],
+    "mean_weight_kg": 9.480080533,
+    "volume_m3": 0.13768654520700394,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19.7\"D x 19.7\"W x 21.65\"H",
+    "raw_weight": "20.9 Pounds",
+    "source_row": 104,
+    "source_url": "https://www.amazon.com/dp/B0C5DH6ZY6",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CKQTTZ5V",
+    "name": "Watson & Whitely Swivel Bar Stools Set of 2, Faux Leather Upholstered Counter Height Barstool with Back, 26\" H Seat Height Counter Stools with Solid Wood Legs (Black)",
+    "mean_dimensions_m": [
+      0.5588,
+      0.48005999999999993,
+      1.0007599999999999
+    ],
+    "mean_weight_kg": 26.943386778,
+    "volume_m3": 0.2684614037212799,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "22\"D x 18.9\"W x 39.4\"H",
+    "raw_weight": "59.4 pounds",
+    "source_row": 105,
+    "source_url": "https://www.amazon.com/dp/B0CKQTTZ5V",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BZJYM4Q6",
+    "name": "Sweet Jojo Designs Boho Rainbow Girl Ottoman Pouf Cover Unstuffed Poof Floor Footstool Square Cube Pouffe Storage Baby Nursery Kids Room Blush Pink Yellow Bohemian Modern Neutral Vintage Taupe Beige",
+    "mean_dimensions_m": [
+      0.43179999999999996,
+      0.381,
+      0.43179999999999996
+    ],
+    "mean_weight_kg": 0.32318456362500003,
+    "volume_m3": 0.07103792243999998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "17\"D x 15\"W x 17\"H",
+    "raw_weight": "11.4 ounces",
+    "source_row": 106,
+    "source_url": "https://www.amazon.com/dp/B0BZJYM4Q6",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08SL4GH7G",
+    "name": "Pekokavo Sofa Arm Clip Tray, Side Table for Remote Controls/Drinks/Gamepads Holder (Bamboo)",
+    "mean_dimensions_m": [
+      0.24892,
+      0.24892,
+      0.1143
+    ],
+    "mean_weight_kg": 0.7348196394000001,
+    "volume_m3": 0.007082161319520001,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "9.8\"L x 9.8\"W x 4.5\"H",
+    "raw_weight": "1.62 Pounds",
+    "source_row": 107,
+    "source_url": "https://www.amazon.com/dp/B08SL4GH7G",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08FC5HPBS",
+    "name": "Xchouxer Side Tables Natural Bamboo Sofa Armrest Clip-On Tray, Ideal for Remote/Drinks/Phone (Round)",
+    "mean_dimensions_m": [
+      0.249936,
+      0.249936,
+      0.1143
+    ],
+    "mean_weight_kg": 0.45359237,
+    "volume_m3": 0.007140092868172799,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "9.84\"L x 9.84\"W x 4.5\"H",
+    "raw_weight": "1 Pounds",
+    "source_row": 109,
+    "source_url": "https://www.amazon.com/dp/B08FC5HPBS",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CKMRJ1H9",
+    "name": "Montessori Learning Toddler Tower, Foldable Toddler Step Stool Kitchen Stool Helper for Kids, 4 in 1 Toddler Kitchen Step Stool Helper Standing Tower, Kids Step Stool with Chalkboard & Safety Rail",
+    "mean_dimensions_m": [
+      0.0254,
+      0.0254,
+      0.0254
+    ],
+    "mean_weight_kg": 9.979032140000001,
+    "volume_m3": 1.6387064e-05,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "1\"D x 1\"W x 1\"H",
+    "raw_weight": "22 pounds",
+    "source_row": 110,
+    "source_url": "https://www.amazon.com/dp/B0CKMRJ1H9",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09K3MYL91",
+    "name": "PAK HOME Set of 2 High Gloss Brown Marble Look End Tables Round Wood Sofa Side Coffee Tables for Small Spaces, Nightstand Bedside Table for Bedroom, Living Room, Office",
+    "mean_dimensions_m": [
+      0.381,
+      0.381,
+      0.5715
+    ],
+    "mean_weight_kg": 5.8967008100000005,
+    "volume_m3": 0.08295951150000001,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15\"D x 15\"W x 22.5\"H",
+    "raw_weight": "13 Pounds",
+    "source_row": 111,
+    "source_url": "https://www.amazon.com/dp/B09K3MYL91",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CF8HTCS4",
+    "name": "Dewhut Oversized Pumpkin Couch Accent Chair, Modern Comfy Velvet Upholstered Barrel Chairs, Luxury Single Sofa Armchair for Living Room, Waiting Room, Office and Vanity, (Navy)",
+    "mean_dimensions_m": [
+      0.690118,
+      0.7150099999999999,
+      0.797814
+    ],
+    "mean_weight_kg": 11.974838568,
+    "volume_m3": 0.39367435432520054,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "27.17\"D x 28.15\"W x 31.41\"H",
+    "raw_weight": "26.4 pounds",
+    "source_row": 113,
+    "source_url": "https://www.amazon.com/dp/B0CF8HTCS4",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B6FML1VS",
+    "name": "BEWISHOME Vanity Stool, Bedroom Vanity Chair with Upholstered Seat, Desk Stool Piano Stool Soft Cushioned Stool, Square 18\u201d Height Makeup Bench, Piano Bench Vanity Bench Capacity 300lb Black FSD06H",
+    "mean_dimensions_m": [
+      0.40004999999999996,
+      0.40004999999999996,
+      0.45999399999999996
+    ],
+    "mean_weight_kg": 4.4497411497,
+    "volume_m3": 0.07361744090998498,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15.75\"D x 15.75\"W x 18.11\"H",
+    "raw_weight": "9.81 pounds",
+    "source_row": 116,
+    "source_url": "https://www.amazon.com/dp/B0B6FML1VS",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B00740P05Y",
+    "name": "Children's Factory School Age High Back Lounger Kids Bean Bag Chair, Flexible Seating Classroom Furniture for Homeschools/Playrooms/Daycares, Blue/Red",
+    "mean_dimensions_m": [
+      0.762,
+      0.7111999999999999,
+      0.6858
+    ],
+    "mean_weight_kg": 4.1412983381,
+    "volume_m3": 0.3716586115199999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "30 x 28 x 27 inches",
+    "raw_weight": "9.13 pounds",
+    "source_row": 117,
+    "source_url": "https://www.amazon.com/dp/B00740P05Y",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CN8NXR1Q",
+    "name": "FLYJOE Shoe Rack Bench, 3-Tier Freestanding Wooden Shoe Organizer with Seat, Entryway Bench, Storage Shelf for Kitchen Living Room Bathroom Bedroom, Walnut",
+    "mean_dimensions_m": [
+      0.30479999999999996,
+      0.8000999999999999,
+      0.4191
+    ],
+    "mean_weight_kg": 5.8967008100000005,
+    "volume_m3": 0.10220611816799997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "12\"D x 31.5\"W x 16.5\"H",
+    "raw_weight": "13 pounds",
+    "source_row": 118,
+    "source_url": "https://www.amazon.com/dp/B0CN8NXR1Q",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CH862BV2",
+    "name": "FLYZC Counter Height Bar Stools Set of 4, Stools for Kitchen Island Set of 4, 24 Inch Counter Height Stools Saddle Barstools Stools for Kitchen Counter Pub Bar Dining Room Support 300 LBS(Grey)",
+    "mean_dimensions_m": [
+      0.31800799999999996,
+      0.45008799999999993,
+      0.622046
+    ],
+    "mean_weight_kg": 21.636356049000003,
+    "volume_m3": 0.08903442973878435,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "12.52\"D x 17.72\"W x 24.49\"H",
+    "raw_weight": "47.7 pounds",
+    "source_row": 119,
+    "source_url": "https://www.amazon.com/dp/B0CH862BV2",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B3HM3FTZ",
+    "name": "SITMOD Gaming Chairs for Adults with Footrest-Computer Ergonomic Video Game Chair-Backrest and Seat Height Adjustable Swivel Task Chair with Lumbar Support(Gray)-Fabric",
+    "mean_dimensions_m": [
+      0.508,
+      0.5841999999999999,
+      1.3208
+    ],
+    "mean_weight_kg": 19.05087954,
+    "volume_m3": 0.39197857087999993,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "20\"D x 23\"W x 52\"H",
+    "raw_weight": "42 pounds",
+    "source_row": 120,
+    "source_url": "https://www.amazon.com/dp/B0B3HM3FTZ",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07JCPZDSL",
+    "name": "CM Cosmos Stuffed Animal Storage Bean Bag Chair Stuffable Zipper Beanbag Stuff and Sit Bean Bag for Organizing Soft Plush, Size 22.5'', with Handle",
+    "mean_dimensions_m": [
+      0.5715,
+      0.5715,
+      0.5715
+    ],
+    "mean_weight_kg": 0.3316894205625,
+    "volume_m3": 0.186658900875,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "22.5\"D x 22.5\"W x 22.5\"H",
+    "raw_weight": "11.7 ounces",
+    "source_row": 121,
+    "source_url": "https://www.amazon.com/dp/B07JCPZDSL",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09V6RSWSR",
+    "name": "Cionyce 4 Pcs Sectional Couch Connectors, Pin Style Furniture Connector Sectional Sofa Connector Bracket(Black)",
+    "mean_dimensions_m": [
+      0.18288,
+      0.12191999999999999,
+      0.037084
+    ],
+    "mean_weight_kg": 0.2069515188125,
+    "volume_m3": 0.0008268519204863998,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "7.2 x 4.8 x 1.46 inches",
+    "raw_weight": "7.3 ounces",
+    "source_row": 122,
+    "source_url": "https://www.amazon.com/dp/B09V6RSWSR",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BWDJ8NSM",
+    "name": "Tiita Saucer Chair with Ottoman, Soft Faux Fur Oversized Folding Accent Chair,Lounge Lazy Chair, Metal Frame Moon Chair for Bedroom, Living Room, Dorm Rooms, Garden and Courtyard",
+    "mean_dimensions_m": [
+      0.54864,
+      0.59944,
+      0.8000999999999999
+    ],
+    "mean_weight_kg": 5.8967008100000005,
+    "volume_m3": 0.26313429695616,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "21.6\"D x 23.6\"W x 31.5\"H",
+    "raw_weight": "13 pounds",
+    "source_row": 123,
+    "source_url": "https://www.amazon.com/dp/B0BWDJ8NSM",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B75Z1T2H",
+    "name": "GIA 24-Inch Counter Height Square Backless Metal Stool with Holstein Cow Print Upholstery, Black, Qty of 2",
+    "mean_dimensions_m": [
+      0.381,
+      0.508,
+      0.6095999999999999
+    ],
+    "mean_weight_kg": 10.614061458,
+    "volume_m3": 0.11798686079999998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15\"D x 20\"W x 24\"H",
+    "raw_weight": "23.4 pounds",
+    "source_row": 125,
+    "source_url": "https://www.amazon.com/dp/B0B75Z1T2H",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B24KQJS9",
+    "name": "Vintage Desktop Apothecary Cabinet with 3 Drawers - Solid Wood Medicine Cabinet for Tabletop - Rustic Card Catalog Drawers with Label Holders - Desktop Chest Drawer for Storage and Organization",
+    "mean_dimensions_m": [
+      0.2667,
+      0.3429,
+      0.3429
+    ],
+    "mean_weight_kg": 2.9664940998000002,
+    "volume_m3": 0.031358695347,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "10.5\"D x 13.5\"W x 13.5\"H",
+    "raw_weight": "6.54 Pounds",
+    "source_row": 126,
+    "source_url": "https://www.amazon.com/dp/B0B24KQJS9",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07W56HHX5",
+    "name": "WAYTRIM Dresser Storage Tower, 4 Fabric Organizer Drawers, Wide Chest of Drawers for Closet Boys & Girls Bedroom, Bedside Furniture, Steel Frame, Wood Top, Fabric Bins, Easy Installation (Camel)",
+    "mean_dimensions_m": [
+      0.30479999999999996,
+      0.5841999999999999,
+      0.9398
+    ],
+    "mean_weight_kg": 8.9176259942,
+    "volume_m3": 0.16734469756799997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "12\"D x 23\"W x 37\"H",
+    "raw_weight": "19.66 pounds",
+    "source_row": 127,
+    "source_url": "https://www.amazon.com/dp/B07W56HHX5",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BHVLGGYL",
+    "name": "Power Recliner Power Supply Kit-4-Piece Universal Dual Power Supply Transformer with AC Power Cord, DC Extension Cable and Y Splitter Cord 29V 2A Adapter for Recliner, Lift Chairs and Sofa",
+    "mean_dimensions_m": [
+      0.24206199999999997,
+      0.09906,
+      0.050038
+    ],
+    "mean_weight_kg": 0.3883884668125,
+    "volume_m3": 0.0011998442751453597,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "9.53 x 3.9 x 1.97 inches",
+    "raw_weight": "13.7 ounces",
+    "source_row": 128,
+    "source_url": "https://www.amazon.com/dp/B0BHVLGGYL",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CB5G1BHX",
+    "name": "Lufeiya Small Computer Desk with 2 Drawers for Bedroom, 31 Inch Home Office Desk with Storage Fabric Drawer and Bag, Study Writing Table for Small Spaces, Rustic Brown",
+    "mean_dimensions_m": [
+      0.39877999999999997,
+      0.8000999999999999,
+      0.78994
+    ],
+    "mean_weight_kg": 7.393555631000001,
+    "volume_m3": 0.25204131978732,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15.7\"D x 31.5\"W x 31.1\"H",
+    "raw_weight": "16.3 Pounds",
+    "source_row": 130,
+    "source_url": "https://www.amazon.com/dp/B0CB5G1BHX",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BV6KR1T7",
+    "name": "Watson & Whitely Swivel Bar Stools Set of 2, Fabric Upholstered Counter Height Barstool with Back, 26\" H Seat Height Counter Stools with Solid Wood Legs (White (Multi-Colored))",
+    "mean_dimensions_m": [
+      0.5588,
+      0.48005999999999993,
+      1.0007599999999999
+    ],
+    "mean_weight_kg": 26.943386778,
+    "volume_m3": 0.2684614037212799,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "22\"D x 18.9\"W x 39.4\"H",
+    "raw_weight": "59.4 pounds",
+    "source_row": 131,
+    "source_url": "https://www.amazon.com/dp/B0BV6KR1T7",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C6XNNL9M",
+    "name": "Adeco Large Square Storage Ottoman Bench, Tufted Upholstered Coffee Table Footstool Footrest with Wood Legs for Living Room Bedroom, Orange Brown",
+    "mean_dimensions_m": [
+      0.7493,
+      0.7493,
+      0.46482
+    ],
+    "mean_weight_kg": 14.787111262000002,
+    "volume_m3": 0.26097341676179997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "29.5\"D x 29.5\"W x 18.3\"H",
+    "raw_weight": "32.6 pounds",
+    "source_row": 132,
+    "source_url": "https://www.amazon.com/dp/B0C6XNNL9M",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B6YR22H1",
+    "name": "New Classic Furniture Evander Wood End Table with Drawer and Storage, Two Tone Cream/Brown",
+    "mean_dimensions_m": [
+      0.5588,
+      0.5969,
+      0.5651499999999999
+    ],
+    "mean_weight_kg": 27.079464489000003,
+    "volume_m3": 0.18850449395799998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "22\"D x 23.5\"W x 22.25\"H",
+    "raw_weight": "59.7 pounds",
+    "source_row": 133,
+    "source_url": "https://www.amazon.com/dp/B0B6YR22H1",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07MZRYQ2X",
+    "name": "Lipper International Wooden Storage Crate, white 14\" x 12 1/2\" x 11\"",
+    "mean_dimensions_m": [
+      0.3175,
+      0.35559999999999997,
+      0.2794
+    ],
+    "mean_weight_kg": 0.9979032140000001,
+    "volume_m3": 0.031545098199999996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "12.5 x 14 x 11 inches",
+    "raw_weight": "2.2 pounds",
+    "source_row": 134,
+    "source_url": "https://www.amazon.com/dp/B07MZRYQ2X",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BHF9PPJC",
+    "name": "Amazon Basics Kids Adjustable Mesh Low-Back Swivel Study Desk Chair with Footrest, Red",
+    "mean_dimensions_m": [
+      0.55499,
+      0.55499,
+      0.7449819999999999
+    ],
+    "mean_weight_kg": 7.620351816,
+    "volume_m3": 0.22946481132429813,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "21.85\"D x 21.85\"W x 29.33\"H",
+    "raw_weight": "16.8 pounds",
+    "source_row": 135,
+    "source_url": "https://www.amazon.com/dp/B0BHF9PPJC",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07NFSLLCG",
+    "name": "Joovy Coo Bassinet, Portable Bassinet with Storage, Rocking Playpen, Gray",
+    "mean_dimensions_m": [
+      1.050036,
+      0.635,
+      0.72009
+    ],
+    "mean_weight_kg": 8.164662660000001,
+    "volume_m3": 0.4801364687574,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "41.34 x 25 x 28.35 inches",
+    "raw_weight": "18 pounds",
+    "source_row": 136,
+    "source_url": "https://www.amazon.com/dp/B07NFSLLCG",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C7L8GGJF",
+    "name": "Halatua 6ftlarge Fur Bean Bag Cover Lazy Sofa Chair Living Room Large Circular Soft Fluffy Artificial Fur unfilled Bean Bag (SnowBlue, 7FTD70.8inchH35.4inch)",
+    "mean_dimensions_m": [
+      0.28956,
+      0.14986,
+      0.17018
+    ],
+    "mean_weight_kg": 3.0254611079,
+    "volume_m3": 0.007384699295087999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "11.4 x 5.9 x 6.7 inches",
+    "raw_weight": "6.67 Pounds",
+    "source_row": 137,
+    "source_url": "https://www.amazon.com/dp/B0C7L8GGJF",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08JWJTZ1Y",
+    "name": "Flash Furniture Walker Small Rustic Natural Home Office Folding Computer Desk - 36\"",
+    "mean_dimensions_m": [
+      0.4572,
+      0.9017,
+      0.7493
+    ],
+    "mean_weight_kg": 9.071847400000001,
+    "volume_m3": 0.30890434993199994,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18\"D x 35.5\"W x 29.5\"H",
+    "raw_weight": "20 Pounds",
+    "source_row": 138,
+    "source_url": "https://www.amazon.com/dp/B08JWJTZ1Y",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BG7MX77T",
+    "name": "BOKKOLIK Vintage Bar Stools Swivel PU Seat 29-37inch Height Adjustable Extral Tall Bicycle Stool with Bikepedal Kitchen Island Counter Stool Shop Chairs",
+    "mean_dimensions_m": [
+      0.34925,
+      0.34925,
+      0.9398
+    ],
+    "mean_weight_kg": 9.480080533,
+    "volume_m3": 0.11463263363750001,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13.75\"D x 13.75\"W x 37\"H",
+    "raw_weight": "20.9 pounds",
+    "source_row": 139,
+    "source_url": "https://www.amazon.com/dp/B0BG7MX77T",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C48X7JQB",
+    "name": "Nalupatio Storage Ottoman, Bedroom End Bench\uff0cUpholstered Fabric Storage Ottoman with Safety Hinge, Entryway Padded Footstool, Ottoman Bench for Living Room & Bedroom(Light Green)",
+    "mean_dimensions_m": [
+      0.8000999999999999,
+      0.4191,
+      0.35052
+    ],
+    "mean_weight_kg": 7.665711053,
+    "volume_m3": 0.11753703589319998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "31.5\"D x 16.5\"W x 13.8\"H",
+    "raw_weight": "16.9 pounds",
+    "source_row": 140,
+    "source_url": "https://www.amazon.com/dp/B0C48X7JQB",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0961N94SZ",
+    "name": "Armen Living Julius 30\" Cream Faux Leather and Walnut Wood Bar Stool",
+    "mean_dimensions_m": [
+      0.4826,
+      0.4572,
+      1.0413999999999999
+    ],
+    "mean_weight_kg": 7.25747792,
+    "volume_m3": 0.22977941140799996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19\"D x 18\"W x 41\"H",
+    "raw_weight": "16 pounds",
+    "source_row": 142,
+    "source_url": "https://www.amazon.com/dp/B0961N94SZ",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CH34CCLV",
+    "name": "Cpintltr Velvet Foot Rest Stool Multipurpose Dressing Stools Upholstered Round Storage Ottoman Modern Soft Vanity Chair with Memory Foam Seat Dusty Pink",
+    "mean_dimensions_m": [
+      0.3302,
+      0.3302,
+      0.43179999999999996
+    ],
+    "mean_weight_kg": 4.427061531200001,
+    "volume_m3": 0.04708003487199999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13\"D x 13\"W x 17\"H",
+    "raw_weight": "9.76 pounds",
+    "source_row": 144,
+    "source_url": "https://www.amazon.com/dp/B0CH34CCLV",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C4DWRF3M",
+    "name": "uxcell Shredded Memory Foam Filling, 10 Pounds Bean Bag Filler Foam for Bean Bag Chairs, Cushions, Sofas, Pillows and More - Multi Color",
+    "mean_dimensions_m": [
+      0.45796200000000004,
+      0.351028,
+      0.183896
+    ],
+    "mean_weight_kg": 4.712824724300001,
+    "volume_m3": 0.029562658449790658,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18.03 x 13.82 x 7.24 inches",
+    "raw_weight": "10.39 pounds",
+    "source_row": 145,
+    "source_url": "https://www.amazon.com/dp/B0C4DWRF3M",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CBBMQPVC",
+    "name": "FAMSINGO Ergonomic Mesh Office Chair, High Back Comfortable Desk Chair with Adjustable Lumbar Support, Headrest and Flip-up arms, Wide Memory Foam Seat, Executive Swivel Chair(Black)",
+    "mean_dimensions_m": [
+      0.5841999999999999,
+      0.7239,
+      1.30048
+    ],
+    "mean_weight_kg": 15.875732950000002,
+    "volume_m3": 0.5499760871424,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "23\"D x 28.5\"W x 51.2\"H",
+    "raw_weight": "35 pounds",
+    "source_row": 146,
+    "source_url": "https://www.amazon.com/dp/B0CBBMQPVC",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07667648L",
+    "name": "Serta Style Hannah II Office Chair, Harvard Pink Microfiber",
+    "mean_dimensions_m": [
+      0.7365999999999999,
+      0.6476999999999999,
+      1.18745
+    ],
+    "mean_weight_kg": 17.327228534000003,
+    "volume_m3": 0.5665274314589999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "29\"D x 25.5\"W x 46.75\"H",
+    "raw_weight": "38.2 pounds",
+    "source_row": 147,
+    "source_url": "https://www.amazon.com/dp/B07667648L",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08QRF4TTL",
+    "name": "AnRui\u00a0Folding Floor Chair with Adjustable Back Support, Comfortable, Semi-Foldable, and Versatile, for Meditation, Seminars, Reading, TV Watching or Gaming, Suitable for Home Or Office",
+    "mean_dimensions_m": [
+      0.8255,
+      0.4064,
+      0.07619999999999999
+    ],
+    "mean_weight_kg": 2.0819889783,
+    "volume_m3": 0.025563819839999995,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "32.5 x 16 x 3 inches",
+    "raw_weight": "4.59 pounds",
+    "source_row": 150,
+    "source_url": "https://www.amazon.com/dp/B08QRF4TTL",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CNVJ24YF",
+    "name": "fengxiaomin-Plastic Bed Slat End Caps Holders Plastic End Caps Holders Plastic Black End Caps Holders Suitable for Single, Double, King and Queen beds (55mm*9mm Black) -12pcs",
+    "mean_dimensions_m": [
+      0.199898,
+      0.139954,
+      0.026924
+    ],
+    "mean_weight_kg": 0.0680388555,
+    "volume_m3": 0.0007532399508074079,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "7.87 x 5.51 x 1.06 inches",
+    "raw_weight": "2.4 ounces",
+    "source_row": 152,
+    "source_url": "https://www.amazon.com/dp/B0CNVJ24YF",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BZKMYST2",
+    "name": "MoNiBloom Massage Gaming Recliner Chair with Speakers PU Leather Home Theater Seating Single Bedroom Video Game Sofa Recliners Ergonomic Gaming Couch with Detachable Neck Support and Footrest, Green",
+    "mean_dimensions_m": [
+      0.5841999999999999,
+      0.8128,
+      1.0922
+    ],
+    "mean_weight_kg": 22.997133159000004,
+    "volume_m3": 0.518617801472,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "23\"D x 32\"W x 43\"H",
+    "raw_weight": "50.7 pounds",
+    "source_row": 153,
+    "source_url": "https://www.amazon.com/dp/B0BZKMYST2",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CN1LGXNP",
+    "name": "Home Source 40.7' Elegance Bar Server and Wine Glass Cabinet, 12-Bottle Wine Rack, Rollers for Mobility, and Interior Drawer (Walnut)",
+    "mean_dimensions_m": [
+      0.47497999999999996,
+      0.8000999999999999,
+      1.03378
+    ],
+    "mean_weight_kg": 33.1303867048,
+    "volume_m3": 0.39286896200243987,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18.7\"D x 31.5\"W x 40.7\"H",
+    "raw_weight": "73.04 Pounds",
+    "source_row": 156,
+    "source_url": "https://www.amazon.com/dp/B0CN1LGXNP",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CMTHD198",
+    "name": "Shintenchi 60\" Small Loveseat, 3 in 1 Cute Convertible Sofa Bed, Modern Futon Recliner Sleeper w/2 Cup Holder, Upholstered Folding Couch for Small Space, Dark Gray",
+    "mean_dimensions_m": [
+      0.7365999999999999,
+      1.5087599999999999,
+      0.8000999999999999
+    ],
+    "mean_weight_kg": 32.250417507,
+    "volume_m3": 0.8891932280615997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "29\"D x 59.4\"W x 31.5\"H",
+    "raw_weight": "71.1 Pounds",
+    "source_row": 157,
+    "source_url": "https://www.amazon.com/dp/B0CMTHD198",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CN44TTFJ",
+    "name": "King Mattresses Bag for Moving Storage Protector, Waterproof Reusable Mattress Cover with Heavy Duty 8 Handles Water Resistant Zipper Closure and 2 Adjustable Straps, Bright Blue",
+    "mean_dimensions_m": [
+      2.0827999999999998,
+      2.0065999999999997,
+      0.381
+    ],
+    "mean_weight_kg": 1.3607771100000001,
+    "volume_m3": 1.5923310088799996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "82 x 79 x 15 inches",
+    "raw_weight": "3 pounds",
+    "source_row": 158,
+    "source_url": "https://www.amazon.com/dp/B0CN44TTFJ",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BSKY28M7",
+    "name": "Hzuaneri Blanket Ladder Shelf for Living Room, Decorative Wood Quilt Rack with 4 Removable Hooks, 5-Tier Farmhouse Ladder Holder Organizer for Bedroom, Rustic Brown 02101BBR",
+    "mean_dimensions_m": [
+      0.50292,
+      0.09144,
+      1.5748
+    ],
+    "mean_weight_kg": 5.488467677,
+    "volume_m3": 0.07242033515904,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19.8\"D x 3.6\"W x 62\"H",
+    "raw_weight": "12.1 Pounds",
+    "source_row": 161,
+    "source_url": "https://www.amazon.com/dp/B0BSKY28M7",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07D6TS5MR",
+    "name": "Convenience Concepts French Country Desk, Driftwood / White",
+    "mean_dimensions_m": [
+      0.5588,
+      0.9144,
+      0.7746999999999999
+    ],
+    "mean_weight_kg": 15.875732950000002,
+    "volume_m3": 0.395845917984,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "22\"D x 36\"W x 30.5\"H",
+    "raw_weight": "35 Pounds",
+    "source_row": 164,
+    "source_url": "https://www.amazon.com/dp/B07D6TS5MR",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BVYQTMNX",
+    "name": "FurnitureR 27''H Round Drawer 2 Tiers Endtable Nightstand Shelf for Living Room Bedroom Balcony, Easy Assembly end Sofa Side Table with Storage, Green and Brown",
+    "mean_dimensions_m": [
+      0.508,
+      0.508,
+      0.6858
+    ],
+    "mean_weight_kg": 9.071847400000001,
+    "volume_m3": 0.1769802912,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "20\"D x 20\"W x 27\"H",
+    "raw_weight": "20 Pounds",
+    "source_row": 165,
+    "source_url": "https://www.amazon.com/dp/B0BVYQTMNX",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B00EAY2HTY",
+    "name": "Flash Furniture Contemporary Red Vinyl Rounded Orbit-Style Back Adjustable Height Barstool with Chrome Base",
+    "mean_dimensions_m": [
+      1.03505,
+      0.5461,
+      0.5461
+    ],
+    "mean_weight_kg": 8.164662660000001,
+    "volume_m3": 0.3086780036105001,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "40.75\"D x 21.5\"W x 21.5\"H",
+    "raw_weight": "18 pounds",
+    "source_row": 166,
+    "source_url": "https://www.amazon.com/dp/B00EAY2HTY",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B073GLR1DG",
+    "name": "Christopher Knight Home Adelina Fabric Occaisional Chair, Light Lavendar",
+    "mean_dimensions_m": [
+      0.7239,
+      0.7111999999999999,
+      0.8000999999999999
+    ],
+    "mean_weight_kg": 12.065557042000002,
+    "volume_m3": 0.41192162776799995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "28.5\"D x 28\"W x 31.5\"H",
+    "raw_weight": "26.6 pounds",
+    "source_row": 168,
+    "source_url": "https://www.amazon.com/dp/B073GLR1DG",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B092HVNQQ4",
+    "name": "ODK Small Computer Desk, 27.5 inch Desk for Small Spaces with Storage, Compact Table with Monitor & Storage Shelves for Home Office, Modern Style Laptop Desk, Pure White",
+    "mean_dimensions_m": [
+      0.48005999999999993,
+      0.6985,
+      0.8128
+    ],
+    "mean_weight_kg": 0.45359237,
+    "volume_m3": 0.27254964844799995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18.9\"D x 27.5\"W x 32\"H",
+    "raw_weight": "1 Pounds",
+    "source_row": 169,
+    "source_url": "https://www.amazon.com/dp/B092HVNQQ4",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CPLSTFW5",
+    "name": "Asense Small Footstool Ottoman Set of 2, Faux Leather Upholstered Rectangular Footrest with Plastic Legs, Celadon",
+    "mean_dimensions_m": [
+      0.24892,
+      0.35052,
+      0.23113999999999998
+    ],
+    "mean_weight_kg": 1.678291769,
+    "volume_m3": 0.020167297471776,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "9.8\"D x 13.8\"W x 9.1\"H",
+    "raw_weight": "3.7 pounds",
+    "source_row": 174,
+    "source_url": "https://www.amazon.com/dp/B0CPLSTFW5",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B099VZPTWT",
+    "name": "PINGEUI 2 Packs 13 Inches Bamboo Step Stool, Non-Slip Bamboo Small Seat Stool, Durable Bamboo Footrest Bench with Storage Shelf for Bathroom, Bedroom, Kitchen",
+    "mean_dimensions_m": [
+      0.23876,
+      0.3175,
+      0.33782
+    ],
+    "mean_weight_kg": 2.8984552443,
+    "volume_m3": 0.025608884266,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "9.4\"D x 12.5\"W x 13.3\"H",
+    "raw_weight": "6.39 pounds",
+    "source_row": 175,
+    "source_url": "https://www.amazon.com/dp/B099VZPTWT",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0183K9SMO",
+    "name": "Poundex Y1553 Two Piece PU Round Shape Barstool Set, Black Adjustable Bar Stool",
+    "mean_dimensions_m": [
+      0.4572,
+      0.508,
+      0.9652
+    ],
+    "mean_weight_kg": 8.164662660000001,
+    "volume_m3": 0.22417503551999998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18\"D x 20\"W x 38\"H",
+    "raw_weight": "18 pounds",
+    "source_row": 176,
+    "source_url": "https://www.amazon.com/dp/B0183K9SMO",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C99SY5W2",
+    "name": "SP-AU-Era Mirror cabinet storage box, cosmetics, lipstick storage rack, bathroom desktop organization box, storage box (blackish green)",
+    "mean_dimensions_m": [
+      0.179832,
+      0.099822,
+      0.124968
+    ],
+    "mean_weight_kg": 0.2182913280625,
+    "volume_m3": 0.0022433242999230717,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "7.08 x 3.93 x 4.92 inches",
+    "raw_weight": "7.7 ounces",
+    "source_row": 177,
+    "source_url": "https://www.amazon.com/dp/B0C99SY5W2",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BB9RZ19N",
+    "name": "Kavonty Storage Chest, Storage Bench, Retro Toy Box Organizer with U-Shaped Cut-Out Pull, 29.5\" L\u00d715.7\" W\u00d7 17.7\u201dH, Entryway Storage Bench with 2 Hinges,Supports 300 lb, Easy Assembly, Rustic Brown",
+    "mean_dimensions_m": [
+      0.40132,
+      0.7493,
+      0.44958
+    ],
+    "mean_weight_kg": 13.018101019,
+    "volume_m3": 0.13519278638808,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15.8\"D x 29.5\"W x 17.7\"H",
+    "raw_weight": "28.7 pounds",
+    "source_row": 178,
+    "source_url": "https://www.amazon.com/dp/B0BB9RZ19N",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C2C9S1R6",
+    "name": "ACCHAR Ergonomic Office Chair, Reclining Mesh Chair, Computer Desk Chair, Swivel Rolling Home Task Chair with Padded Armrests, Adjustable Lumbar Support and Headrest (White)",
+    "mean_dimensions_m": [
+      0.6476999999999999,
+      0.6476999999999999,
+      1.0413999999999999
+    ],
+    "mean_weight_kg": 16.510762268,
+    "volume_m3": 0.43688322300599985,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "25.5\"D x 25.5\"W x 41\"H",
+    "raw_weight": "36.4 pounds",
+    "source_row": 182,
+    "source_url": "https://www.amazon.com/dp/B0C2C9S1R6",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08CB925CT",
+    "name": "ODK Small Computer Desk, 27.5 Inch, Compact Tiny Study Desk with Storage and Monitor Stand for Home Office, Small Spaces, Black",
+    "mean_dimensions_m": [
+      0.59944,
+      0.6985,
+      0.8128
+    ],
+    "mean_weight_kg": 7.71107029,
+    "volume_m3": 0.34032654515199995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "23.6\"D x 27.5\"W x 32\"H",
+    "raw_weight": "17 Pounds",
+    "source_row": 183,
+    "source_url": "https://www.amazon.com/dp/B08CB925CT",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BF8KWBR2",
+    "name": "WEENFON Storage Cabinet with Doors and Shelves, Floor Storage Cabinet with Drawer, Accent Cabinet for Living Room, Hallway, Kitchen, Gray",
+    "mean_dimensions_m": [
+      0.29972,
+      0.7493,
+      0.80264
+    ],
+    "mean_weight_kg": 16.964354638,
+    "volume_m3": 0.18025704851743998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "11.8\"D x 29.5\"W x 31.6\"H",
+    "raw_weight": "37.4 Pounds",
+    "source_row": 186,
+    "source_url": "https://www.amazon.com/dp/B0BF8KWBR2",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BRFX55TJ",
+    "name": "SOOWERY End Tables with Charging Station, Set of 2 Side Tables with USB Ports and Outlets, Nightstands with Storage Shelf for Living Room, Bedroom, Brown",
+    "mean_dimensions_m": [
+      0.29972,
+      0.40132,
+      0.55372
+    ],
+    "mean_weight_kg": 6.985322498,
+    "volume_m3": 0.06660345182508799,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "11.8\"D x 15.8\"W x 21.8\"H",
+    "raw_weight": "15.4 Pounds",
+    "source_row": 187,
+    "source_url": "https://www.amazon.com/dp/B0BRFX55TJ",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CJR8KM2D",
+    "name": "Bednowitz Twin Box Spring\uff0c5 Inch Low Profile Metal Boxspring with Non-Slip Fabric Bed Cover, Sturdy Heavy Duty Steel Structure Bed Base, Noise-Free Mattress Foundation, Easy Assembly\uff0cBlack",
+    "mean_dimensions_m": [
+      1.905,
+      0.9652,
+      0.127
+    ],
+    "mean_weight_kg": 8.8813386046,
+    "volume_m3": 0.23351566199999998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "75 x 38 x 5 inches",
+    "raw_weight": "19.58 pounds",
+    "source_row": 188,
+    "source_url": "https://www.amazon.com/dp/B0CJR8KM2D",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BJZPV117",
+    "name": "BOKKOLIK Industrial Bar Stools (Set of 2) Counter Height Adjustable 24-27.5inch Vintage Kitchen Island Stool Farmhouse Office Guest Chair Swivel Wooden Seat",
+    "mean_dimensions_m": [
+      0.3429,
+      0.3429,
+      0.7111999999999999
+    ],
+    "mean_weight_kg": 13.970644996,
+    "volume_m3": 0.08362318759199998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13.5\"D x 13.5\"W x 28\"H",
+    "raw_weight": "30.8 pounds",
+    "source_row": 189,
+    "source_url": "https://www.amazon.com/dp/B0BJZPV117",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B31G7LBC",
+    "name": "HOOBRO Over The Toilet Storage Cabinet, Mass-Storage Over Toilet Bathroom Organizer with Louver Door, X-Shaped Metal Frame, Space-Saving Toilet Rack, Easy Assembly, Rustic Brown BF431TS01",
+    "mean_dimensions_m": [
+      0.23876,
+      0.59944,
+      1.66878
+    ],
+    "mean_weight_kg": 14.2,
+    "volume_m3": 0.23883962244883197,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "9.4\"D x 23.6\"W x 65.7\"H",
+    "raw_weight": "14.2 Kilograms",
+    "source_row": 190,
+    "source_url": "https://www.amazon.com/dp/B0B31G7LBC",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B97PJ94P",
+    "name": "Hanover Swivel Counter Height Bar Stool, White and Gray",
+    "mean_dimensions_m": [
+      0.5588,
+      0.508,
+      0.9398
+    ],
+    "mean_weight_kg": 11.203731539,
+    "volume_m3": 0.26678140191999994,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "22\"D x 20\"W x 37\"H",
+    "raw_weight": "24.7 pounds",
+    "source_row": 191,
+    "source_url": "https://www.amazon.com/dp/B0B97PJ94P",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09MS5RJTT",
+    "name": "VECELO Modern Industrial Style 3-Piece Dining Room Kitchen Table and Pu Cushion Chair Sets for Small Space, 2, Retro Brown",
+    "mean_dimensions_m": [
+      0.7365999999999999,
+      0.7365999999999999,
+      0.762
+    ],
+    "mean_weight_kg": 17.23651006,
+    "volume_m3": 0.4134456247199999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "29 x 29 x 30 inches",
+    "raw_weight": "38 pounds",
+    "source_row": 192,
+    "source_url": "https://www.amazon.com/dp/B09MS5RJTT",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BZCMCJDY",
+    "name": "Tenkovic Metal Coat Rack Stand with Quartz Base, Coat Rack Freestanding with 8 Wooden Hooks, Easy to Assemble and Sturdy, Coat Rack Bionic Hall Tree for Home Entry-way Hat Hanger Organizer (Gold)",
+    "mean_dimensions_m": [
+      0.340106,
+      0.340106,
+      1.778
+    ],
+    "mean_weight_kg": 6.3593650274,
+    "volume_m3": 0.20566497821760804,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13.39\"D x 13.39\"W x 70\"H",
+    "raw_weight": "14.02 pounds",
+    "source_row": 193,
+    "source_url": "https://www.amazon.com/dp/B0BZCMCJDY",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CP7YFXD2",
+    "name": "FANYE Oversized 6 Seaters Modular Storage Sectional Sofa Couch for Home Apartment Office Living Room,Free Combination L/U Shaped Corduroy Upholstered Deep Seat Furniture Convertible Sleeper Sofabed",
+    "mean_dimensions_m": [
+      1.44018,
+      2.8600399999999997,
+      0.9398
+    ],
+    "mean_weight_kg": 16.601480742000003,
+    "volume_m3": 3.8710102682865593,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "56.7\"D x 112.6\"W x 37\"H",
+    "raw_weight": "36.6 Pounds",
+    "source_row": 194,
+    "source_url": "https://www.amazon.com/dp/B0CP7YFXD2",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BY23W1J9",
+    "name": "HOMSHO 2-Tier Storage Bench,Shoe Bench with Padded Seat Cushion, Entryway Bench with 2 Barn Doors,Adjustable Shelf, 27.6\" L x 13.8\" W x 17.7\" H, for Entryway, Living Room, Bedroom,White",
+    "mean_dimensions_m": [
+      0.34797999999999996,
+      0.6985,
+      0.44958
+    ],
+    "mean_weight_kg": 12.70058636,
+    "volume_m3": 0.10927672660739998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13.7\"D x 27.5\"W x 17.7\"H",
+    "raw_weight": "28 pounds",
+    "source_row": 195,
+    "source_url": "https://www.amazon.com/dp/B0BY23W1J9",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CCCS3RB9",
+    "name": "Realhotan 18 Inch Twin Bed Frame 3500 Pounds Heavy Duty Non-Slip Metal Slats Platform Mattress Foundation, No Box Spring Needed,Easy Assembly,Noise-Free,Black",
+    "mean_dimensions_m": [
+      1.8922999999999999,
+      0.9525,
+      0.4572
+    ],
+    "mean_weight_kg": 11.33980925,
+    "volume_m3": 0.8240644809,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "74.5\"L x 37.5\"W x 18\"H",
+    "raw_weight": "25 pounds",
+    "source_row": 196,
+    "source_url": "https://www.amazon.com/dp/B0CCCS3RB9",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B00D93AT24",
+    "name": "Roundhill Furniture Swivel Black Bonded Leather Adjustable Hydraulic Bar Stool, Set of 2",
+    "mean_dimensions_m": [
+      0.43179999999999996,
+      0.43179999999999996,
+      1.1176
+    ],
+    "mean_weight_kg": 16.329325320000002,
+    "volume_m3": 0.20837790582399995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "17\"D x 17\"W x 44\"H",
+    "raw_weight": "36 pounds",
+    "source_row": 200,
+    "source_url": "https://www.amazon.com/dp/B00D93AT24",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BZ3RYRNY",
+    "name": "PINPLUS Storage Ottoman Bench, Linen Coffee Table Ottoman with Tray, Large Storage Bench with Wooden Legs, Toy Chest Foot Stools, Ottomans with Storage for Living Room Bedroom, White, 30\" x 15\" x 15\"",
+    "mean_dimensions_m": [
+      0.381,
+      0.762,
+      0.381
+    ],
+    "mean_weight_kg": 6.80388555,
+    "volume_m3": 0.11061268200000002,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15\"D x 30\"W x 15\"H",
+    "raw_weight": "15 pounds",
+    "source_row": 201,
+    "source_url": "https://www.amazon.com/dp/B0BZ3RYRNY",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C38VPJ15",
+    "name": "PONTMENT Foot Stool Leather Footstool Solid Wood Vintage Foot Rest Faux Leather Ottoman Upholstered Footrest for Living Room/Sofa/Couch.",
+    "mean_dimensions_m": [
+      0.3302,
+      0.40004999999999996,
+      0.3302
+    ],
+    "mean_weight_kg": 3.084428116,
+    "volume_m3": 0.04361826760199999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13 x 15.75 x 13 inches",
+    "raw_weight": "6.8 pounds",
+    "source_row": 203,
+    "source_url": "https://www.amazon.com/dp/B0C38VPJ15",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CCRXWDF1",
+    "name": "Lazy Chair with Ottoman, Modern Lounge Accent Chair with Footrest, Pillow and Blanket, Leisure Sofa Chair Reading Chair with Armrests and Side Pocket for Living Room, Bedroom & Small Space, Grey",
+    "mean_dimensions_m": [
+      0.6985,
+      0.71882,
+      0.9499599999999999
+    ],
+    "mean_weight_kg": 8.2780607525,
+    "volume_m3": 0.47697089766920003,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "27.5\"D x 28.3\"W x 37.4\"H",
+    "raw_weight": "18.25 pounds",
+    "source_row": 205,
+    "source_url": "https://www.amazon.com/dp/B0CCRXWDF1",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B005FFA3LQ",
+    "name": "Christopher Knight Home Gentry Bonded Leather Dining Chairs, 2-Pcs Set, Black",
+    "mean_dimensions_m": [
+      0.57785,
+      0.43815,
+      0.9017
+    ],
+    "mean_weight_kg": 14.242800418,
+    "volume_m3": 0.22829689421174995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "22.75\"D x 17.25\"W x 35.5\"H",
+    "raw_weight": "31.4 pounds",
+    "source_row": 208,
+    "source_url": "https://www.amazon.com/dp/B005FFA3LQ",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09CGPQT1L",
+    "name": "BokWin 4 Sets No Mortise Bed Rail Fittings Wooden Bed Frame Connectors Metal Bed Rail Fasteners",
+    "mean_dimensions_m": [
+      0.14401799999999998,
+      0.08889999999999999,
+      0.022098
+    ],
+    "mean_weight_kg": 0.198446661875,
+    "volume_m3": 0.0002829251180195999,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "5.67 x 3.5 x 0.87 inches",
+    "raw_weight": "7 ounces",
+    "source_row": 209,
+    "source_url": "https://www.amazon.com/dp/B09CGPQT1L",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B51LYB8T",
+    "name": "Simple Deluxe Gaming Chair, Big and Tall Gamer Chair, Racing Style Adjustable Swivel Office Chair, Ergonomic Video Game Chairs with Headrest and Lumbar Support",
+    "mean_dimensions_m": [
+      0.5334,
+      0.4699,
+      1.016
+    ],
+    "mean_weight_kg": 14.968548210000002,
+    "volume_m3": 0.25465497455999997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "21\"D x 18.5\"W x 40\"H",
+    "raw_weight": "33 pounds",
+    "source_row": 210,
+    "source_url": "https://www.amazon.com/dp/B0B51LYB8T",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CJHT9KH6",
+    "name": "ChooChoo Farmhouse End Table, Modern End Table with Storage Shelf, X-Design Side Table Living Room (White and Brown)",
+    "mean_dimensions_m": [
+      0.4064,
+      0.5588,
+      0.508
+    ],
+    "mean_weight_kg": 10.43262451,
+    "volume_m3": 0.11536493055999998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "16\"D x 22\"W x 20\"H",
+    "raw_weight": "23 Pounds",
+    "source_row": 212,
+    "source_url": "https://www.amazon.com/dp/B0CJHT9KH6",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07RY46G23",
+    "name": "ZIYOO Twin Bed Frame 14 Inch High 3 Inches Wide Wood Slats with 2500 Pounds Support, No Box Spring Needed for Foam Mattress,Underbed Storage Space, Easy Assembly, Noise Free",
+    "mean_dimensions_m": [
+      1.905,
+      0.9905999999999999,
+      0.35559999999999997
+    ],
+    "mean_weight_kg": 16.102529135,
+    "volume_m3": 0.6710502707999999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "75\"L x 39\"W x 14\"H",
+    "raw_weight": "35.5 pounds",
+    "source_row": 213,
+    "source_url": "https://www.amazon.com/dp/B07RY46G23",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CB7SM7MM",
+    "name": "MoNiBloom Set of 2 Plastic Barstools with PU Cushion, Height Adjustable White Bar Stools with High Backrest and 360\u00b0 Swivel, Modern Counter Height Barstool for Kitchen Dining Room and Pub",
+    "mean_dimensions_m": [
+      0.43179999999999996,
+      0.4826,
+      1.1938
+    ],
+    "mean_weight_kg": 12.201634753,
+    "volume_m3": 0.24877201858399994,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "17\"D x 19\"W x 47\"H",
+    "raw_weight": "26.9 pounds",
+    "source_row": 214,
+    "source_url": "https://www.amazon.com/dp/B0CB7SM7MM",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08ZHPDZX5",
+    "name": "KingCamp Stable Folding Camping Table Bamboo Outdoor Folding Tables Adjustable Height Portable Picnic",
+    "mean_dimensions_m": [
+      0.70104,
+      1.19888,
+      0.700024
+    ],
+    "mean_weight_kg": 4.535923700000001,
+    "volume_m3": 0.5883441557480448,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "27.6\"D x 47.2\"W x 27.56\"H",
+    "raw_weight": "10 Pounds",
+    "source_row": 215,
+    "source_url": "https://www.amazon.com/dp/B08ZHPDZX5",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B00JVZEZE2",
+    "name": "Artistic Weavers Berma Knitted Jute Round Pouf 14\"H x 20\"W x 20\"D, Slate",
+    "mean_dimensions_m": [
+      0.508,
+      0.508,
+      0.35559999999999997
+    ],
+    "mean_weight_kg": 3.401942775,
+    "volume_m3": 0.0917675584,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "20\"D x 20\"W x 14\"H",
+    "raw_weight": "7.5 pounds",
+    "source_row": 216,
+    "source_url": "https://www.amazon.com/dp/B00JVZEZE2",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07WK22XDX",
+    "name": "Henn&Hart 20\" Wide Round Side Table with Mirror Shelf in Antique Brass, Table for Living Room, Bedroom",
+    "mean_dimensions_m": [
+      0.49860199999999993,
+      0.49860199999999993,
+      0.6002019999999999
+    ],
+    "mean_weight_kg": 8.210021897,
+    "volume_m3": 0.14921259064118955,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19.63\"D x 19.63\"W x 23.63\"H",
+    "raw_weight": "18.1 Pounds",
+    "source_row": 219,
+    "source_url": "https://www.amazon.com/dp/B07WK22XDX",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CGZW945K",
+    "name": "klotski Kids Table and 2 Chair Set, Wood Activity Toddler Table and Chair Set with Storage, Children Table with Non-Slip Legs/Round Edge Design for Activity/Play/Art/Read/Craft",
+    "mean_dimensions_m": [
+      0.8509,
+      0.5841999999999999,
+      0.127
+    ],
+    "mean_weight_kg": 15.149985158,
+    "volume_m3": 0.06313116406,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "33.5 x 23 x 5 inches",
+    "raw_weight": "33.4 pounds",
+    "source_row": 220,
+    "source_url": "https://www.amazon.com/dp/B0CGZW945K",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BWXB7C1B",
+    "name": "Gexpusm Wood Coffee Table, Natural Wood Coffee Table, Solid Wood Center Large Coffee Table for Living Room (Octagonal Coffee Table)",
+    "mean_dimensions_m": [
+      0.8000999999999999,
+      0.8000999999999999,
+      0.43002199999999996
+    ],
+    "mean_weight_kg": 11.0495101332,
+    "volume_m3": 0.2752828878202199,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "31.5\"D x 31.5\"W x 16.93\"H",
+    "raw_weight": "24.36 Pounds",
+    "source_row": 224,
+    "source_url": "https://www.amazon.com/dp/B0BWXB7C1B",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BLP4W97Y",
+    "name": "Karl home Accent Chair Mid-Century Modern Chair with Pillow Upholstered Lounge Arm Chair with Solid Wood Frame & Soft Cushion for Living Room, Bedroom, Belcony, Beige",
+    "mean_dimensions_m": [
+      0.8204199999999999,
+      0.65024,
+      0.7493
+    ],
+    "mean_weight_kg": 0.45359237,
+    "volume_m3": 0.39972899666944,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "32.3\"D x 25.6\"W x 29.5\"H",
+    "raw_weight": "1 pounds",
+    "source_row": 225,
+    "source_url": "https://www.amazon.com/dp/B0BLP4W97Y",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B078YDGBM8",
+    "name": "L.R. Resources Corcovado Metallic Braided Pouf Ottoman, 14\" x 20\", Grey/White",
+    "mean_dimensions_m": [
+      0.508,
+      0.508,
+      0.4064
+    ],
+    "mean_weight_kg": 2.2679618500000003,
+    "volume_m3": 0.10487720960000001,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "20\"D x 20\"W x 16\"H",
+    "raw_weight": "5 pounds",
+    "source_row": 227,
+    "source_url": "https://www.amazon.com/dp/B078YDGBM8",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09M8M4P9L",
+    "name": "GREENSTELL Coat Rack, Wooden Coat Rack Freestanding with Shelf, Coat Tree with 4 Height Options 50.5\"-72.6\" for Clothes/Bag/Hats, Hanger Stand for Entryway/Living Room/Bedroom/Office, Black",
+    "mean_dimensions_m": [
+      0.329946,
+      0.329946,
+      1.845056
+    ],
+    "mean_weight_kg": 2.9982455657000004,
+    "volume_m3": 0.20086084598434334,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "12.99\"D x 12.99\"W x 72.64\"H",
+    "raw_weight": "6.61 Pounds",
+    "source_row": 228,
+    "source_url": "https://www.amazon.com/dp/B09M8M4P9L",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C6K8LMG8",
+    "name": "Nightstand with Charging Station and LED Light, Side End Table with Glass Door, Modern Bedside Table for Bedroom, Living Room",
+    "mean_dimensions_m": [
+      0.379984,
+      0.270002,
+      0.599948
+    ],
+    "mean_weight_kg": 5.8014464123,
+    "volume_m3": 0.06155252896592167,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "14.96\"D x 10.63\"W x 23.62\"H",
+    "raw_weight": "12.79 Pounds",
+    "source_row": 230,
+    "source_url": "https://www.amazon.com/dp/B0C6K8LMG8",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B01FL46UD0",
+    "name": "GIA Toolix Backless Stool with Metal Seat, Gunmetal, 4-Pack",
+    "mean_dimensions_m": [
+      0.4064,
+      0.4064,
+      0.6095999999999999
+    ],
+    "mean_weight_kg": 16.374684557000002,
+    "volume_m3": 0.10068212121599998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "16\"D x 16\"W x 24\"H",
+    "raw_weight": "36.1 pounds",
+    "source_row": 232,
+    "source_url": "https://www.amazon.com/dp/B01FL46UD0",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08CR34X1X",
+    "name": "It's_Organized Gaming Desk 55 inch PC Computer Desk, K-Frame Home Office Desk Professional Gamer Workstation with Cup Holder Headphone Hook Gaming Handle Rack Free Mousepad, Black",
+    "mean_dimensions_m": [
+      0.6095999999999999,
+      1.397,
+      0.762
+    ],
+    "mean_weight_kg": 15.875732950000002,
+    "volume_m3": 0.6489277344,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "24\"D x 55\"W x 30\"H",
+    "raw_weight": "35 Pounds",
+    "source_row": 233,
+    "source_url": "https://www.amazon.com/dp/B08CR34X1X",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07644FZVS",
+    "name": "Serta Executive Office Padded Arms, Adjustable Ergonomic Gaming Desk Chair with Lumbar Support, Faux Leather and Mesh, Black/Blue",
+    "mean_dimensions_m": [
+      0.7111999999999999,
+      0.6604,
+      1.1683999999999999
+    ],
+    "mean_weight_kg": 17.735461667000003,
+    "volume_m3": 0.5487699992319999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "28\"D x 26\"W x 46\"H",
+    "raw_weight": "39.1 pounds",
+    "source_row": 234,
+    "source_url": "https://www.amazon.com/dp/B07644FZVS",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CHMQC63H",
+    "name": "KoiHome Wooden Daybed with 2 Storage Drawers, Twin Size Platform Bed Frame, Daybed Twin for Kids Boy Girls Bedroom,Living Room, Office, No Box Spring Needed, Twin Size Day Beds Sofas in Espresso",
+    "mean_dimensions_m": [
+      1.9583399999999997,
+      1.03378,
+      0.58674
+    ],
+    "mean_weight_kg": 4.535923700000001,
+    "volume_m3": 1.187850861583848,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "77.1\"L x 40.7\"W x 23.1\"H",
+    "raw_weight": "10 pounds",
+    "source_row": 235,
+    "source_url": "https://www.amazon.com/dp/B0CHMQC63H",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C9FWFGRP",
+    "name": "Jennifer Taylor Home Jacob 18\" Storage Cube Ottoman, Tan Floral Jacquard",
+    "mean_dimensions_m": [
+      0.4826,
+      0.4826,
+      0.4572
+    ],
+    "mean_weight_kg": 4.9895160700000005,
+    "volume_m3": 0.10648314187199999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19\"D x 19\"W x 18\"H",
+    "raw_weight": "11 pounds",
+    "source_row": 238,
+    "source_url": "https://www.amazon.com/dp/B0C9FWFGRP",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BWY5RPD1",
+    "name": "C COMFORTLAND Unstuffed Faux Leather Ottoman Pouf, Round Foot Rest Poof Ottomans, Floor Foot Stool Poufs, Bean Bag Cover with Storage for Living Room, Bedroom, Grey (No Filler)",
+    "mean_dimensions_m": [
+      0.5798819999999999,
+      0.5798819999999999,
+      0.355092
+    ],
+    "mean_weight_kg": 0.5307030729,
+    "volume_m3": 0.11940434875134097,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "22.83\"D x 22.83\"W x 13.98\"H",
+    "raw_weight": "1.17 pounds",
+    "source_row": 239,
+    "source_url": "https://www.amazon.com/dp/B0BWY5RPD1",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CBDLJ32L",
+    "name": "ZZQXTC Over Toilet Storage Cabinet, Bathroom Storage Cabinet with Doors and Shelves, Wood Metal Bathroom Space Saver Above Toilet, White",
+    "mean_dimensions_m": [
+      0.29972,
+      0.62992,
+      1.6637
+    ],
+    "mean_weight_kg": 12.24699399,
+    "volume_m3": 0.31410593178688,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "11.8\"D x 24.8\"W x 65.5\"H",
+    "raw_weight": "27 Pounds",
+    "source_row": 240,
+    "source_url": "https://www.amazon.com/dp/B0CBDLJ32L",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CG9CDKQ7",
+    "name": "40ft Upholstery Elastic Webbing,Two Inch (2\") Wide Stretch Latex Band for Furniture Sofa, Couch, Chair Repair Modification (5cm Green)",
+    "mean_dimensions_m": [
+      0.204978,
+      0.145034,
+      0.065024
+    ],
+    "mean_weight_kg": 0.4309127515,
+    "volume_m3": 0.0019330841420820478,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "8.07 x 5.71 x 2.56 inches",
+    "raw_weight": "15.2 ounces",
+    "source_row": 241,
+    "source_url": "https://www.amazon.com/dp/B0CG9CDKQ7",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09VBPNY7P",
+    "name": "RRG Coat Rack Stand, Metal Coat Tree with Heavy Base 8 Welded Hooks Coat Stand for Entryway, Hall, Bedroom, Corner, Office 67\u201d (Gold)",
+    "mean_dimensions_m": [
+      0.3175,
+      0.3175,
+      1.7018
+    ],
+    "mean_weight_kg": 4.5586033185,
+    "volume_m3": 0.17155207625,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "12.5\"D x 12.5\"W x 67\"H",
+    "raw_weight": "10.05 Pounds",
+    "source_row": 243,
+    "source_url": "https://www.amazon.com/dp/B09VBPNY7P",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07B8VT4DC",
+    "name": "(100) 12\" Record Outer Sleeves - Outer Resealable Sleeves - Extreme HD Poly 3 Mil 12 3/4\" x 12 1/2\" | Record Rescue",
+    "mean_dimensions_m": [
+      0.3302,
+      0.0127,
+      0.36829999999999996
+    ],
+    "mean_weight_kg": 0.861825503,
+    "volume_m3": 0.001544480782,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13 x 0.5 x 14.5 inches",
+    "raw_weight": "1.9 pounds",
+    "source_row": 246,
+    "source_url": "https://www.amazon.com/dp/B07B8VT4DC",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09DS1VPFS",
+    "name": "Christopher Knight Home Munro Recliner, Navy Blue + Teak",
+    "mean_dimensions_m": [
+      0.9080499999999999,
+      0.6286499999999999,
+      0.9652
+    ],
+    "mean_weight_kg": 27.396979148,
+    "volume_m3": 0.5509802044889999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "35.75\"D x 24.75\"W x 38\"H",
+    "raw_weight": "60.4 pounds",
+    "source_row": 247,
+    "source_url": "https://www.amazon.com/dp/B09DS1VPFS",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CP732ZN8",
+    "name": "3-Tier Side Table,Narrow End Table with Storage Shelf,Minimalist Bedside Tables Nightstand,Small Bookshelf Bookcase for Spaces,Bathroom Shelve,Display Rack for Bedroom,Living Room,Office,Dorms,2 Pack",
+    "mean_dimensions_m": [
+      0.40132,
+      0.2413,
+      0.59944
+    ],
+    "mean_weight_kg": 0.90718474,
+    "volume_m3": 0.058048880031039994,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15.8\"D x 9.5\"W x 23.6\"H",
+    "raw_weight": "2 Pounds",
+    "source_row": 248,
+    "source_url": "https://www.amazon.com/dp/B0CP732ZN8",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C2GQK6ZD",
+    "name": "DBTHTSK Sofa Latch,Bed Replacement Parts,Heavy Duty Connector Bracket Interlocking Tapered Hardware Accessories Furniture Connector for Furniture, Sofa, Bed (2 Pairs)",
+    "mean_dimensions_m": [
+      0.12598399999999998,
+      0.09601199999999999,
+      0.019049999999999997
+    ],
+    "mean_weight_kg": 0.30617484975000003,
+    "volume_m3": 0.00023042833914239992,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "4.96 x 3.78 x 0.75 inches",
+    "raw_weight": "10.8 ounces",
+    "source_row": 249,
+    "source_url": "https://www.amazon.com/dp/B0C2GQK6ZD",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07T9M8Y88",
+    "name": "Boraam Sonoma Bench, Storm Gray Wire-Brush",
+    "mean_dimensions_m": [
+      0.2286,
+      0.8382,
+      0.61595
+    ],
+    "mean_weight_kg": 7.71107029,
+    "volume_m3": 0.11802373169399999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "9\"D x 33\"W x 24.25\"H",
+    "raw_weight": "17 pounds",
+    "source_row": 250,
+    "source_url": "https://www.amazon.com/dp/B07T9M8Y88",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C6SYFYZN",
+    "name": "GZsenwo (2 Pieces) 3-5/8\" Stainless Steel Replacement Recliner Sofa Mechanism Tension Spring - Long Neck Hook",
+    "mean_dimensions_m": [
+      0.09804399999999999,
+      0.032004,
+      0.032004
+    ],
+    "mean_weight_kg": 0.0498951607,
+    "volume_m3": 0.00010042215683270398,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "3.86 x 1.26 x 1.26 inches",
+    "raw_weight": "1.76 ounces",
+    "source_row": 253,
+    "source_url": "https://www.amazon.com/dp/B0C6SYFYZN",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BG6BJ3DL",
+    "name": "HomePop by Kinfine Fabric Upholstered Round Storage Ottoman - Velvet Button Tufted Ottoman with Removable Lid, Tan Woven",
+    "mean_dimensions_m": [
+      0.4826,
+      0.4826,
+      0.4572
+    ],
+    "mean_weight_kg": 6.486370891000001,
+    "volume_m3": 0.10648314187199999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19\"D x 19\"W x 18\"H",
+    "raw_weight": "14.3 pounds",
+    "source_row": 254,
+    "source_url": "https://www.amazon.com/dp/B0BG6BJ3DL",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CKJ4YZC9",
+    "name": "EFTILE HOME 2 Foot Stool Handmade Wooden 3 Legs Footrest for Living Room, Bedroom, Nursery, Patio,Hallway, Lounge, Decorative Furniture (16x14x14; Kiwi)",
+    "mean_dimensions_m": [
+      0.4064,
+      0.35559999999999997,
+      0.35559999999999997
+    ],
+    "mean_weight_kg": 5.996491131400001,
+    "volume_m3": 0.05138983270399999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "16\"D x 14\"W x 14\"H",
+    "raw_weight": "13.22 pounds",
+    "source_row": 255,
+    "source_url": "https://www.amazon.com/dp/B0CKJ4YZC9",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CKW44X29",
+    "name": "Soft Foot Stool Ottoman Footrest Vanity Stool with Storage Shelf, Velvet Multifunctional Modern Padded Shoe Changing Seat Step Stool Pouf for Makeup Room, Living Room, Bathroom, Metal Legs Black",
+    "mean_dimensions_m": [
+      0.3302,
+      0.4064,
+      0.4572
+    ],
+    "mean_weight_kg": 2.7215542200000002,
+    "volume_m3": 0.061353167616,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13\"D x 16\"W x 18\"H",
+    "raw_weight": "6 pounds",
+    "source_row": 256,
+    "source_url": "https://www.amazon.com/dp/B0CKW44X29",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CM1B86CJ",
+    "name": "GAOMON Black 4 Drawer Dresser for Bedroom, Wood Chest of Drawers with Metal Legs, Modern Storage Dresser Chest Cabinet Organizer, Large Dresser for Living Room, Hallway, Closet",
+    "mean_dimensions_m": [
+      0.39877999999999997,
+      0.59944,
+      0.7797799999999999
+    ],
+    "mean_weight_kg": 25.809405853,
+    "volume_m3": 0.18640226306569596,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15.7\"D x 23.6\"W x 30.7\"H",
+    "raw_weight": "56.9 pounds",
+    "source_row": 257,
+    "source_url": "https://www.amazon.com/dp/B0CM1B86CJ",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09DLBNY6W",
+    "name": "Seventable Nightstand with Charging Station and LED Lights, Modern Design End Side Table with 2 Drawers, Nightstand Open Compartment for Bedroom, Black",
+    "mean_dimensions_m": [
+      0.35052,
+      0.39877999999999997,
+      0.64008
+    ],
+    "mean_weight_kg": 4.9895160700000005,
+    "volume_m3": 0.08947061641324798,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13.8\"D x 15.7\"W x 25.2\"H",
+    "raw_weight": "11 Pounds",
+    "source_row": 259,
+    "source_url": "https://www.amazon.com/dp/B09DLBNY6W",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09Q1ZHQFR",
+    "name": "Mod Made Mid Century Modern Chrome Wire Counter Stool for Bar or Kitchen, Set of 2, Black",
+    "mean_dimensions_m": [
+      0.4826,
+      0.5334,
+      0.9905999999999999
+    ],
+    "mean_weight_kg": 6.80388555,
+    "volume_m3": 0.25499910290399996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19\"D x 21\"W x 39\"H",
+    "raw_weight": "15 pounds",
+    "source_row": 261,
+    "source_url": "https://www.amazon.com/dp/B09Q1ZHQFR",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C3TYNRJC",
+    "name": "Gnyonat Accent Chair with Ottoman,Living Room Chairs,Reading Chairs for Bedroom Comfy,Soft Fabric Reading Chair (Blue)",
+    "mean_dimensions_m": [
+      0.479806,
+      0.670052,
+      0.9799319999999999
+    ],
+    "mean_weight_kg": 13.834567285,
+    "volume_m3": 0.31504320885580595,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18.89\"D x 26.38\"W x 38.58\"H",
+    "raw_weight": "30.5 pounds",
+    "source_row": 263,
+    "source_url": "https://www.amazon.com/dp/B0C3TYNRJC",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0C32RWCV7",
+    "name": "DAYTOYS C Shaped End Table-Movable Sofa Table with Metal Frames-Height Adjustable Sofa Tables with Storage Basket for Living Room, Bedroom, Bedside (Black)",
+    "mean_dimensions_m": [
+      0.499872,
+      0.299974,
+      0.599948
+    ],
+    "mean_weight_kg": 4.499636310400001,
+    "volume_m3": 0.08996136466942695,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19.68\"D x 11.81\"W x 23.62\"H",
+    "raw_weight": "9.92 Pounds",
+    "source_row": 269,
+    "source_url": "https://www.amazon.com/dp/B0C32RWCV7",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B095HPZ7DD",
+    "name": "Phantoscope Storage Ottoman Round15 Inch, Velvet Folding Storage Boxes Footrest Foot Ottoman Toy Box, Padded Seat for Dorm Living Room Bedroom, Support 220lbs Coffee",
+    "mean_dimensions_m": [
+      0.381,
+      0.381,
+      0.381
+    ],
+    "mean_weight_kg": 1.9459112673,
+    "volume_m3": 0.05530634100000001,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15\"D x 15\"W x 15\"H",
+    "raw_weight": "4.29 pounds",
+    "source_row": 270,
+    "source_url": "https://www.amazon.com/dp/B095HPZ7DD",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B019C4PPTU",
+    "name": "Casual Home Night Owl Nightstand with USB Ports-Espresso",
+    "mean_dimensions_m": [
+      0.36195,
+      0.4445,
+      0.6223
+    ],
+    "mean_weight_kg": 6.200607697900001,
+    "volume_m3": 0.1001198400825,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "14.25\"D x 17.5\"W x 24.5\"H",
+    "raw_weight": "13.67 Pounds",
+    "source_row": 271,
+    "source_url": "https://www.amazon.com/dp/B019C4PPTU",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08PMH8F89",
+    "name": "Toy Storage Basket and Play Mat for Building Bricks - Collapsible Canvas Organizer Bag with Drawstring - For Kids",
+    "mean_dimensions_m": [
+      0.35559999999999997,
+      0.35559999999999997,
+      0.381
+    ],
+    "mean_weight_kg": 0.5896700810000001,
+    "volume_m3": 0.048177968159999994,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "14\"L x 14\"W x 15\"H",
+    "raw_weight": "1.3 Pounds",
+    "source_row": 273,
+    "source_url": "https://www.amazon.com/dp/B08PMH8F89",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08BNDNGHJ",
+    "name": "BRIAN & DANY Foldable Storage Ottoman Footrest and Seat Cube with Wooden Feet and Lid, Khaki 15\u201d x15\u201d x14.7\u201d",
+    "mean_dimensions_m": [
+      0.381,
+      0.381,
+      0.381
+    ],
+    "mean_weight_kg": 3.492661249,
+    "volume_m3": 0.05530634100000001,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15\"D x 15\"W x 15\"H",
+    "raw_weight": "7.7 pounds",
+    "source_row": 276,
+    "source_url": "https://www.amazon.com/dp/B08BNDNGHJ",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CMXYMDH4",
+    "name": "ReplacementScrews Bed Frame Rail Screws Compatible with IKEA Part 116894 (HEMNES, BRIMNES, etc) Euro Screws (Pack of 20)",
+    "mean_dimensions_m": [
+      0.1651,
+      0.09525,
+      0.019049999999999997
+    ],
+    "mean_weight_kg": 0.0595339985625,
+    "volume_m3": 0.00029957601374999996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "6.5 x 3.75 x 0.75 inches",
+    "raw_weight": "2.1 Ounces",
+    "source_row": 277,
+    "source_url": "https://www.amazon.com/dp/B0CMXYMDH4",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08XPR7662",
+    "name": "mDesign Round Metal in-Lay Accent Table with Hairpin Legs - Side/End Table - Decorative Legs, Marble Top - Home Decor Accent Furniture for Living Room, Bedroom - Set of 2 - Soft Brass/Mirror",
+    "mean_dimensions_m": [
+      0.43179999999999996,
+      0.43179999999999996,
+      0.5715
+    ],
+    "mean_weight_kg": 4.9895160700000005,
+    "volume_m3": 0.10655688365999998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "17\"D x 17\"W x 22.5\"H",
+    "raw_weight": "11 pounds",
+    "source_row": 278,
+    "source_url": "https://www.amazon.com/dp/B08XPR7662",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B089YWCTN2",
+    "name": "NSFRCLHO Round End Table, Tempered Glass End Table with Metal Frame, Small Coffee Table, Black Sofa Side Table for Living Room, Balcony, Bedroom",
+    "mean_dimensions_m": [
+      0.5003799999999999,
+      0.5003799999999999,
+      0.5689599999999999
+    ],
+    "mean_weight_kg": 7.983225712000001,
+    "volume_m3": 0.14245628695782395,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "19.7\"D x 19.7\"W x 22.4\"H",
+    "raw_weight": "17.6 Pounds",
+    "source_row": 279,
+    "source_url": "https://www.amazon.com/dp/B089YWCTN2",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B00R5VYYIG",
+    "name": "pranovo Metal Sofa Handle Cable Recliner Chair Couch Release Lever Replacement (2 Pack B#)",
+    "mean_dimensions_m": [
+      0.10668,
+      0.08889999999999999,
+      0.0254
+    ],
+    "mean_weight_kg": 0.1088621688,
+    "volume_m3": 0.00024088984079999998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "4.2\"D x 3.5\"W x 1\"H",
+    "raw_weight": "3.84 ounces",
+    "source_row": 280,
+    "source_url": "https://www.amazon.com/dp/B00R5VYYIG",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08JLH2PVH",
+    "name": "Stuffed Animal Storage Bean Bag Chair Cover for Kids, 24x24 Inch Velvet Extra Soft Large Storage Bean Bag for Organizing Children Plush Toys Room Decor for Girls(Cover Only)",
+    "mean_dimensions_m": [
+      0.6095999999999999,
+      0.6095999999999999,
+      0.508
+    ],
+    "mean_weight_kg": 0.635029318,
+    "volume_m3": 0.18877897727999995,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "24 x 24 x 20 inches",
+    "raw_weight": "1.4 Pounds",
+    "source_row": 281,
+    "source_url": "https://www.amazon.com/dp/B08JLH2PVH",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CC4SZBQ9",
+    "name": "BOOSDEN Padded Folding Chair 2 Pack, Foldable Chair with Thick Cushion, Heavy Duty Metal Folding Chair for Outdoor & Indoor & Dining & Party, Red",
+    "mean_dimensions_m": [
+      0.52832,
+      0.4572,
+      0.7365999999999999
+    ],
+    "mean_weight_kg": 11.793401620000001,
+    "volume_m3": 0.17792418608639998,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "20.8\"D x 18\"W x 29\"H",
+    "raw_weight": "26 pounds",
+    "source_row": 283,
+    "source_url": "https://www.amazon.com/dp/B0CC4SZBQ9",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B07RGDWW5C",
+    "name": "Industrial Rolling Bar 3-Tier Kitchen Serving Cart, Wine Storage Rack, Rustic Pipe Dining Cart with Wheels, Restaurant Wine Glass Holder, 15.7x15.7x33.4inches",
+    "mean_dimensions_m": [
+      0.39877999999999997,
+      0.39877999999999997,
+      0.8483599999999999
+    ],
+    "mean_weight_kg": 11.838760857,
+    "volume_m3": 0.13491086333902397,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15.7\"D x 15.7\"W x 33.4\"H",
+    "raw_weight": "26.1 pounds",
+    "source_row": 285,
+    "source_url": "https://www.amazon.com/dp/B07RGDWW5C",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B00P21TM2O",
+    "name": "Chill Sack Bean Bag Chair: Giant 5' Memory Foam Furniture Bean Bag - Big Sofa with Soft Micro Fiber Cover - Lime",
+    "mean_dimensions_m": [
+      1.524,
+      1.524,
+      0.8635999999999999
+    ],
+    "mean_weight_kg": 24.947580350000003,
+    "volume_m3": 2.0057766336,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "60\"D x 60\"W x 34\"H",
+    "raw_weight": "55 pounds",
+    "source_row": 286,
+    "source_url": "https://www.amazon.com/dp/B00P21TM2O",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08ZC5CYXG",
+    "name": "glitzhome Adjustable Bar Stool Set of 2 Swivel Mid-Century Modern PU Leather Counter Dining Chairs with Back, Begin",
+    "mean_dimensions_m": [
+      0.38734999999999997,
+      0.508,
+      1.16205
+    ],
+    "mean_weight_kg": 11.611964672000001,
+    "volume_m3": 0.22866099429,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "15.25\"D x 20\"W x 45.75\"H",
+    "raw_weight": "25.6 pounds",
+    "source_row": 288,
+    "source_url": "https://www.amazon.com/dp/B08ZC5CYXG",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B09D2T4GP4",
+    "name": "glitzhome Kitchen Island with Storage Kitchen Cart on Wheels Rolling Kitchen Cart Island Table with Tower Holder Spice Rack Drawer for Dining Room Kitchen, 34.25\u201dH, Red",
+    "mean_dimensions_m": [
+      0.43815,
+      0.8255,
+      0.8763
+    ],
+    "mean_weight_kg": 23.223929344000002,
+    "volume_m3": 0.3169514225475,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "17.25\"D x 32.5\"W x 34.5\"H",
+    "raw_weight": "51.2 pounds",
+    "source_row": 290,
+    "source_url": "https://www.amazon.com/dp/B09D2T4GP4",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B005H05TWC",
+    "name": "Lipper International Child's Toy Chest, 33.25\" W x 17.75\" D x 24.5\" H, Walnut Finish",
+    "mean_dimensions_m": [
+      0.45085,
+      0.8445499999999999,
+      0.6223
+    ],
+    "mean_weight_kg": 13.698489574,
+    "volume_m3": 0.23695028819524996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "17.75\"L x 33.25\"W x 24.5\"H",
+    "raw_weight": "30.2 Pounds",
+    "source_row": 291,
+    "source_url": "https://www.amazon.com/dp/B005H05TWC",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B072P27BTW",
+    "name": "Walker Edison Furniture Modern Round Nesting Coffee Accent Table Living Room, Walnut/Gold",
+    "mean_dimensions_m": [
+      0.6985,
+      0.7111999999999999,
+      0.38404799999999994
+    ],
+    "mean_weight_kg": 14.0,
+    "volume_m3": 0.19078475391359997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "27.5\"D x 28\"W x 15.12\"H",
+    "raw_weight": "14 Kilograms",
+    "source_row": 295,
+    "source_url": "https://www.amazon.com/dp/B072P27BTW",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B071HWKHQL",
+    "name": "Way Basics Book Shelf 4 Cubby Storage (Tool-free Assembly)",
+    "mean_dimensions_m": [
+      0.30479999999999996,
+      0.6705599999999999,
+      0.62992
+    ],
+    "mean_weight_kg": 6.35029318,
+    "volume_m3": 0.12874726250496,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "12\"D x 26.4\"W x 24.8\"H",
+    "raw_weight": "14 Pounds",
+    "source_row": 296,
+    "source_url": "https://www.amazon.com/dp/B071HWKHQL",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B01M0S28J1",
+    "name": "#4203 Adjustable 1/4\" Threaded Non-Skid Leveling Glides Black Pad 4-Pack",
+    "mean_dimensions_m": [
+      0.10668,
+      0.07619999999999999,
+      0.0127
+    ],
+    "mean_weight_kg": 0.06775536026875001,
+    "volume_m3": 0.00010323850319999998,
+    "dimension_basis": "explicit_package",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "4.2 x 3 x 0.5 inches",
+    "raw_weight": "2.39 ounces",
+    "source_row": 298,
+    "source_url": "https://www.amazon.com/dp/B01M0S28J1",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0B2JRSBL3",
+    "name": "KINGYES Folding Adjustable Backrest Adirondack Chair, Gray",
+    "mean_dimensions_m": [
+      0.9093199999999999,
+      0.74422,
+      0.9194800000000001
+    ],
+    "mean_weight_kg": 14.51495584,
+    "volume_m3": 0.622243498220192,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "35.8\"D x 29.3\"W x 36.2\"H",
+    "raw_weight": "32 pounds",
+    "source_row": 300,
+    "source_url": "https://www.amazon.com/dp/B0B2JRSBL3",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08KLBTL5R",
+    "name": "Leick Home 10109-GR Oval Condo/Apartment Coffee Table with Shelf, Smoke Gray",
+    "mean_dimensions_m": [
+      0.5841999999999999,
+      0.8382,
+      0.4826
+    ],
+    "mean_weight_kg": 13.6077711,
+    "volume_m3": 0.23631784994399996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "23\"D x 33\"W x 19\"H",
+    "raw_weight": "30 Pounds",
+    "source_row": 301,
+    "source_url": "https://www.amazon.com/dp/B08KLBTL5R",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B071DZG655",
+    "name": "Carter's by DaVinci Colby 3-Drawer Dresser in Grey",
+    "mean_dimensions_m": [
+      0.8610599999999999,
+      0.45974000000000004,
+      0.8585199999999998
+    ],
+    "mean_weight_kg": 29.937096420000003,
+    "volume_m3": 0.33985692467188794,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "33.9\"D x 18.1\"W x 33.8\"H",
+    "raw_weight": "66 Pounds",
+    "source_row": 302,
+    "source_url": "https://www.amazon.com/dp/B071DZG655",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BR8NVGDL",
+    "name": "Modway Baronet Button-Tufted Vegan Leather Parsons Dining Chair in Gray",
+    "mean_dimensions_m": [
+      0.5334,
+      0.635,
+      0.9779
+    ],
+    "mean_weight_kg": 9.979032140000001,
+    "volume_m3": 0.33122353109999997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "21\"D x 25\"W x 38.5\"H",
+    "raw_weight": "22 pounds",
+    "source_row": 303,
+    "source_url": "https://www.amazon.com/dp/B0BR8NVGDL",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CC4X9SS3",
+    "name": "BYOOTIQUE Makeup Chair Folding Camping Stool Collapsible Seat Telescoping Stool Height Adjustable Round Vanity Stool Chair Portable Makeup Hairstylist Chair for Makeup Nail Artist Hair Stylist Travel",
+    "mean_dimensions_m": [
+      0.24892,
+      0.24892,
+      0.44958
+    ],
+    "mean_weight_kg": 0.90718474,
+    "volume_m3": 0.027856501190112,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "9.8 x 9.8 x 17.7 inches",
+    "raw_weight": "2 pounds",
+    "source_row": 305,
+    "source_url": "https://www.amazon.com/dp/B0CC4X9SS3",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CLC3XWR6",
+    "name": "nimboo Kids Couch - Modular Kids Play Couch Set, Kids Sofa, Toddler Couch, Toddler Sofa, Kid Couch, Foam Playroom Couch for Kids",
+    "mean_dimensions_m": [
+      0.508,
+      0.9905999999999999,
+      0.4064
+    ],
+    "mean_weight_kg": 6.168856232,
+    "volume_m3": 0.20451055871999996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "20\"D x 39\"W x 16\"H",
+    "raw_weight": "13.6 Pounds",
+    "source_row": 306,
+    "source_url": "https://www.amazon.com/dp/B0CLC3XWR6",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0BVT748HV",
+    "name": "LOKKHAN Industrial Bar Table 38.6\"-48.4\" Height Adjustable Swivel Round Wood Tabletop 23.7\" Dia, Kitchen Dining Office Coffee Bistro Pub Table",
+    "mean_dimensions_m": [
+      0.59944,
+      0.59944,
+      0.9652
+    ],
+    "mean_weight_kg": 16.329325320000002,
+    "volume_m3": 0.34682368828671994,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "23.6\"D x 23.6\"W x 38\"H",
+    "raw_weight": "36 Pounds",
+    "source_row": 307,
+    "source_url": "https://www.amazon.com/dp/B0BVT748HV",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B0CF9F4TQD",
+    "name": "UTONE Gaming Chair Computer Chair Breathable Fabric Office Chair Cloth with Backrest Desk Chair with Footrest, Lumbar Support Swivel Recliner Task Chair Ergonomic Video Game Chair Height Adjustable",
+    "mean_dimensions_m": [
+      0.43179999999999996,
+      0.43179999999999996,
+      1.4478
+    ],
+    "mean_weight_kg": 20.502375124000004,
+    "volume_m3": 0.26994410527199997,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "17\"D x 17\"W x 57\"H",
+    "raw_weight": "45.2 pounds",
+    "source_row": 308,
+    "source_url": "https://www.amazon.com/dp/B0CF9F4TQD",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B08SLPBC36",
+    "name": "Lexicon Victoria Saddle Wood Bar Stools (Set of 2), 28.5\" SH, Black Sand",
+    "mean_dimensions_m": [
+      0.4572,
+      0.3937,
+      0.7365999999999999
+    ],
+    "mean_weight_kg": 11.113013065,
+    "volume_m3": 0.13258773482399996,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "18\"D x 15.5\"W x 29\"H",
+    "raw_weight": "24.5 pounds",
+    "source_row": 309,
+    "source_url": "https://www.amazon.com/dp/B08SLPBC36",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B097FC9C27",
+    "name": "Noori Rug Home - Lux Collection Modern Ava Round Ivory Velvet Storage Ottoman - 13x13x15 - Livingroom,Bedroom, Kid's Room, Nursery, Medium",
+    "mean_dimensions_m": [
+      0.3302,
+      0.3302,
+      0.381
+    ],
+    "mean_weight_kg": 4.9895160700000005,
+    "volume_m3": 0.04154120724,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "13\"D x 13\"W x 15\"H",
+    "raw_weight": "11 pounds",
+    "source_row": 312,
+    "source_url": "https://www.amazon.com/dp/B097FC9C27",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  },
+  {
+    "id": "B00SMM4H98",
+    "name": "Modway Parcel Upholstered Fabric Parsons Dining Side Chair in Beige",
+    "mean_dimensions_m": [
+      0.6095999999999999,
+      0.4699,
+      1.0032999999999999
+    ],
+    "mean_weight_kg": 7.25747792,
+    "volume_m3": 0.2873963284319999,
+    "dimension_basis": "unverified_column_or_assembled_proxy",
+    "weight_basis": "item_weight_proxy",
+    "raw_dimensions": "24\"D x 18.5\"W x 39.5\"H",
+    "raw_weight": "16 pounds",
+    "source_row": 313,
+    "source_url": "https://www.amazon.com/dp/B00SMM4H98",
+    "dataset_url": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+    "interpretation": "A catalog unit may represent a set or several packages; count/multipackage ambiguity is retained."
+  }
+]

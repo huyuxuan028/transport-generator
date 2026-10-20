@@ -1,0 +1,4556 @@
+{
+  "schema_version": 1,
+  "name": "Heterogeneous-34-seed43",
+  "seed": 43,
+  "cycles_per_vehicle": 1,
+  "vehicles": [
+    {
+      "id": "caddy",
+      "name": "VW Caddy Cargo SWB",
+      "length_m": 4.5,
+      "volume_m3": 3.1,
+      "payload_kg": 680,
+      "fuel_range_l_per_100km": [
+        4.5,
+        6.2
+      ],
+      "top_speed_range_kmh": [
+        178,
+        178
+      ],
+      "source": "Instructor-provided VW MY26 spec-sheet values; adopted course inputs, not independently verified vehicle documentation.",
+      "fuel_l_per_100km": 5.77461
+    },
+    {
+      "id": "sprinter",
+      "name": "Mercedes Sprinter 315 CDI L2H2",
+      "length_m": 5.93,
+      "volume_m3": 10.5,
+      "payload_kg": 1231,
+      "fuel_range_l_per_100km": [
+        9.0,
+        9.1
+      ],
+      "top_speed_range_kmh": [
+        161,
+        161
+      ],
+      "source": "Instructor-provided Vanaways (CAP HPI) spec values; adopted course inputs.",
+      "fuel_l_per_100km": 9.05617
+    },
+    {
+      "id": "man",
+      "name": "MAN TGL 12.190 box",
+      "length_m": 9.2,
+      "volume_m3": 42.7,
+      "payload_kg": 5480,
+      "fuel_range_l_per_100km": [
+        18,
+        24
+      ],
+      "top_speed_range_kmh": [
+        90,
+        110
+      ],
+      "source": "Instructor-provided Mascus listing and operator-report values; adopted course inputs.",
+      "fuel_l_per_100km": 21.68888
+    }
+  ],
+  "customers": [
+    {
+      "id": 0,
+      "weight_kg": 0.0,
+      "volume_m3": 0.0,
+      "service_minutes": 0.0,
+      "items": []
+    },
+    {
+      "id": 1,
+      "weight_kg": 17.558079418362365,
+      "volume_m3": 0.27641682548738694,
+      "service_minutes": 10.554,
+      "items": [
+        {
+          "catalog_id": "B01D378FYE",
+          "weight_kg": 6.59999571102211,
+          "volume_m3": 0.1053779093503567,
+          "dimensions_m": [
+            0.4900045073855201,
+            0.508451609963008,
+            0.42296056381332364
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B6FML1VS",
+          "weight_kg": 4.788492294493166,
+          "volume_m3": 0.06976789015304556,
+          "dimensions_m": [
+            0.3993106853172247,
+            0.3792028817583897,
+            0.4607581530973656
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BG6BJ3DL",
+          "weight_kg": 6.169591412847089,
+          "volume_m3": 0.1012710259839847,
+          "dimensions_m": [
+            0.4465214855636514,
+            0.4838709307469155,
+            0.46871981857235917
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "weight_kg": 8.492461410397569,
+      "volume_m3": 0.14242616225068974,
+      "service_minutes": 8.802,
+      "items": [
+        {
+          "catalog_id": "B0787KRJ8S",
+          "weight_kg": 2.420392646087414,
+          "volume_m3": 0.04507612500508122,
+          "dimensions_m": [
+            0.3715546641553835,
+            0.35147463248842115,
+            0.34516747987648955
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "shipping_or_package"
+        },
+        {
+          "catalog_id": "B09QZ3LYWB",
+          "weight_kg": 0.2826170841181077,
+          "volume_m3": 0.04951470247222716,
+          "dimensions_m": [
+            0.3458934176119273,
+            0.3397878482160253,
+            0.4212927962752624
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CKJ4YZC9",
+          "weight_kg": 5.789451680192047,
+          "volume_m3": 0.047835334773381366,
+          "dimensions_m": [
+            0.38324099257369054,
+            0.3422073107380224,
+            0.3647435141730722
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "weight_kg": 13.121928869078797,
+      "volume_m3": 0.28370710595268206,
+      "service_minutes": 6.972,
+      "items": [
+        {
+          "catalog_id": "B09VBPNY7P",
+          "weight_kg": 4.566726626326747,
+          "volume_m3": 0.16954099612800125,
+          "dimensions_m": [
+            0.31639675947384815,
+            0.32468424894975345,
+            1.6503706173405173
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CMX4CMMS",
+          "weight_kg": 1.5585530355675794,
+          "volume_m3": 0.011250983405970916,
+          "dimensions_m": [
+            0.3993782802864513,
+            0.27991790516957005,
+            0.10064109705267188
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BZ3RYRNY",
+          "weight_kg": 6.996649207184471,
+          "volume_m3": 0.10291512641870988,
+          "dimensions_m": [
+            0.40395350881929887,
+            0.7133730490879798,
+            0.3571339433628612
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "weight_kg": 23.117285943391234,
+      "volume_m3": 0.2742996247618249,
+      "service_minutes": 10.419,
+      "items": [
+        {
+          "catalog_id": "B01D378FYE",
+          "weight_kg": 7.304966496620802,
+          "volume_m3": 0.09746728067043649,
+          "dimensions_m": [
+            0.4750642438778,
+            0.47999334945385713,
+            0.4274361853163563
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08SL4GH7G",
+          "weight_kg": 0.7688603142510866,
+          "volume_m3": 0.006706533015233471,
+          "dimensions_m": [
+            0.25104550228769357,
+            0.2315663979159808,
+            0.11536394047369171
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CB7SG59J",
+          "weight_kg": 15.043459132519347,
+          "volume_m3": 0.17012581107615496,
+          "dimensions_m": [
+            0.36881059752689865,
+            0.46331014022354433,
+            0.9956232081049649
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "weight_kg": 13.769504918207604,
+      "volume_m3": 0.11979367353683851,
+      "service_minutes": 10.446,
+      "items": [
+        {
+          "catalog_id": "B0C2GQK6ZD",
+          "weight_kg": 0.3219234416632879,
+          "volume_m3": 0.00023782115212889245,
+          "dimensions_m": [
+            0.12246423987067832,
+            0.09966083000413192,
+            0.019485730323362673
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CJHT9KH6",
+          "weight_kg": 10.48118342259819,
+          "volume_m3": 0.11203614464706563,
+          "dimensions_m": [
+            0.420398149582122,
+            0.5359061147730846,
+            0.4972887648206641
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C7L8GGJF",
+          "weight_kg": 2.9663980539461243,
+          "volume_m3": 0.007519707737643991,
+          "dimensions_m": [
+            0.29171031447308127,
+            0.15086066392608768,
+            0.17087288867793743
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "weight_kg": 10.09788449234102,
+      "volume_m3": 0.16196042897894666,
+      "service_minutes": 7.962,
+      "items": [
+        {
+          "catalog_id": "B0787KRJ8S",
+          "weight_kg": 2.623423567733096,
+          "volume_m3": 0.04535369390558646,
+          "dimensions_m": [
+            0.35247333821531845,
+            0.37962802365558385,
+            0.338944139364833
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "shipping_or_package"
+        },
+        {
+          "catalog_id": "B07T9M8Y88",
+          "weight_kg": 7.224954988459981,
+          "volume_m3": 0.11126563964124081,
+          "dimensions_m": [
+            0.21939521142363355,
+            0.8333925494088298,
+            0.6085332475052702
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B19ZGGXC",
+          "weight_kg": 0.2495059361479435,
+          "volume_m3": 0.005341095432119381,
+          "dimensions_m": [
+            0.10373066837550364,
+            0.17004386904708485,
+            0.3028044014175244
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "weight_kg": 6.93752561666507,
+      "volume_m3": 0.09648613648827695,
+      "service_minutes": 10.381,
+      "items": [
+        {
+          "catalog_id": "B09CGPQT1L",
+          "weight_kg": 0.19146662066631717,
+          "volume_m3": 0.00030633171062119515,
+          "dimensions_m": [
+            0.14486153306466196,
+            0.09108987869258803,
+            0.02321500360203574
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B019C4PPTU",
+          "weight_kg": 6.641723996977598,
+          "volume_m3": 0.0959271212277549,
+          "dimensions_m": [
+            0.35697236694968054,
+            0.43015374791558036,
+            0.6247166793363188
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00R5VYYIG",
+          "weight_kg": 0.10433499902115502,
+          "volume_m3": 0.00025268354990084965,
+          "dimensions_m": [
+            0.11035021056276276,
+            0.09346479153979635,
+            0.024499417671782923
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "weight_kg": 13.145456101453274,
+      "volume_m3": 0.1370879825011732,
+      "service_minutes": 10.285,
+      "items": [
+        {
+          "catalog_id": "B0BRFX55TJ",
+          "weight_kg": 6.678884435158002,
+          "volume_m3": 0.0725815479222989,
+          "dimensions_m": [
+            0.3118996290604468,
+            0.40018176321066995,
+            0.5815058315650344
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09FR4XSCT",
+          "weight_kg": 6.259001727458112,
+          "volume_m3": 0.06212380719878028,
+          "dimensions_m": [
+            0.2884679114026081,
+            0.33751280554202745,
+            0.6380728974325239
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C99SY5W2",
+          "weight_kg": 0.20756993883715924,
+          "volume_m3": 0.002382627380094024,
+          "dimensions_m": [
+            0.18843486155977252,
+            0.1015018410369867,
+            0.12457214876472997
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "weight_kg": 19.011291021725636,
+      "volume_m3": 0.2420911242561995,
+      "service_minutes": 8.994,
+      "items": [
+        {
+          "catalog_id": "B0CG1N9QRC",
+          "weight_kg": 11.866646550131051,
+          "volume_m3": 0.120096887833792,
+          "dimensions_m": [
+            0.4945013656916355,
+            0.3627605480050256,
+            0.6694901761000676
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CPLSTFW5",
+          "weight_kg": 1.5687018965082602,
+          "volume_m3": 0.018133999332050718,
+          "dimensions_m": [
+            0.23724101104630452,
+            0.3387983595820837,
+            0.22561217396332536
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09DKG6JDN",
+          "weight_kg": 5.575942575086325,
+          "volume_m3": 0.1038602370903568,
+          "dimensions_m": [
+            0.48695899216680977,
+            0.49431669902142167,
+            0.43147102626048567
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "weight_kg": 27.09551301921549,
+      "volume_m3": 0.2800644873161189,
+      "service_minutes": 9.838,
+      "items": [
+        {
+          "catalog_id": "B0722V6KMX",
+          "weight_kg": 0.41139918676883636,
+          "volume_m3": 0.0729939313956426,
+          "dimensions_m": [
+            0.4632224458362128,
+            0.47418135122482785,
+            0.33231710040045415
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BJZPV117",
+          "weight_kg": 13.490158543367901,
+          "volume_m3": 0.08069739049996011,
+          "dimensions_m": [
+            0.334866565390657,
+            0.3591320104795506,
+            0.6710170983798093
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BB9RZ19N",
+          "weight_kg": 13.193955289078751,
+          "volume_m3": 0.1263731654205162,
+          "dimensions_m": [
+            0.38304264515946373,
+            0.7457015781026017,
+            0.4424280708069936
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "weight_kg": 18.00867055375353,
+      "volume_m3": 0.08916487241954409,
+      "service_minutes": 9.338,
+      "items": [
+        {
+          "catalog_id": "B0C7L8GGJF",
+          "weight_kg": 3.1911130454119165,
+          "volume_m3": 0.007594056828088402,
+          "dimensions_m": [
+            0.3019778605897271,
+            0.15182969999419263,
+            0.16563114529033499
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BJZPV117",
+          "weight_kg": 14.817557508341613,
+          "volume_m3": 0.08157081559145568,
+          "dimensions_m": [
+            0.3291629497430329,
+            0.34200456174520627,
+            0.7245893730230806
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "weight_kg": 22.30465800451226,
+      "volume_m3": 0.19562715589071414,
+      "service_minutes": 11.31,
+      "items": [
+        {
+          "catalog_id": "B019C4PPTU",
+          "weight_kg": 6.144020980809503,
+          "volume_m3": 0.09774469055829048,
+          "dimensions_m": [
+            0.3486414518975089,
+            0.4365034355494516,
+            0.6422830903777617
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B01FL46UD0",
+          "weight_kg": 16.160637023702755,
+          "volume_m3": 0.09788246533242366,
+          "dimensions_m": [
+            0.40206818028417884,
+            0.3880140672625577,
+            0.6274190833058134
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "weight_kg": 48.682804849176726,
+      "volume_m3": 0.8999056231259358,
+      "service_minutes": 10.277,
+      "items": [
+        {
+          "catalog_id": "B0CB7SM7MM",
+          "weight_kg": 11.962037047817825,
+          "volume_m3": 0.23219552969540566,
+          "dimensions_m": [
+            0.4347599487877261,
+            0.4696774362296404,
+            1.1371156288187612
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B6YR22H1",
+          "weight_kg": 25.186029568170635,
+          "volume_m3": 0.21000708657827497,
+          "dimensions_m": [
+            0.5738153145700675,
+            0.6384209189231058,
+            0.5732640480780858
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CNVJ24YF",
+          "weight_kg": 0.0667772836682347,
+          "volume_m3": 0.0007541174517226826,
+          "dimensions_m": [
+            0.20462527096346111,
+            0.14263394726190493,
+            0.025837876777888156
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B93TC1Z8",
+          "weight_kg": 8.643537533948665,
+          "volume_m3": 0.3456503234365495,
+          "dimensions_m": [
+            0.6038855059971457,
+            0.342506302606001,
+            1.671143691846598
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B095HPZ7DD",
+          "weight_kg": 1.9259754093226722,
+          "volume_m3": 0.05268054459812038,
+          "dimensions_m": [
+            0.3723032375653841,
+            0.3558537485445929,
+            0.3976325222858362
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CP732ZN8",
+          "weight_kg": 0.8984480062486945,
+          "volume_m3": 0.058618021365862576,
+          "dimensions_m": [
+            0.400716363414277,
+            0.2387593757462497,
+            0.6126799140428815
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "weight_kg": 43.14187521961965,
+      "volume_m3": 0.961477652922041,
+      "service_minutes": 6.014,
+      "items": [
+        {
+          "catalog_id": "B0B97PJ94P",
+          "weight_kg": 10.587756554940494,
+          "volume_m3": 0.25922860270215153,
+          "dimensions_m": [
+            0.5756136634390144,
+            0.5007477363151288,
+            0.8993584716473604
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BWY5RPD1",
+          "weight_kg": 0.5556167044589129,
+          "volume_m3": 0.1203810639874193,
+          "dimensions_m": [
+            0.5718093613150046,
+            0.6080897859160402,
+            0.34620968099327293
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BB9RZ19N",
+          "weight_kg": 12.954577945404251,
+          "volume_m3": 0.13202289232676617,
+          "dimensions_m": [
+            0.386297276142896,
+            0.7351344563393039,
+            0.4649013615801825
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09QZ3LYWB",
+          "weight_kg": 0.29980333259616615,
+          "volume_m3": 0.05427700791349832,
+          "dimensions_m": [
+            0.3686623934223766,
+            0.3543018786118562,
+            0.4155407365719463
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C3B4D4RH",
+          "weight_kg": 18.540081915585333,
+          "volume_m3": 0.39468220166733364,
+          "dimensions_m": [
+            0.6702157536289839,
+            0.6318086791807297,
+            0.9320674095441202
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09V6RSWSR",
+          "weight_kg": 0.2040387666344886,
+          "volume_m3": 0.0008858843248720359,
+          "dimensions_m": [
+            0.18295178087555203,
+            0.12177045736274966,
+            0.03976476668804806
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "weight_kg": 53.45592489821743,
+      "volume_m3": 0.727405226991127,
+      "service_minutes": 10.811,
+      "items": [
+        {
+          "catalog_id": "B0BHVLGGYL",
+          "weight_kg": 0.37624267482827267,
+          "volume_m3": 0.0012387790087326207,
+          "dimensions_m": [
+            0.24114582879714663,
+            0.10007159923500353,
+            0.05133377978019514
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08QRF4TTL",
+          "weight_kg": 2.166594111382844,
+          "volume_m3": 0.02541567085096753,
+          "dimensions_m": [
+            0.8371867170133422,
+            0.39856105245557094,
+            0.07617007642609727
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C3TYNRJC",
+          "weight_kg": 13.871028023606472,
+          "volume_m3": 0.3034025830349979,
+          "dimensions_m": [
+            0.48603557781060863,
+            0.6386318678371906,
+            0.9774636751384366
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CGZW945K",
+          "weight_kg": 15.069728076859132,
+          "volume_m3": 0.05920033081656981,
+          "dimensions_m": [
+            0.8351607651076645,
+            0.5688565659268963,
+            0.12460953486204865
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08SLPBC36",
+          "weight_kg": 11.224232198916559,
+          "volume_m3": 0.13190684310731132,
+          "dimensions_m": [
+            0.4585348383696148,
+            0.39336684713992387,
+            0.7313027958880557
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00FEAN1SY",
+          "weight_kg": 10.748099812624156,
+          "volume_m3": 0.20624102017254778,
+          "dimensions_m": [
+            0.4781606318989851,
+            0.3919022377458031,
+            1.1005847434013616
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "weight_kg": 41.55469791715405,
+      "volume_m3": 1.3208432292878358,
+      "service_minutes": 10.468,
+      "items": [
+        {
+          "catalog_id": "B0CG9CDKQ7",
+          "weight_kg": 0.4624388575379559,
+          "volume_m3": 0.001976666936220182,
+          "dimensions_m": [
+            0.19862470512282418,
+            0.153851912816599,
+            0.06468406908297904
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BWY5RPD1",
+          "weight_kg": 0.5182864854973507,
+          "volume_m3": 0.11949960538348804,
+          "dimensions_m": [
+            0.5843806488120274,
+            0.5855521105821202,
+            0.3492248135657493
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00SMM4H98",
+          "weight_kg": 7.361699113110537,
+          "volume_m3": 0.2832142934156266,
+          "dimensions_m": [
+            0.5701633162634068,
+            0.46862043032785344,
+            1.0599726938827039
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07RY46G23",
+          "weight_kg": 15.957982288067054,
+          "volume_m3": 0.6498037284256881,
+          "dimensions_m": [
+            1.8522481555018817,
+            0.9909681552748709,
+            0.35401635747518084
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CC4SZBQ9",
+          "weight_kg": 11.746186374981793,
+          "volume_m3": 0.17237837680042548,
+          "dimensions_m": [
+            0.5061076281719525,
+            0.45089887702551235,
+            0.7553717697075646
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B017TNJR72",
+          "weight_kg": 5.508104797959362,
+          "volume_m3": 0.09397055832638744,
+          "dimensions_m": [
+            0.45411800907393784,
+            0.45532608022881255,
+            0.45446511846379306
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "weight_kg": 44.498708189122716,
+      "volume_m3": 1.6783549418037012,
+      "service_minutes": 6.8,
+      "items": [
+        {
+          "catalog_id": "B0BHF9PPJC",
+          "weight_kg": 7.590261686434355,
+          "volume_m3": 0.23958017548962057,
+          "dimensions_m": [
+            0.5724269782027687,
+            0.559347804232648,
+            0.7482536559620347
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CBBV4S1P",
+          "weight_kg": 11.871429677256485,
+          "volume_m3": 0.27115400860454847,
+          "dimensions_m": [
+            0.4891272547694608,
+            0.47527985186512944,
+            1.1663926177764696
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CCRXWDF1",
+          "weight_kg": 8.220743629757091,
+          "volume_m3": 0.5162747004867444,
+          "dimensions_m": [
+            0.7124736253043252,
+            0.7336857780985774,
+            0.9876474588164874
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C2YQZS69",
+          "weight_kg": 12.594404954176268,
+          "volume_m3": 0.2557715451593673,
+          "dimensions_m": [
+            0.3978422191351034,
+            0.4860507956988689,
+            1.322694963929457
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00740P05Y",
+          "weight_kg": 4.221868241498516,
+          "volume_m3": 0.3955745120634205,
+          "dimensions_m": [
+            0.7844691460271253,
+            0.7417224643886264,
+            0.679846711960369
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "weight_kg": 60.09425924223988,
+      "volume_m3": 0.8901557733451329,
+      "service_minutes": 11.504,
+      "items": [
+        {
+          "catalog_id": "B0BW4WN2NL",
+          "weight_kg": 24.77989890607499,
+          "volume_m3": 0.3942589882872919,
+          "dimensions_m": [
+            0.4418661182785941,
+            0.8094902477184084,
+            1.102247900908604
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08BNDNGHJ",
+          "weight_kg": 3.361355392982928,
+          "volume_m3": 0.05492172813459559,
+          "dimensions_m": [
+            0.37513941111177485,
+            0.358756954527815,
+            0.4080855086988567
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BRFX55TJ",
+          "weight_kg": 6.970649940719077,
+          "volume_m3": 0.06575877052750866,
+          "dimensions_m": [
+            0.29205663673597726,
+            0.4055787158421064,
+            0.5551514126525365
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B51LYB8T",
+          "weight_kg": 13.957004696881144,
+          "volume_m3": 0.2598082800527863,
+          "dimensions_m": [
+            0.5553804213599022,
+            0.4743546103197356,
+            0.9861870521853956
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B75Z1T2H",
+          "weight_kg": 11.025350305581737,
+          "volume_m3": 0.11540800634295047,
+          "dimensions_m": [
+            0.37419699368584,
+            0.5001620268006692,
+            0.616630395352058
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "weight_kg": 9.21728262419242,
+      "volume_m3": 0.27083151039575976,
+      "service_minutes": 6.544,
+      "items": [
+        {
+          "catalog_id": "B099VZPTWT",
+          "weight_kg": 2.8815697266772005,
+          "volume_m3": 0.02485230150331181,
+          "dimensions_m": [
+            0.23198416995710072,
+            0.3191105153889297,
+            0.3357122182428015
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BSZ96YG7",
+          "weight_kg": 3.953792388820964,
+          "volume_m3": 0.18688417799225118,
+          "dimensions_m": [
+            0.6542383521119514,
+            0.6552174574602712,
+            0.43596444829427683
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CMX4CMMS",
+          "weight_kg": 1.527591206935573,
+          "volume_m3": 0.012808247115500881,
+          "dimensions_m": [
+            0.41162579367536517,
+            0.2921650462999144,
+            0.10650226886551475
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08PMH8F89",
+          "weight_kg": 0.6434851429501172,
+          "volume_m3": 0.045999011190479173,
+          "dimensions_m": [
+            0.34410041436548666,
+            0.36170871434570073,
+            0.36957648316664765
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09CGPQT1L",
+          "weight_kg": 0.21084415880856563,
+          "volume_m3": 0.000287772594216736,
+          "dimensions_m": [
+            0.14804009827358305,
+            0.08784484102575191,
+            0.02212859324700403
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "weight_kg": 22.2777775050949,
+      "volume_m3": 0.8512169815750406,
+      "service_minutes": 7.999,
+      "items": [
+        {
+          "catalog_id": "B0C4NT8N8C",
+          "weight_kg": 2.697842614089057,
+          "volume_m3": 0.0691696491369582,
+          "dimensions_m": [
+            0.4043998202364514,
+            0.41178486998548613,
+            0.4153691457629813
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08PMH8F89",
+          "weight_kg": 0.5547549091571495,
+          "volume_m3": 0.049527179978193385,
+          "dimensions_m": [
+            0.3562844119941671,
+            0.35560987506553876,
+            0.39090656683101954
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B075M1PKSW",
+          "weight_kg": 5.633190431212109,
+          "volume_m3": 0.11792669120496421,
+          "dimensions_m": [
+            0.362774093128213,
+            0.42959433507447997,
+            0.7566887937653938
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CBDLJ32L",
+          "weight_kg": 12.967235754462198,
+          "volume_m3": 0.29721070772464286,
+          "dimensions_m": [
+            0.293903562259119,
+            0.6030597893631284,
+            1.6768693634891843
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B092HVNQQ4",
+          "weight_kg": 0.4247537961743861,
+          "volume_m3": 0.31738275353028195,
+          "dimensions_m": [
+            0.49124977925185676,
+            0.7376794342331496,
+            0.8758168158803703
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "weight_kg": 122.84955342129447,
+      "volume_m3": 3.4048622752545565,
+      "service_minutes": 9.359,
+      "items": [
+        {
+          "catalog_id": "B0CP732ZN8",
+          "weight_kg": 0.9079392537063236,
+          "volume_m3": 0.05444905391982985,
+          "dimensions_m": [
+            0.37801719177381854,
+            0.23578172972735711,
+            0.6108979069558749
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00P21TM2O",
+          "weight_kg": 24.51191325698722,
+          "volume_m3": 1.815841379044111,
+          "dimensions_m": [
+            1.515777256650027,
+            1.4250011637615776,
+            0.8406733942623451
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B095HPZ7DD",
+          "weight_kg": 2.0061268138725263,
+          "volume_m3": 0.054890652211476335,
+          "dimensions_m": [
+            0.3785150228190667,
+            0.3702641452672536,
+            0.39165494235805515
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B092HVNQQ4",
+          "weight_kg": 0.4662873775194265,
+          "volume_m3": 0.267887750164642,
+          "dimensions_m": [
+            0.4650711596785772,
+            0.687669752193453,
+            0.837632509327641
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CKQTTZ5V",
+          "weight_kg": 25.730613947554634,
+          "volume_m3": 0.24935756281199115,
+          "dimensions_m": [
+            0.5483424508922045,
+            0.45066507215691237,
+            1.0090594997335636
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CJR8KM2D",
+          "weight_kg": 8.969189219179025,
+          "volume_m3": 0.22679440628240335,
+          "dimensions_m": [
+            1.7938221548472186,
+            0.9954164106027777,
+            0.12701299559322904
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07B8VT4DC",
+          "weight_kg": 0.8098221741855447,
+          "volume_m3": 0.0015281179532677018,
+          "dimensions_m": [
+            0.3360989313290079,
+            0.012571376638823982,
+            0.36166535506828396
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CGZW945K",
+          "weight_kg": 14.877843662891603,
+          "volume_m3": 0.0608746468194615,
+          "dimensions_m": [
+            0.8784414772283757,
+            0.5724144938871378,
+            0.12106343692130345
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09K3MYL91",
+          "weight_kg": 5.589364787470179,
+          "volume_m3": 0.08255551948299554,
+          "dimensions_m": [
+            0.3965362248564381,
+            0.37464035458430145,
+            0.5557106130338573
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B073GLR1DG",
+          "weight_kg": 11.97973025215919,
+          "volume_m3": 0.39142539316757174,
+          "dimensions_m": [
+            0.7525485836275342,
+            0.6959143984163736,
+            0.7474095309604042
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B6YR22H1",
+          "weight_kg": 27.000722675768806,
+          "volume_m3": 0.1992577933968064,
+          "dimensions_m": [
+            0.5556247737727138,
+            0.5931078077582215,
+            0.6046444542425705
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "weight_kg": 122.95955068545439,
+      "volume_m3": 2.9412093971438065,
+      "service_minutes": 6.364,
+      "items": [
+        {
+          "catalog_id": "B0CG9CDKQ7",
+          "weight_kg": 0.4519799000512496,
+          "volume_m3": 0.0019767848004116476,
+          "dimensions_m": [
+            0.2116040396411519,
+            0.14325174786244943,
+            0.06521319963964166
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BRFX55TJ",
+          "weight_kg": 6.604506716187884,
+          "volume_m3": 0.06853110250625517,
+          "dimensions_m": [
+            0.2921663775053518,
+            0.40958480263591573,
+            0.5726821525936633
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B084WLY61H",
+          "weight_kg": 1.9255279875169,
+          "volume_m3": 0.07739508742281445,
+          "dimensions_m": [
+            0.34010063281957414,
+            0.3566021565841806,
+            0.6381488483894359
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BG6BJ3DL",
+          "weight_kg": 7.070217458014753,
+          "volume_m3": 0.11372502787221038,
+          "dimensions_m": [
+            0.5168139775954653,
+            0.47276093287579923,
+            0.46545770093954303
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C3B4D4RH",
+          "weight_kg": 20.829931120437575,
+          "volume_m3": 0.42084083037792575,
+          "dimensions_m": [
+            0.6718920019965584,
+            0.6575085425155986,
+            0.9526140833424356
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07RGDWW5C",
+          "weight_kg": 12.220028716055147,
+          "volume_m3": 0.13095270233045278,
+          "dimensions_m": [
+            0.38935363699906206,
+            0.38318917547741954,
+            0.8777220255312591
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CMTHD198",
+          "weight_kg": 30.871035843907215,
+          "volume_m3": 0.926737873496762,
+          "dimensions_m": [
+            0.7527881466473223,
+            1.4642680111386774,
+            0.8407435904544105
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BB9RZ19N",
+          "weight_kg": 11.991358517130424,
+          "volume_m3": 0.13669507409492762,
+          "dimensions_m": [
+            0.40584029419226103,
+            0.7473635432709809,
+            0.45067741192448857
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09PTXGFZD",
+          "weight_kg": 8.805313195502244,
+          "volume_m3": 0.09029427675180651,
+          "dimensions_m": [
+            0.34581298838298985,
+            0.4444479998370485,
+            0.587486602027424
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CCCS3RB9",
+          "weight_kg": 11.089096657240237,
+          "volume_m3": 0.8487617151853238,
+          "dimensions_m": [
+            1.9188291360979899,
+            0.9812984137030842,
+            0.4507631245835384
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08SLPBC36",
+          "weight_kg": 11.100554573410765,
+          "volume_m3": 0.12529892230491632,
+          "dimensions_m": [
+            0.44706697706843246,
+            0.39261712740323723,
+            0.7138475985927888
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "weight_kg": 100.10156717839858,
+      "volume_m3": 2.531186673196688,
+      "service_minutes": 10.724,
+      "items": [
+        {
+          "catalog_id": "B0CMX4CMMS",
+          "weight_kg": 1.6667763138141896,
+          "volume_m3": 0.010814704714180178,
+          "dimensions_m": [
+            0.3974830765705926,
+            0.27990469310841315,
+            0.09720438189211085
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09CGPQT1L",
+          "weight_kg": 0.19521088363834507,
+          "volume_m3": 0.00028252855964524897,
+          "dimensions_m": [
+            0.14141207154305938,
+            0.08773390224272362,
+            0.022772380130648327
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09PTXGFZD",
+          "weight_kg": 8.85420559594575,
+          "volume_m3": 0.08875468348094415,
+          "dimensions_m": [
+            0.330190231421818,
+            0.4320147366500556,
+            0.6221978375949845
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C99D3V15",
+          "weight_kg": 12.032738553043092,
+          "volume_m3": 0.5438060753556376,
+          "dimensions_m": [
+            0.6465780245710556,
+            0.5907059151831093,
+            1.423809201716976
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CP732ZN8",
+          "weight_kg": 0.9084916584078234,
+          "volume_m3": 0.057403309410062775,
+          "dimensions_m": [
+            0.4003129481011864,
+            0.24407279158538464,
+            0.5875136010149491
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00UV7B29A",
+          "weight_kg": 9.846468971053543,
+          "volume_m3": 0.10934753164943821,
+          "dimensions_m": [
+            0.51360821396332,
+            1.1901405781310386,
+            0.17888699161683477
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C2YQZS69",
+          "weight_kg": 12.32606134101338,
+          "volume_m3": 0.2969038483648709,
+          "dimensions_m": [
+            0.4470109564725671,
+            0.5096027934581996,
+            1.3033644127450426
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BZKMYST2",
+          "weight_kg": 22.761979471800153,
+          "volume_m3": 0.4948708647005702,
+          "dimensions_m": [
+            0.5560694260258001,
+            0.8233190717603895,
+            1.080922837733679
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07RY46G23",
+          "weight_kg": 14.986883183773365,
+          "volume_m3": 0.6172648576413978,
+          "dimensions_m": [
+            1.7647718342084375,
+            0.9865978589791373,
+            0.35452169724293026
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B075M1PKSW",
+          "weight_kg": 5.086736053063555,
+          "volume_m3": 0.12193276188624556,
+          "dimensions_m": [
+            0.37723286994661304,
+            0.4396065874700962,
+            0.7352697378824805
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CC4SZBQ9",
+          "weight_kg": 11.436015152845382,
+          "volume_m3": 0.1898055074336953,
+          "dimensions_m": [
+            0.5591103106859846,
+            0.45262719924120937,
+            0.7500162285651272
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "weight_kg": 110.61717441335307,
+      "volume_m3": 3.150612669823449,
+      "service_minutes": 11.502,
+      "items": [
+        {
+          "catalog_id": "B09Q1ZHQFR",
+          "weight_kg": 6.5337431917975515,
+          "volume_m3": 0.2547677360703,
+          "dimensions_m": [
+            0.4986349227486346,
+            0.5236088909510019,
+            0.975786316615686
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B6YR22H1",
+          "weight_kg": 25.921259270872728,
+          "volume_m3": 0.20083672910573824,
+          "dimensions_m": [
+            0.5567238561414702,
+            0.5990705882036261,
+            0.6021785893085454
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08ZHPDZX5",
+          "weight_kg": 4.442236803694143,
+          "volume_m3": 0.573474669804122,
+          "dimensions_m": [
+            0.6607030115525783,
+            1.1607134504245336,
+            0.7477956535170118
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BZ3RYRNY",
+          "weight_kg": 6.706144336734083,
+          "volume_m3": 0.11243200018553196,
+          "dimensions_m": [
+            0.38622442782180627,
+            0.755350730636569,
+            0.38539097907821207
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B2JRSBL3",
+          "weight_kg": 14.001165394385243,
+          "volume_m3": 0.5904793394279962,
+          "dimensions_m": [
+            0.9102531573277663,
+            0.7295737818814517,
+            0.8891464395407435
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0183K9SMO",
+          "weight_kg": 7.752957015163465,
+          "volume_m3": 0.23872161089853142,
+          "dimensions_m": [
+            0.472343967413184,
+            0.5208321668061685,
+            0.970365985637071
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CP45784G",
+          "weight_kg": 1.022571522822759,
+          "volume_m3": 0.0844806352383162,
+          "dimensions_m": [
+            0.5333573167085959,
+            0.5151712768508365,
+            0.30745904399867047
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B002FL3LL2",
+          "weight_kg": 13.713778254855201,
+          "volume_m3": 0.500468379110205,
+          "dimensions_m": [
+            0.6951856328032447,
+            0.6777577674958688,
+            1.0621879033662567
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BHF9PPJC",
+          "weight_kg": 6.836497652668306,
+          "volume_m3": 0.2339720498673101,
+          "dimensions_m": [
+            0.5647674679077912,
+            0.5665606962913765,
+            0.7312196684375061
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08SLPBC36",
+          "weight_kg": 11.022869089305784,
+          "volume_m3": 0.13163963604190254,
+          "dimensions_m": [
+            0.45095288866881245,
+            0.3956831752993707,
+            0.737747787065703
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CB7SM7MM",
+          "weight_kg": 12.663951881053801,
+          "volume_m3": 0.2293398840734952,
+          "dimensions_m": [
+            0.42046355534394025,
+            0.4563550619075413,
+            1.1952213940446217
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "weight_kg": 121.67457280911705,
+      "volume_m3": 1.76475287631495,
+      "service_minutes": 9.863,
+      "items": [
+        {
+          "catalog_id": "B08QRF4TTL",
+          "weight_kg": 2.070066116119917,
+          "volume_m3": 0.028214463403837164,
+          "dimensions_m": [
+            0.8600759847414334,
+            0.4231566353749714,
+            0.07752357971687189
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C7QD8KYX",
+          "weight_kg": 19.255087531303207,
+          "volume_m3": 0.44749473564119285,
+          "dimensions_m": [
+            0.8340877506873577,
+            0.46415386152288013,
+            1.1558839129137966
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0183K9SMO",
+          "weight_kg": 8.934549564257418,
+          "volume_m3": 0.21999115541233216,
+          "dimensions_m": [
+            0.461048037941953,
+            0.48672345579858967,
+            0.9803400980304795
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BFJGDHVF",
+          "weight_kg": 4.614132788086505,
+          "volume_m3": 0.07420909627176626,
+          "dimensions_m": [
+            0.3024108146297477,
+            0.41066931949924046,
+            0.5975408025932727
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0961N94SZ",
+          "weight_kg": 7.76846368119675,
+          "volume_m3": 0.21731181532971075,
+          "dimensions_m": [
+            0.4765352469918012,
+            0.4346494406823874,
+            1.049178025205672
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CJHT9KH6",
+          "weight_kg": 10.497649342152515,
+          "volume_m3": 0.11818710515742126,
+          "dimensions_m": [
+            0.4101231313130134,
+            0.5663733908149632,
+            0.5088068967630389
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B01LWPSVUW",
+          "weight_kg": 5.428612711575443,
+          "volume_m3": 0.10418444890751974,
+          "dimensions_m": [
+            0.3262131210797858,
+            0.48092179356701953,
+            0.6640901142196877
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CMXYMDH4",
+          "weight_kg": 0.05891024866697826,
+          "volume_m3": 0.00029974775021145633,
+          "dimensions_m": [
+            0.1663045169429057,
+            0.09518624006150626,
+            0.01893554087717131
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C9WYYFLB",
+          "weight_kg": 34.547385440235,
+          "volume_m3": 0.3531846489054519,
+          "dimensions_m": [
+            0.5378065527707342,
+            0.7308659000081303,
+            0.8985412716311575
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B6YR22H1",
+          "weight_kg": 28.49971538552332,
+          "volume_m3": 0.20167565953550656,
+          "dimensions_m": [
+            0.5824047702096803,
+            0.6098753889436801,
+            0.5677896273521149
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "weight_kg": 92.80702059330355,
+      "volume_m3": 3.0781726014467568,
+      "service_minutes": 8.714,
+      "items": [
+        {
+          "catalog_id": "B00R5VYYIG",
+          "weight_kg": 0.1043018158771597,
+          "volume_m3": 0.00022211986435490772,
+          "dimensions_m": [
+            0.10377835383482441,
+            0.08721105920279823,
+            0.024541949658903866
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CJR8KM2D",
+          "weight_kg": 8.992897548818663,
+          "volume_m3": 0.24356369479251663,
+          "dimensions_m": [
+            1.9218034190062354,
+            0.9842142860750085,
+            0.12876977215463292
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C2YQZS69",
+          "weight_kg": 12.768303209599141,
+          "volume_m3": 0.24906242307364224,
+          "dimensions_m": [
+            0.4174007648317505,
+            0.4803650168528758,
+            1.2421773229335076
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07RGDWW5C",
+          "weight_kg": 10.859025212337743,
+          "volume_m3": 0.14200768875520298,
+          "dimensions_m": [
+            0.4012612499856108,
+            0.40761949725386815,
+            0.8682198051799633
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00P21TM2O",
+          "weight_kg": 24.563195362129445,
+          "volume_m3": 1.8907857810656896,
+          "dimensions_m": [
+            1.4945791337219345,
+            1.461732397482615,
+            0.8654770186758548
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B075M1PKSW",
+          "weight_kg": 5.3342485380270555,
+          "volume_m3": 0.12250902437218185,
+          "dimensions_m": [
+            0.3646811127997141,
+            0.45452448177234595,
+            0.7390903460741143
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08JLH2PVH",
+          "weight_kg": 0.6587528458504134,
+          "volume_m3": 0.18937656954205165,
+          "dimensions_m": [
+            0.6112847308830314,
+            0.6227255862508456,
+            0.4974918692977632
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B093KMM9D3",
+          "weight_kg": 5.373501929879557,
+          "volume_m3": 0.14966213619722532,
+          "dimensions_m": [
+            0.3785146948793338,
+            0.5481630315011401,
+            0.7213058462465856
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09NBWCTDS",
+          "weight_kg": 7.296369947405368,
+          "volume_m3": 0.023449133117041852,
+          "dimensions_m": [
+            0.14944380696391857,
+            0.4752301497941949,
+            0.3301755303800059
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CGZW945K",
+          "weight_kg": 16.856424183379,
+          "volume_m3": 0.06753403066684982,
+          "dimensions_m": [
+            0.8970023543965554,
+            0.6032733160438514,
+            0.1248001110241179
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "weight_kg": 98.54197127733528,
+      "volume_m3": 1.781799295462295,
+      "service_minutes": 7.092,
+      "items": [
+        {
+          "catalog_id": "B01LWPSVUW",
+          "weight_kg": 5.178304746710958,
+          "volume_m3": 0.10570276389533123,
+          "dimensions_m": [
+            0.33939988165124096,
+            0.4757877017641539,
+            0.6545780599930013
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CGZW945K",
+          "weight_kg": 14.494757867727126,
+          "volume_m3": 0.059286896385112364,
+          "dimensions_m": [
+            0.8317979927052931,
+            0.5639035125627123,
+            0.1263967910349348
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C6XNNL9M",
+          "weight_kg": 14.498187534989045,
+          "volume_m3": 0.25346288256555594,
+          "dimensions_m": [
+            0.7278710465342848,
+            0.7896837052476524,
+            0.44096766889854067
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09QZ3LYWB",
+          "weight_kg": 0.284024875892321,
+          "volume_m3": 0.04976703892434687,
+          "dimensions_m": [
+            0.3326925636240192,
+            0.34305430541558124,
+            0.43604954108446925
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BW4WN2NL",
+          "weight_kg": 21.120126468285154,
+          "volume_m3": 0.388635949721824,
+          "dimensions_m": [
+            0.40958379638505427,
+            0.83298215195036,
+            1.139106967376394
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00R5VYYIG",
+          "weight_kg": 0.11742717959697016,
+          "volume_m3": 0.0002247880699504578,
+          "dimensions_m": [
+            0.10329176171162874,
+            0.0863844012851408,
+            0.02519255678719526
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B97PJ94P",
+          "weight_kg": 12.731411390367517,
+          "volume_m3": 0.27752308178948265,
+          "dimensions_m": [
+            0.5594250565347781,
+            0.5169844119380455,
+            0.9595768160698305
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BZKMYST2",
+          "weight_kg": 24.489820495423416,
+          "volume_m3": 0.5280957696095785,
+          "dimensions_m": [
+            0.5867895260228332,
+            0.8220406094999186,
+            1.0948057323617186
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B01B65BYYI",
+          "weight_kg": 5.423612372580306,
+          "volume_m3": 0.11882253567533958,
+          "dimensions_m": [
+            0.43973719313837906,
+            0.4548088881020508,
+            0.5941234205191248
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09CGPQT1L",
+          "weight_kg": 0.20429834576247244,
+          "volume_m3": 0.00027758882577345455,
+          "dimensions_m": [
+            0.14165999436589785,
+            0.08910046300852788,
+            0.021992510032133587
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "weight_kg": 168.21725635639493,
+      "volume_m3": 4.153562021565301,
+      "service_minutes": 14.221,
+      "items": [
+        {
+          "catalog_id": "B08CR34X1X",
+          "weight_kg": 15.751048240370752,
+          "volume_m3": 0.6348598398044438,
+          "dimensions_m": [
+            0.5985180828762563,
+            1.3883994090097154,
+            0.7639873345757802
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BSKY28M7",
+          "weight_kg": 5.798205131071784,
+          "volume_m3": 0.07128912367800402,
+          "dimensions_m": [
+            0.5028587315177152,
+            0.08887478882349704,
+            1.5951396078951587
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CMTHD198",
+          "weight_kg": 32.43546597541285,
+          "volume_m3": 0.8958812565753439,
+          "dimensions_m": [
+            0.7180828067537895,
+            1.5446090846760883,
+            0.8077134917204354
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B01FL46UD0",
+          "weight_kg": 15.952217619184822,
+          "volume_m3": 0.09923623546872018,
+          "dimensions_m": [
+            0.4038582633329107,
+            0.40241157545404876,
+            0.6106197438737966
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B071DZG655",
+          "weight_kg": 31.048727654142212,
+          "volume_m3": 0.30729339332383976,
+          "dimensions_m": [
+            0.8312917428139391,
+            0.43346775938126303,
+            0.852791681905266
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BZCMCJDY",
+          "weight_kg": 6.573108674196232,
+          "volume_m3": 0.2286121110608228,
+          "dimensions_m": [
+            0.3670255027615551,
+            0.347910668941159,
+            1.7903388871750194
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B002FL3LL2",
+          "weight_kg": 14.242952509001432,
+          "volume_m3": 0.46814543578958356,
+          "dimensions_m": [
+            0.6693721773475632,
+            0.6689489511716025,
+            1.0454906653788207
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CGQZBCZP",
+          "weight_kg": 17.232956926917275,
+          "volume_m3": 0.6139322371963819,
+          "dimensions_m": [
+            0.7168774683788546,
+            0.6896024848275294,
+            1.241871584954084
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00SMM4H98",
+          "weight_kg": 7.314667830819047,
+          "volume_m3": 0.288314497526121,
+          "dimensions_m": [
+            0.605199172691772,
+            0.46767037809743206,
+            1.0186577468533033
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BZKMYST2",
+          "weight_kg": 21.867905795278514,
+          "volume_m3": 0.5459978911420399,
+          "dimensions_m": [
+            0.5885329144255438,
+            0.8426710579139218,
+            1.1009361464865823
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "weight_kg": 113.31637129365419,
+      "volume_m3": 1.8362095580513844,
+      "service_minutes": 6.829,
+      "items": [
+        {
+          "catalog_id": "B017TNJR72",
+          "weight_kg": 5.325578213830446,
+          "volume_m3": 0.10448837213118975,
+          "dimensions_m": [
+            0.47198419939973385,
+            0.4683638211309167,
+            0.4726690463715419
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BSKY28M7",
+          "weight_kg": 5.6451443666166785,
+          "volume_m3": 0.07303342797104173,
+          "dimensions_m": [
+            0.4964085573375039,
+            0.09064970104725907,
+            1.6229907698709205
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BV6KR1T7",
+          "weight_kg": 27.277489024572496,
+          "volume_m3": 0.253561875476241,
+          "dimensions_m": [
+            0.5631086931196236,
+            0.46858954202269154,
+            0.9609463282262635
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CD7TH3BF",
+          "weight_kg": 5.249976794592032,
+          "volume_m3": 0.34794353374888565,
+          "dimensions_m": [
+            0.48843154401985245,
+            0.8464965398638798,
+            0.8415499117023914
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CB7SG59J",
+          "weight_kg": 14.914559277049367,
+          "volume_m3": 0.16935466932443363,
+          "dimensions_m": [
+            0.3862167818014271,
+            0.44393487829823797,
+            0.9877493833603985
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B93TC1Z8",
+          "weight_kg": 8.071998286701913,
+          "volume_m3": 0.3528780981239769,
+          "dimensions_m": [
+            0.6416418778045506,
+            0.34063294832321894,
+            1.6145271383237132
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B071DZG655",
+          "weight_kg": 29.32792070521271,
+          "volume_m3": 0.2989841395596553,
+          "dimensions_m": [
+            0.8427654420912012,
+            0.4397556090411219,
+            0.8067334118254599
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08B45QFG7",
+          "weight_kg": 9.396862760951706,
+          "volume_m3": 0.09422636103769759,
+          "dimensions_m": [
+            0.27514191860032755,
+            0.6035522502246387,
+            0.567414963412344
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BZ3RYRNY",
+          "weight_kg": 7.166926309726488,
+          "volume_m3": 0.11244440606001777,
+          "dimensions_m": [
+            0.39149456668697497,
+            0.7648801628650885,
+            0.3755075885791837
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07MZRYQ2X",
+          "weight_kg": 0.9399155544003575,
+          "volume_m3": 0.029294674618245205,
+          "dimensions_m": [
+            0.3070216924587958,
+            0.3541018593304281,
+            0.26945820350658445
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "weight_kg": 85.93563231924777,
+      "volume_m3": 2.1585062301973945,
+      "service_minutes": 9.39,
+      "items": [
+        {
+          "catalog_id": "B000TMHWGO",
+          "weight_kg": 9.326420057006164,
+          "volume_m3": 0.3748350184113635,
+          "dimensions_m": [
+            0.7062678662714692,
+            0.6501625183109593,
+            0.8162980918542768
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B3HM3FTZ",
+          "weight_kg": 17.152491914572128,
+          "volume_m3": 0.3536777589521381,
+          "dimensions_m": [
+            0.5006169063827574,
+            0.5659268278803767,
+            1.2483660683814493
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BVT748HV",
+          "weight_kg": 14.720606806833258,
+          "volume_m3": 0.3502062372884851,
+          "dimensions_m": [
+            0.6384389984426355,
+            0.5757595117270344,
+            0.9527157562504438
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07MZRYQ2X",
+          "weight_kg": 1.066548551439646,
+          "volume_m3": 0.030197264280701963,
+          "dimensions_m": [
+            0.31260481723382705,
+            0.35526103723208186,
+            0.2719094830521221
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C4DWRF3M",
+          "weight_kg": 4.636809690569608,
+          "volume_m3": 0.030615097871306316,
+          "dimensions_m": [
+            0.4713656348653306,
+            0.3492529110309969,
+            0.1859677773868416
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09QZ3LYWB",
+          "weight_kg": 0.2906537041710202,
+          "volume_m3": 0.0469293335614091,
+          "dimensions_m": [
+            0.3315669797784451,
+            0.34740392149038885,
+            0.4074162969355634
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CCRXWDF1",
+          "weight_kg": 7.88361489400512,
+          "volume_m3": 0.445261741388096,
+          "dimensions_m": [
+            0.6995028990741856,
+            0.7025265984493859,
+            0.9060727931620935
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08B45QFG7",
+          "weight_kg": 9.296547457398821,
+          "volume_m3": 0.09944275420517389,
+          "dimensions_m": [
+            0.2933896708845556,
+            0.5805703448315533,
+            0.5838126159369195
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CKJ4YZC9",
+          "weight_kg": 5.66511845586767,
+          "volume_m3": 0.05470502808980934,
+          "dimensions_m": [
+            0.4173890038496941,
+            0.358066164219697,
+            0.3660352897696548
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07D6TS5MR",
+          "weight_kg": 15.896820787384334,
+          "volume_m3": 0.37263599614891124,
+          "dimensions_m": [
+            0.5536690076226273,
+            0.9142130990552745,
+            0.7361853168434613
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "weight_kg": 69.55362603480734,
+      "volume_m3": 1.722586738853356,
+      "service_minutes": 8.54,
+      "items": [
+        {
+          "catalog_id": "B071HWKHQL",
+          "weight_kg": 6.136387460501742,
+          "volume_m3": 0.1496381334415767,
+          "dimensions_m": [
+            0.3166496172841842,
+            0.719345448662175,
+            0.6569401641187353
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B01D378FYE",
+          "weight_kg": 6.815076765620682,
+          "volume_m3": 0.10979789262047585,
+          "dimensions_m": [
+            0.492539351865448,
+            0.4948213268778693,
+            0.4505102335048905
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07W56HHX5",
+          "weight_kg": 8.893279750035838,
+          "volume_m3": 0.17568357592739337,
+          "dimensions_m": [
+            0.3022465557802517,
+            0.6094531087372309,
+            0.9537389195085051
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C99D3V15",
+          "weight_kg": 13.51179076128003,
+          "volume_m3": 0.5417102838380873,
+          "dimensions_m": [
+            0.6391609646982135,
+            0.6163678489639788,
+            1.3750448373074198
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B097FC9C27",
+          "weight_kg": 5.609456737440537,
+          "volume_m3": 0.04118660681513527,
+          "dimensions_m": [
+            0.33525489776855694,
+            0.32360058403712505,
+            0.37963966878474315
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09DLBNY6W",
+          "weight_kg": 4.903950987073385,
+          "volume_m3": 0.09237592820388657,
+          "dimensions_m": [
+            0.35377934645132975,
+            0.39282925495505644,
+            0.6646951603160067
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B097FC9C27",
+          "weight_kg": 4.807262829199785,
+          "volume_m3": 0.0406846682193485,
+          "dimensions_m": [
+            0.30923600571863663,
+            0.33579686785747515,
+            0.39179968522238917
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09V6RSWSR",
+          "weight_kg": 0.1884649898207762,
+          "volume_m3": 0.0008263638784144735,
+          "dimensions_m": [
+            0.18874687735919515,
+            0.117115801230487,
+            0.03738316400019503
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CGQZBCZP",
+          "weight_kg": 18.305111812602718,
+          "volume_m3": 0.5693659250540067,
+          "dimensions_m": [
+            0.6753327990051919,
+            0.7021924458377292,
+            1.2006529066124096
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BHVLGGYL",
+          "weight_kg": 0.382843941231842,
+          "volume_m3": 0.001317360855031218,
+          "dimensions_m": [
+            0.24606229804328691,
+            0.10395842810462094,
+            0.051499139743780786
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "weight_kg": 66.95710339332223,
+      "volume_m3": 4.619351251116374,
+      "service_minutes": 8.767,
+      "items": [
+        {
+          "catalog_id": "B09K3MYL91",
+          "weight_kg": 6.07137714801329,
+          "volume_m3": 0.07460741621921707,
+          "dimensions_m": [
+            0.38025002383897893,
+            0.35319169609789375,
+            0.555523282867923
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08T7JP8ZN",
+          "weight_kg": 1.9936628671587846,
+          "volume_m3": 1.9627941162367057,
+          "dimensions_m": [
+            1.2866270925961225,
+            1.5217098860692992,
+            1.0025134160030464
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CHMQC63H",
+          "weight_kg": 4.539416835432071,
+          "volume_m3": 1.3305677831495941,
+          "dimensions_m": [
+            2.0503182141173877,
+            1.0713521853293897,
+            0.6057361238133185
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CG1N9QRC",
+          "weight_kg": 12.638571688928174,
+          "volume_m3": 0.11573244066567716,
+          "dimensions_m": [
+            0.4938083709103693,
+            0.3598679065813037,
+            0.6512587131947899
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B4CL1M1M",
+          "weight_kg": 0.020704521095100323,
+          "volume_m3": 0.00678018363159666,
+          "dimensions_m": [
+            0.33354174775125706,
+            0.2842024185737811,
+            0.07152592561077345
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07667648L",
+          "weight_kg": 17.51151006663851,
+          "volume_m3": 0.5184804741239156,
+          "dimensions_m": [
+            0.7024869154802272,
+            0.6356993936642602,
+            1.1610271320949432
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CB7SM7MM",
+          "weight_kg": 12.01920658153408,
+          "volume_m3": 0.2568731809990422,
+          "dimensions_m": [
+            0.44680859703600073,
+            0.4705664199268356,
+            1.2217330172224747
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08SLPBC36",
+          "weight_kg": 11.222045885872511,
+          "volume_m3": 0.1239281589586947,
+          "dimensions_m": [
+            0.43384311443314055,
+            0.4017595132045246,
+            0.7110024868093593
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07JCPZDSL",
+          "weight_kg": 0.3676373696292753,
+          "volume_m3": 0.1816781469900499,
+          "dimensions_m": [
+            0.5587459445893052,
+            0.5619065505046565,
+            0.5786609993075512
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08PMH8F89",
+          "weight_kg": 0.5729704290204313,
+          "volume_m3": 0.04790935014188082,
+          "dimensions_m": [
+            0.35901818492151183,
+            0.35261629085340007,
+            0.3784438571664808
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "weight_kg": 75.84430917157735,
+      "volume_m3": 1.43085207277867,
+      "service_minutes": 12.419,
+      "items": [
+        {
+          "catalog_id": "B01B65BYYI",
+          "weight_kg": 5.455009857088352,
+          "volume_m3": 0.12377460856743895,
+          "dimensions_m": [
+            0.43544666300028395,
+            0.4419855990455669,
+            0.6431147577954008
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B002FL3LL2",
+          "weight_kg": 15.388469892850695,
+          "volume_m3": 0.4857228888229704,
+          "dimensions_m": [
+            0.7056965942184935,
+            0.6462560609345643,
+            1.0650399991726838
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BB9RZ19N",
+          "weight_kg": 11.988981301224392,
+          "volume_m3": 0.13843715273711715,
+          "dimensions_m": [
+            0.4125263711463406,
+            0.7567229646111213,
+            0.44346977766381673
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09CGPQT1L",
+          "weight_kg": 0.19212912247991748,
+          "volume_m3": 0.0002784295422966644,
+          "dimensions_m": [
+            0.14005322968153358,
+            0.09086154914373472,
+            0.021879734520594583
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B078YDGBM8",
+          "weight_kg": 2.156746170743945,
+          "volume_m3": 0.10105823872395509,
+          "dimensions_m": [
+            0.504008847898502,
+            0.5042100109575759,
+            0.3976693323397593
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B01FL46UD0",
+          "weight_kg": 16.9037806074086,
+          "volume_m3": 0.0991849218297125,
+          "dimensions_m": [
+            0.3981661368585698,
+            0.40405841806923404,
+            0.6165058113084234
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C99NS6CZ",
+          "weight_kg": 0.0754646894403702,
+          "volume_m3": 0.00046045792267686563,
+          "dimensions_m": [
+            0.02851152036931441,
+            0.1297525372823606,
+            0.12446685446705698
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09Q1ZHQFR",
+          "weight_kg": 7.139065051431636,
+          "volume_m3": 0.26107674317018076,
+          "dimensions_m": [
+            0.4934450530687206,
+            0.5074929866669294,
+            1.042555880236539
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CB7SG59J",
+          "weight_kg": 14.509367683127882,
+          "volume_m3": 0.1650581100876652,
+          "dimensions_m": [
+            0.3809798473178081,
+            0.4476165160079409,
+            0.967896149427679
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B095HPZ7DD",
+          "weight_kg": 2.0352947957815677,
+          "volume_m3": 0.05580052137465647,
+          "dimensions_m": [
+            0.38390146993329877,
+            0.37132647316368333,
+            0.3914376262316998
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "weight_kg": 70.82302215521861,
+      "volume_m3": 1.6289741338639039,
+      "service_minutes": 8.841,
+      "items": [
+        {
+          "catalog_id": "B0CH34CCLV",
+          "weight_kg": 4.825165069092263,
+          "volume_m3": 0.049274881279972205,
+          "dimensions_m": [
+            0.3561695931168055,
+            0.32535531008653795,
+            0.4252172233559767
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B01FL46UD0",
+          "weight_kg": 15.616621704301535,
+          "volume_m3": 0.0999433090087299,
+          "dimensions_m": [
+            0.3842246032665446,
+            0.4038712874462691,
+            0.6440588832733676
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07RY46G23",
+          "weight_kg": 17.68935282825795,
+          "volume_m3": 0.7016810801214992,
+          "dimensions_m": [
+            1.862129880399288,
+            1.0451255542341111,
+            0.36054653882058824
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CKJ4YZC9",
+          "weight_kg": 5.972775592359347,
+          "volume_m3": 0.05502614004493595,
+          "dimensions_m": [
+            0.42829560129327815,
+            0.3625333044003834,
+            0.3543867904843878
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BWDJ8NSM",
+          "weight_kg": 5.898834203381912,
+          "volume_m3": 0.28763423640849467,
+          "dimensions_m": [
+            0.5634744812525905,
+            0.6239928292646816,
+            0.8180629547504741
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B19ZGGXC",
+          "weight_kg": 0.2586514576974532,
+          "volume_m3": 0.005039836226003562,
+          "dimensions_m": [
+            0.10261858261239871,
+            0.17135995343014374,
+            0.2866032274021104
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09CGPQT1L",
+          "weight_kg": 0.2109632034967494,
+          "volume_m3": 0.0002810248344733963,
+          "dimensions_m": [
+            0.13857403297077747,
+            0.09072212673225616,
+            0.022353710471428475
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08KLBTL5R",
+          "weight_kg": 13.476809252682692,
+          "volume_m3": 0.2543741211965941,
+          "dimensions_m": [
+            0.6094303788600064,
+            0.8694315205145419,
+            0.48007981449163956
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CP732ZN8",
+          "weight_kg": 0.8674048348399598,
+          "volume_m3": 0.05587856729059176,
+          "dimensions_m": [
+            0.3857525300996233,
+            0.24155731042050974,
+            0.5996754832728962
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B071HWKHQL",
+          "weight_kg": 6.006444009108743,
+          "volume_m3": 0.11984093745260906,
+          "dimensions_m": [
+            0.2957831067308604,
+            0.6491047471228643,
+            0.6241903441960948
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    }
+  ],
+  "coordinates_km": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      -8.7523,
+      -7.3743
+    ],
+    [
+      11.5712,
+      13.8705
+    ],
+    [
+      7.4103,
+      3.227
+    ],
+    [
+      -8.1442,
+      2.7891
+    ],
+    [
+      -7.0439,
+      -9.4259
+    ],
+    [
+      7.4031,
+      -0.24
+    ],
+    [
+      -6.7797,
+      6.0361
+    ],
+    [
+      13.2934,
+      -11.5839
+    ],
+    [
+      6.1083,
+      12.3432
+    ],
+    [
+      -4.5716,
+      -21.3156
+    ],
+    [
+      11.743,
+      5.4997
+    ],
+    [
+      -0.6089,
+      20.6513
+    ],
+    [
+      -8.553,
+      0.346
+    ],
+    [
+      -2.4212,
+      -1.4199
+    ],
+    [
+      -9.588,
+      10.5937
+    ],
+    [
+      3.7614,
+      -6.3406
+    ],
+    [
+      2.5472,
+      -5.658
+    ],
+    [
+      -8.2936,
+      4.1092
+    ],
+    [
+      -0.7724,
+      5.61
+    ],
+    [
+      -16.7626,
+      5.0978
+    ],
+    [
+      6.6403,
+      -16.9423
+    ],
+    [
+      12.5278,
+      7.9221
+    ],
+    [
+      13.9662,
+      -1.2115
+    ],
+    [
+      16.5141,
+      -2.3067
+    ],
+    [
+      -5.1745,
+      19.1493
+    ],
+    [
+      -0.3479,
+      22.6824
+    ],
+    [
+      2.2209,
+      10.1924
+    ],
+    [
+      -3.4616,
+      -3.776
+    ],
+    [
+      -2.4092,
+      26.7441
+    ],
+    [
+      -8.4703,
+      15.4382
+    ],
+    [
+      16.584,
+      -7.7997
+    ],
+    [
+      -9.8783,
+      -9.5006
+    ],
+    [
+      5.573,
+      9.6625
+    ],
+    [
+      -4.5464,
+      -27.7745
+    ]
+  ],
+  "distance_matrix_m": [
+    [
+      0,
+      11445,
+      18063,
+      8082,
+      8609,
+      11767,
+      7407,
+      9077,
+      17632,
+      13772,
+      21800,
+      12967,
+      20660,
+      8560,
+      2807,
+      14288,
+      7372,
+      6205,
+      9256,
+      5663,
+      17521,
+      18197,
+      14822,
+      14019,
+      16674,
+      19836,
+      22685,
+      10432,
+      5123,
+      26852,
+      17609,
+      18327,
+      13706,
+      11154,
+      28144
+    ],
+    [
+      11445,
+      0,
+      29400,
+      19329,
+      10182,
+      2670,
+      17661,
+      13555,
+      22444,
+      24690,
+      14555,
+      24203,
+      29185,
+      7723,
+      8691,
+      17987,
+      12556,
+      11429,
+      11493,
+      15240,
+      14823,
+      18124,
+      26207,
+      23540,
+      25770,
+      26764,
+      31210,
+      20712,
+      6398,
+      34703,
+      22814,
+      25340,
+      2406,
+      22259,
+      20829
+    ],
+    [
+      18063,
+      29400,
+      0,
+      11428,
+      22616,
+      29820,
+      14713,
+      19953,
+      25513,
+      5672,
+      38712,
+      8373,
+      13940,
+      24247,
+      20726,
+      21411,
+      21668,
+      21513,
+      22134,
+      14853,
+      29661,
+      31205,
+      6025,
+      15271,
+      16915,
+      17558,
+      14823,
+      10048,
+      23182,
+      19005,
+      20103,
+      22242,
+      31722,
+      7327,
+      44655
+    ],
+    [
+      8082,
+      19329,
+      11428,
+      0,
+      15561,
+      19210,
+      3467,
+      14465,
+      15937,
+      9209,
+      27311,
+      4893,
+      19181,
+      16221,
+      10874,
+      18526,
+      10240,
+      10129,
+      15729,
+      8523,
+      24245,
+      20184,
+      6945,
+      7917,
+      10654,
+      20295,
+      20945,
+      8686,
+      12932,
+      25485,
+      20033,
+      14344,
+      21468,
+      6693,
+      33227
+    ],
+    [
+      8609,
+      10182,
+      22616,
+      15561,
+      0,
+      12264,
+      15840,
+      3522,
+      25810,
+      17159,
+      24368,
+      20071,
+      19387,
+      2477,
+      7104,
+      7937,
+      15003,
+      13626,
+      1329,
+      7893,
+      8922,
+      24656,
+      21300,
+      22469,
+      25179,
+      16628,
+      21366,
+      12738,
+      8064,
+      24632,
+      12653,
+      26900,
+      12411,
+      15343,
+      30775
+    ],
+    [
+      11767,
+      2670,
+      29820,
+      19210,
+      12264,
+      0,
+      17120,
+      15464,
+      20451,
+      25434,
+      12144,
+      23994,
+      30758,
+      9888,
+      9245,
+      20181,
+      11237,
+      10305,
+      13593,
+      16291,
+      17475,
+      15613,
+      26153,
+      22559,
+      24610,
+      28636,
+      32799,
+      21696,
+      6690,
+      36466,
+      24905,
+      23684,
+      2835,
+      22881,
+      18518
+    ],
+    [
+      7407,
+      17661,
+      14713,
+      3467,
+      15840,
+      17120,
+      0,
+      15509,
+      12782,
+      12650,
+      24240,
+      7196,
+      22375,
+      15967,
+      9895,
+      20151,
+      7105,
+      7276,
+      16288,
+      10053,
+      24748,
+      16720,
+      9638,
+      6635,
+      9342,
+      23111,
+      24197,
+      11649,
+      11426,
+      28713,
+      22311,
+      11893,
+      19606,
+      10070,
+      30016
+    ],
+    [
+      9077,
+      13555,
+      19953,
+      14465,
+      3522,
+      15464,
+      15509,
+      0,
+      26709,
+      14349,
+      27441,
+      18530,
+      15865,
+      5960,
+      8636,
+      5353,
+      16257,
+      14958,
+      2450,
+      6022,
+      10027,
+      26610,
+      19399,
+      21975,
+      24743,
+      13211,
+      17846,
+      9914,
+      10358,
+      21164,
+      9553,
+      27153,
+      15843,
+      12874,
+      33884
+    ],
+    [
+      17632,
+      22444,
+      25513,
+      15937,
+      25810,
+      20451,
+      12782,
+      26709,
+      0,
+      24983,
+      20344,
+      17154,
+      35105,
+      24892,
+      18715,
+      31865,
+      10879,
+      12272,
+      26688,
+      22214,
+      34375,
+      8543,
+      19521,
+      10394,
+      9820,
+      35855,
+      36882,
+      24430,
+      18485,
+      41420,
+      34697,
+      5015,
+      23265,
+      22606,
+      24091
+    ],
+    [
+      13772,
+      24690,
+      5672,
+      9209,
+      17159,
+      25434,
+      12650,
+      14349,
+      24983,
+      0,
+      35313,
+      8865,
+      10684,
+      18944,
+      16192,
+      15793,
+      18831,
+      18350,
+      16590,
+      9627,
+      23991,
+      29290,
+      7795,
+      15668,
+      17969,
+      13177,
+      12189,
+      4443,
+      18746,
+      16731,
+      14904,
+      22704,
+      27069,
+      2734,
+      41508
+    ],
+    [
+      21800,
+      14555,
+      38712,
+      27311,
+      24368,
+      12144,
+      24240,
+      27441,
+      20344,
+      35313,
+      0,
+      31388,
+      42154,
+      22024,
+      20012,
+      32301,
+      17137,
+      17200,
+      25696,
+      27192,
+      29091,
+      12035,
+      33871,
+      27346,
+      28389,
+      40469,
+      44200,
+      32232,
+      17575,
+      48108,
+      36960,
+      25105,
+      12952,
+      32597,
+      6459
+    ],
+    [
+      12967,
+      24203,
+      8373,
+      4893,
+      20071,
+      23994,
+      7196,
+      18530,
+      17154,
+      8865,
+      31388,
+      0,
+      19548,
+      20940,
+      15764,
+      21931,
+      14279,
+      14459,
+      20085,
+      12516,
+      28508,
+      23015,
+      2546,
+      7070,
+      9149,
+      21737,
+      21010,
+      10616,
+      17811,
+      25527,
+      22524,
+      14153,
+      26315,
+      7443,
+      37047
+    ],
+    [
+      20660,
+      29185,
+      13940,
+      19181,
+      19387,
+      30758,
+      22375,
+      15865,
+      35105,
+      10684,
+      42154,
+      19548,
+      0,
+      21804,
+      22145,
+      13483,
+      27343,
+      26498,
+      18240,
+      15042,
+      22424,
+      38286,
+      18292,
+      26276,
+      28640,
+      4806,
+      2048,
+      10835,
+      24593,
+      6353,
+      9433,
+      33242,
+      31545,
+      12608,
+      48586
+    ],
+    [
+      8560,
+      7723,
+      24247,
+      16221,
+      2477,
+      9888,
+      15967,
+      5960,
+      24892,
+      18944,
+      22024,
+      20940,
+      21804,
+      0,
+      6381,
+      10300,
+      14013,
+      12620,
+      3772,
+      9394,
+      9486,
+      23016,
+      22401,
+      22573,
+      25207,
+      19104,
+      23796,
+      14595,
+      6551,
+      27104,
+      15092,
+      26424,
+      9935,
+      16922,
+      28404
+    ],
+    [
+      2807,
+      8691,
+      20726,
+      10874,
+      7104,
+      9245,
+      9895,
+      8636,
+      18715,
+      16192,
+      20012,
+      15764,
+      22145,
+      6381,
+      0,
+      13989,
+      7902,
+      6530,
+      8066,
+      7221,
+      15753,
+      17974,
+      17628,
+      16389,
+      18956,
+      20753,
+      24191,
+      12506,
+      2576,
+      28164,
+      17911,
+      20047,
+      10996,
+      13665,
+      26440
+    ],
+    [
+      14288,
+      17987,
+      21411,
+      18526,
+      7937,
+      20181,
+      20151,
+      5353,
+      31865,
+      15793,
+      32301,
+      21931,
+      13483,
+      10300,
+      13989,
+      0,
+      21563,
+      20283,
+      6612,
+      10127,
+      9038,
+      31962,
+      22277,
+      26347,
+      29116,
+      9627,
+      15216,
+      11816,
+      15621,
+      17674,
+      4972,
+      31989,
+      20096,
+      15190,
+      38698
+    ],
+    [
+      7372,
+      12556,
+      21668,
+      10240,
+      15003,
+      11237,
+      7105,
+      16257,
+      10879,
+      18831,
+      17137,
+      14279,
+      27343,
+      14013,
+      7902,
+      21563,
+      0,
+      1393,
+      15954,
+      12782,
+      23496,
+      10986,
+      16741,
+      11421,
+      13375,
+      27011,
+      29312,
+      16605,
+      7665,
+      33655,
+      24979,
+      12905,
+      14001,
+      16105,
+      22988
+    ],
+    [
+      6205,
+      11429,
+      21513,
+      10129,
+      13626,
+      10305,
+      7276,
+      14958,
+      12272,
+      18350,
+      17200,
+      14459,
+      26498,
+      12620,
+      6530,
+      20283,
+      1393,
+      0,
+      14592,
+      11747,
+      22103,
+      12004,
+      16853,
+      12254,
+      14363,
+      25981,
+      28488,
+      15854,
+      6297,
+      32779,
+      23800,
+      14199,
+      13006,
+      15616,
+      23226
+    ],
+    [
+      9256,
+      11493,
+      22134,
+      15729,
+      1329,
+      13593,
+      16288,
+      2450,
+      26688,
+      16590,
+      25696,
+      20085,
+      18240,
+      3772,
+      8066,
+      6612,
+      15954,
+      14592,
+      0,
+      7669,
+      8527,
+      25811,
+      21168,
+      22887,
+      25624,
+      15360,
+      20201,
+      12147,
+      9248,
+      23387,
+      11330,
+      27581,
+      13702,
+      14937,
+      32103
+    ],
+    [
+      5663,
+      15240,
+      14853,
+      8523,
+      7893,
+      16291,
+      10053,
+      6022,
+      22214,
+      9627,
+      27192,
+      12516,
+      15042,
+      9394,
+      7221,
+      10127,
+      12782,
+      11747,
+      7669,
+      0,
+      15998,
+      23739,
+      13500,
+      16241,
+      19013,
+      14237,
+      17078,
+      5473,
+      9764,
+      21197,
+      12484,
+      21933,
+      17642,
+      7529,
+      33597
+    ],
+    [
+      17521,
+      14823,
+      29661,
+      24245,
+      8922,
+      17475,
+      24748,
+      10027,
+      34375,
+      23991,
+      29091,
+      28508,
+      22424,
+      9486,
+      15753,
+      9038,
+      23496,
+      22103,
+      8527,
+      15998,
+      0,
+      32147,
+      29426,
+      31370,
+      34091,
+      18213,
+      24055,
+      19655,
+      15989,
+      25973,
+      13255,
+      35754,
+      16140,
+      22797,
+      35069
+    ],
+    [
+      18197,
+      18124,
+      31205,
+      20184,
+      24656,
+      15613,
+      16720,
+      26610,
+      8543,
+      29290,
+      12035,
+      23015,
+      38286,
+      23016,
+      17974,
+      31962,
+      10986,
+      12004,
+      25811,
+      23739,
+      32147,
+      0,
+      25552,
+      17353,
+      17655,
+      37976,
+      40236,
+      27492,
+      16595,
+      44614,
+      35733,
+      13508,
+      18117,
+      26626,
+      15572
+    ],
+    [
+      14822,
+      26207,
+      6025,
+      6945,
+      21300,
+      26153,
+      9638,
+      19399,
+      19521,
+      7795,
+      33871,
+      2546,
+      18292,
+      22401,
+      17628,
+      22277,
+      16741,
+      16853,
+      21168,
+      13500,
+      29426,
+      25552,
+      0,
+      9246,
+      10978,
+      20962,
+      19587,
+      10554,
+      19812,
+      24029,
+      22303,
+      16237,
+      28383,
+      7169,
+      39570
+    ],
+    [
+      14019,
+      23540,
+      15271,
+      7917,
+      22469,
+      22559,
+      6635,
+      21975,
+      10394,
+      15668,
+      27346,
+      7070,
+      26276,
+      22573,
+      16389,
+      26347,
+      11421,
+      12254,
+      22887,
+      16241,
+      31370,
+      17353,
+      9246,
+      0,
+      2773,
+      27945,
+      27853,
+      16371,
+      17615,
+      32399,
+      27939,
+      7089,
+      25244,
+      13736,
+      32378
+    ],
+    [
+      16674,
+      25770,
+      16915,
+      10654,
+      25179,
+      24610,
+      9342,
+      24743,
+      9820,
+      17969,
+      28389,
+      9149,
+      28640,
+      25207,
+      18956,
+      29116,
+      13375,
+      14363,
+      25624,
+      19013,
+      34091,
+      17655,
+      10978,
+      2773,
+      0,
+      30508,
+      30146,
+      18987,
+      20030,
+      34670,
+      30645,
+      5493,
+      27355,
+      16216,
+      33048
+    ],
+    [
+      19836,
+      26764,
+      17558,
+      20295,
+      16628,
+      28636,
+      23111,
+      13211,
+      35855,
+      13177,
+      40469,
+      21737,
+      4806,
+      19104,
+      20753,
+      9627,
+      27011,
+      25981,
+      15360,
+      14237,
+      18213,
+      37976,
+      20962,
+      27945,
+      30508,
+      0,
+      5982,
+      11615,
+      22989,
+      8083,
+      4963,
+      34636,
+      29033,
+      14336,
+      46928
+    ],
+    [
+      22685,
+      31210,
+      14823,
+      20945,
+      21366,
+      32799,
+      24197,
+      17846,
+      36882,
+      12189,
+      44200,
+      21010,
+      2048,
+      23796,
+      24191,
+      15216,
+      29312,
+      28488,
+      20201,
+      17078,
+      24055,
+      40236,
+      19587,
+      27853,
+      30146,
+      5982,
+      0,
+      12751,
+      26641,
+      4555,
+      10884,
+      34869,
+      33564,
+      14303,
+      50631
+    ],
+    [
+      10432,
+      20712,
+      10048,
+      8686,
+      12738,
+      21696,
+      11649,
+      9914,
+      24430,
+      4443,
+      32232,
+      10616,
+      10835,
+      14595,
+      12506,
+      11816,
+      16605,
+      15854,
+      12147,
+      5473,
+      19655,
+      27492,
+      10554,
+      16371,
+      18987,
+      11615,
+      12751,
+      0,
+      15080,
+      17187,
+      11909,
+      23022,
+      23113,
+      3394,
+      38565
+    ],
+    [
+      5123,
+      6398,
+      23182,
+      12932,
+      8064,
+      6690,
+      11426,
+      10358,
+      18485,
+      18746,
+      17575,
+      17811,
+      24593,
+      6551,
+      2576,
+      15621,
+      7665,
+      6297,
+      9248,
+      9764,
+      15989,
+      16595,
+      19812,
+      17615,
+      20030,
+      22989,
+      26641,
+      15080,
+      0,
+      30538,
+      19856,
+      20445,
+      8599,
+      16193,
+      24023
+    ],
+    [
+      26852,
+      34703,
+      19005,
+      25485,
+      24632,
+      36466,
+      28713,
+      21164,
+      41420,
+      16731,
+      48108,
+      25527,
+      6353,
+      27104,
+      28164,
+      17674,
+      33655,
+      32779,
+      23387,
+      21197,
+      25973,
+      44614,
+      24029,
+      32399,
+      34670,
+      8083,
+      4555,
+      17187,
+      30538,
+      0,
+      12828,
+      39421,
+      37006,
+      18855,
+      54560
+    ],
+    [
+      17609,
+      22814,
+      20103,
+      20033,
+      12653,
+      24905,
+      22311,
+      9553,
+      34697,
+      14904,
+      36960,
+      22524,
+      9433,
+      15092,
+      17911,
+      4972,
+      24979,
+      23800,
+      11330,
+      12484,
+      13255,
+      35733,
+      22303,
+      27939,
+      30645,
+      4963,
+      10884,
+      11909,
+      19856,
+      12828,
+      0,
+      34172,
+      24979,
+      15185,
+      43390
+    ],
+    [
+      18327,
+      25340,
+      22242,
+      14344,
+      26900,
+      23684,
+      11893,
+      27153,
+      5015,
+      22704,
+      25105,
+      14153,
+      33242,
+      26424,
+      20047,
+      31989,
+      12905,
+      14199,
+      27581,
+      21933,
+      35754,
+      13508,
+      16237,
+      7089,
+      5493,
+      34636,
+      34869,
+      23022,
+      20445,
+      39421,
+      34172,
+      0,
+      26517,
+      20644,
+      29077
+    ],
+    [
+      13706,
+      2406,
+      31722,
+      21468,
+      12411,
+      2835,
+      19606,
+      15843,
+      23265,
+      27069,
+      12952,
+      26315,
+      31545,
+      9935,
+      10996,
+      20096,
+      14001,
+      13006,
+      13702,
+      17642,
+      16140,
+      18117,
+      28383,
+      25244,
+      27355,
+      29033,
+      33564,
+      23113,
+      8599,
+      37006,
+      24979,
+      26517,
+      0,
+      24616,
+      19036
+    ],
+    [
+      11154,
+      22259,
+      7327,
+      6693,
+      15343,
+      22881,
+      10070,
+      12874,
+      22606,
+      2734,
+      32597,
+      7443,
+      12608,
+      16922,
+      13665,
+      15190,
+      16105,
+      15616,
+      14937,
+      7529,
+      22797,
+      26626,
+      7169,
+      13736,
+      16216,
+      14336,
+      14303,
+      3394,
+      16193,
+      18855,
+      15185,
+      20644,
+      24616,
+      0,
+      38781
+    ],
+    [
+      28144,
+      20829,
+      44655,
+      33227,
+      30775,
+      18518,
+      30016,
+      33884,
+      24091,
+      41508,
+      6459,
+      37047,
+      48586,
+      28404,
+      26440,
+      38698,
+      22988,
+      23226,
+      32103,
+      33597,
+      35069,
+      15572,
+      39570,
+      32378,
+      33048,
+      46928,
+      50631,
+      38565,
+      24023,
+      54560,
+      43390,
+      29077,
+      19036,
+      38781,
+      0
+    ]
+  ],
+  "reference_transports": [
+    {
+      "vehicle": 0,
+      "cycle": 0,
+      "customers": [
+        12,
+        6,
+        10,
+        4,
+        8,
+        11,
+        1,
+        9,
+        5,
+        7,
+        2,
+        3
+      ],
+      "target_utilization": 0.7412814076970125,
+      "start_minutes": 0.0,
+      "finish_minutes": 567.6341428571428,
+      "distance_km": 263.861,
+      "fuel_litres": 15.236943692099999
+    },
+    {
+      "vehicle": 1,
+      "cycle": 0,
+      "customers": [
+        13,
+        14,
+        18,
+        15,
+        19,
+        16,
+        17,
+        20
+      ],
+      "target_utilization": 0.7120515016375771,
+      "start_minutes": 0.0,
+      "finish_minutes": 230.77985714285714,
+      "distance_km": 93.545,
+      "fuel_litres": 8.4715942265
+    },
+    {
+      "vehicle": 2,
+      "cycle": 0,
+      "customers": [
+        23,
+        27,
+        29,
+        22,
+        30,
+        24,
+        33,
+        31,
+        26,
+        21,
+        28,
+        34,
+        25,
+        32
+      ],
+      "target_utilization": 0.8295838142454901,
+      "start_minutes": 0.0,
+      "finish_minutes": 761.4318571428571,
+      "distance_km": 366.804,
+      "fuel_litres": 79.5556793952
+    }
+  ],
+  "provenance": {
+    "catalog_source": "Audited Kaggle Amazon furniture sample",
+    "proxy_mode": true,
+    "normal_parameters": {
+      "stop_count_mean": 10,
+      "stop_count_sd": 2,
+      "utilization_mean": 0.8,
+      "utilization_sd": 0.07,
+      "dimension_cv": 0.03,
+      "weight_cv": 0.05,
+      "location_mean_km": 0,
+      "location_sd_km": 10,
+      "service_mean_minutes": 10,
+      "service_sd_minutes": 2
+    },
+    "warning": "Synthetic orders and locations. Sampling is truncated and capacity-conditioned; proxy dimensions/item weights are not verified package measurements."
+  },
+  "model": {
+    "depot": 0,
+    "one_physical_vehicle_per_type": true,
+    "multiple_sequential_trips": true,
+    "all_orders_available_at_time_zero": true,
+    "time_horizon_minutes": null,
+    "objective": "fuel_litres",
+    "schedule_average_speed_kmh": 35,
+    "not_implemented": [
+      "3D packing",
+      "time windows",
+      "release times",
+      "shift limits",
+      "road network",
+      "load-dependent fuel"
+    ]
+  },
+  "generation_statistics": {
+    "transports": 3,
+    "requested_stops": [
+      12,
+      8,
+      14
+    ],
+    "mean_stops_per_transport": 11.333333333333334,
+    "total_items": 222
+  }
+}

@@ -1,0 +1,1 @@
+Original code is MIT licensed. The Amazon furniture sample is third-party data whose Kaggle metadata reports CC0: Public Domain. See the generator repository for original metadata and the catalog audit. Generated orders/locations and proxy values are explicitly synthetic; no manufacturer endorsement is claimed.
