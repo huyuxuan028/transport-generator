@@ -21,7 +21,9 @@ class Tests(unittest.TestCase):
     def test_seed_reproducibility_and_capacity_witness(self):
         catalog=json.loads((ROOT/'data/catalog_proxy.json').read_text());vs=json.loads((ROOT/'data/vehicles.json').read_text())
         x=generate(catalog,vs,42,2,True);y=generate(catalog,vs,42,2,True)
-        self.assertEqual(x,y);visits=[];clocks=[0.,0.,0.]
+        self.assertEqual(x,y);self.assertEqual(x['fleet_size'],5)
+        self.assertEqual(len(x['vehicles']),5);self.assertEqual(len(x['vehicle_types']),3)
+        visits=[];clocks=[0.]*5
         for trip in x['reference_transports']:
             v=x['vehicles'][trip['vehicle']];cs=[x['customers'][i] for i in trip['customers']]
             self.assertLessEqual(sum(c['weight_kg'] for c in cs),v['payload_kg']+1e-8)

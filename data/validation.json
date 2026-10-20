@@ -1,9 +1,10 @@
 {
-  "schema_version": 1,
-  "name": "Heterogeneous-34-seed43",
+  "schema_version": 2,
+  "name": "Heterogeneous-48-five-vehicle-seed43",
   "seed": 43,
   "cycles_per_vehicle": 1,
-  "vehicles": [
+  "fleet_size": 5,
+  "vehicle_types": [
     {
       "id": "caddy",
       "name": "VW Caddy Cargo SWB",
@@ -54,6 +55,98 @@
       ],
       "source": "Instructor-provided Mascus listing and operator-report values; adopted course inputs.",
       "fuel_l_per_100km": 21.68888
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "caddy-1",
+      "name": "VW Caddy Cargo SWB",
+      "length_m": 4.5,
+      "volume_m3": 3.1,
+      "payload_kg": 680,
+      "fuel_range_l_per_100km": [
+        4.5,
+        6.2
+      ],
+      "top_speed_range_kmh": [
+        178,
+        178
+      ],
+      "source": "Instructor-provided VW MY26 spec-sheet values; adopted course inputs, not independently verified vehicle documentation.",
+      "fuel_l_per_100km": 5.77461,
+      "type_id": "caddy"
+    },
+    {
+      "id": "sprinter-2",
+      "name": "Mercedes Sprinter 315 CDI L2H2",
+      "length_m": 5.93,
+      "volume_m3": 10.5,
+      "payload_kg": 1231,
+      "fuel_range_l_per_100km": [
+        9.0,
+        9.1
+      ],
+      "top_speed_range_kmh": [
+        161,
+        161
+      ],
+      "source": "Instructor-provided Vanaways (CAP HPI) spec values; adopted course inputs.",
+      "fuel_l_per_100km": 9.05617,
+      "type_id": "sprinter"
+    },
+    {
+      "id": "man-3",
+      "name": "MAN TGL 12.190 box",
+      "length_m": 9.2,
+      "volume_m3": 42.7,
+      "payload_kg": 5480,
+      "fuel_range_l_per_100km": [
+        18,
+        24
+      ],
+      "top_speed_range_kmh": [
+        90,
+        110
+      ],
+      "source": "Instructor-provided Mascus listing and operator-report values; adopted course inputs.",
+      "fuel_l_per_100km": 21.68888,
+      "type_id": "man"
+    },
+    {
+      "id": "caddy-4",
+      "name": "VW Caddy Cargo SWB",
+      "length_m": 4.5,
+      "volume_m3": 3.1,
+      "payload_kg": 680,
+      "fuel_range_l_per_100km": [
+        4.5,
+        6.2
+      ],
+      "top_speed_range_kmh": [
+        178,
+        178
+      ],
+      "source": "Instructor-provided VW MY26 spec-sheet values; adopted course inputs, not independently verified vehicle documentation.",
+      "fuel_l_per_100km": 5.77461,
+      "type_id": "caddy"
+    },
+    {
+      "id": "sprinter-5",
+      "name": "Mercedes Sprinter 315 CDI L2H2",
+      "length_m": 5.93,
+      "volume_m3": 10.5,
+      "payload_kg": 1231,
+      "fuel_range_l_per_100km": [
+        9.0,
+        9.1
+      ],
+      "top_speed_range_kmh": [
+        161,
+        161
+      ],
+      "source": "Instructor-provided Vanaways (CAP HPI) spec values; adopted course inputs.",
+      "fuel_l_per_100km": 9.05617,
+      "type_id": "sprinter"
     }
   ],
   "customers": [
@@ -2999,6 +3092,790 @@
           "weight_basis": "item_weight_proxy"
         }
       ]
+    },
+    {
+      "id": 35,
+      "weight_kg": 8.29641757050514,
+      "volume_m3": 0.3541552292193338,
+      "service_minutes": 7.86,
+      "items": [
+        {
+          "catalog_id": "B09T5T67VC",
+          "weight_kg": 5.747293707274945,
+          "volume_m3": 0.25400400471828366,
+          "dimensions_m": [
+            0.570590401808919,
+            0.5629320197563582,
+            0.7907881446871239
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00R5VYYIG",
+          "weight_kg": 0.10822886090786338,
+          "volume_m3": 0.00024151920998306665,
+          "dimensions_m": [
+            0.1095850479109875,
+            0.08637556237576864,
+            0.02551581763800539
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B078YDGBM8",
+          "weight_kg": 2.440895002322332,
+          "volume_m3": 0.09990970529106707,
+          "dimensions_m": [
+            0.46935016578384176,
+            0.5211277367442111,
+            0.4084759706381139
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "weight_kg": 20.47042604977379,
+      "volume_m3": 0.5130417153764372,
+      "service_minutes": 11.246,
+      "items": [
+        {
+          "catalog_id": "B0BY23W1J9",
+          "weight_kg": 12.335678144457964,
+          "volume_m3": 0.1061824581476101,
+          "dimensions_m": [
+            0.34514457103363894,
+            0.6829485602751463,
+            0.4504677816096036
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09NZY3R1T",
+          "weight_kg": 7.524178879351854,
+          "volume_m3": 0.36068336538104645,
+          "dimensions_m": [
+            0.3179805544797363,
+            0.6277055694190692,
+            1.8070475014434073
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08PMH8F89",
+          "weight_kg": 0.6105690259639699,
+          "volume_m3": 0.04617589184778057,
+          "dimensions_m": [
+            0.34800860950843354,
+            0.34247639987461326,
+            0.38743125596390116
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "weight_kg": 49.7726891552651,
+      "volume_m3": 0.7507903483908556,
+      "service_minutes": 9.079,
+      "items": [
+        {
+          "catalog_id": "B071DZG655",
+          "weight_kg": 32.43329395416641,
+          "volume_m3": 0.3223499747397431,
+          "dimensions_m": [
+            0.8824117319396616,
+            0.4452169992294867,
+            0.8205114177149977
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CF8HTCS4",
+          "weight_kg": 12.78335632190765,
+          "volume_m3": 0.36962672015172665,
+          "dimensions_m": [
+            0.693306875377149,
+            0.6798489833558768,
+            0.7841974019904986
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C1NSNDW2",
+          "weight_kg": 4.5560388791910365,
+          "volume_m3": 0.058813653499385825,
+          "dimensions_m": [
+            0.2916029392035251,
+            0.4080467428181672,
+            0.49428376485559766
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "weight_kg": 25.005079954237853,
+      "volume_m3": 0.47542576162157363,
+      "service_minutes": 8.93,
+      "items": [
+        {
+          "catalog_id": "B0B3HM3FTZ",
+          "weight_kg": 19.516337475064898,
+          "volume_m3": 0.39970056866951986,
+          "dimensions_m": [
+            0.4938878693517866,
+            0.6063044302908918,
+            1.3347983623274868
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BSKY28M7",
+          "weight_kg": 5.488742479172956,
+          "volume_m3": 0.07572519295205375,
+          "dimensions_m": [
+            0.5004140332467132,
+            0.09181426266722564,
+            1.6481652662757553
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "weight_kg": 27.26045905872614,
+      "volume_m3": 0.1492405927412545,
+      "service_minutes": 11.087,
+      "items": [
+        {
+          "catalog_id": "B0C6K8LMG8",
+          "weight_kg": 5.4147356501904325,
+          "volume_m3": 0.06526361423287796,
+          "dimensions_m": [
+            0.37751282173479533,
+            0.27702927151589146,
+            0.6240419057286161
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CH862BV2",
+          "weight_kg": 21.845723408535708,
+          "volume_m3": 0.08397697850837656,
+          "dimensions_m": [
+            0.31673839496265055,
+            0.4475779439386065,
+            0.5923669994066328
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "weight_kg": 22.023716797762237,
+      "volume_m3": 0.2825069501308093,
+      "service_minutes": 8.413,
+      "items": [
+        {
+          "catalog_id": "B072P27BTW",
+          "weight_kg": 15.543114435450455,
+          "volume_m3": 0.17323286014514047,
+          "dimensions_m": [
+            0.6887651404160073,
+            0.6617381301926039,
+            0.3800781970149104
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BG6BJ3DL",
+          "weight_kg": 6.4806023623117825,
+          "volume_m3": 0.10927408998566879,
+          "dimensions_m": [
+            0.5004729082365583,
+            0.4878594380174587,
+            0.44755036350528127
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "weight_kg": 47.00241189670055,
+      "volume_m3": 0.7197955443937157,
+      "service_minutes": 10.763,
+      "items": [
+        {
+          "catalog_id": "B000TMHWGO",
+          "weight_kg": 10.293326965073847,
+          "volume_m3": 0.35404119528987926,
+          "dimensions_m": [
+            0.6820763591314868,
+            0.6197044311257355,
+            0.8375990955225048
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C38VPJ15",
+          "weight_kg": 2.9660584174991427,
+          "volume_m3": 0.042311916244590006,
+          "dimensions_m": [
+            0.3140876172038043,
+            0.39820599433981,
+            0.33830162678513603
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08ZC5CYXG",
+          "weight_kg": 10.711248435202071,
+          "volume_m3": 0.21962570419838648,
+          "dimensions_m": [
+            0.36894114939863604,
+            0.5035867425908679,
+            1.182093371904935
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CKMRJ1H9",
+          "weight_kg": 10.13384033301512,
+          "volume_m3": 1.5373766743798925e-05,
+          "dimensions_m": [
+            0.024100591918094393,
+            0.025989794746480645,
+            0.024544247899502936
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BY23W1J9",
+          "weight_kg": 12.696429816804216,
+          "volume_m3": 0.10291832645975552,
+          "dimensions_m": [
+            0.34846575018523473,
+            0.6623148580142897,
+            0.44593146660068617
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09V6RSWSR",
+          "weight_kg": 0.20150792910615142,
+          "volume_m3": 0.0008830284343606465,
+          "dimensions_m": [
+            0.17879271685311243,
+            0.1305556331281498,
+            0.037829382262919584
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "weight_kg": 39.249251187680876,
+      "volume_m3": 0.6255938458547675,
+      "service_minutes": 11.95,
+      "items": [
+        {
+          "catalog_id": "B0BVQSPCCF",
+          "weight_kg": 11.063792791891403,
+          "volume_m3": 0.23819333072418966,
+          "dimensions_m": [
+            0.50450046153569,
+            0.5256961147503678,
+            0.8981177137330594
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B099VZPTWT",
+          "weight_kg": 2.750263724756602,
+          "volume_m3": 0.027728977393870816,
+          "dimensions_m": [
+            0.2544910909229231,
+            0.3033156609985028,
+            0.3592249025297063
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CJHT9KH6",
+          "weight_kg": 10.389218570598738,
+          "volume_m3": 0.11836410865271388,
+          "dimensions_m": [
+            0.39693345741401226,
+            0.5495783056005671,
+            0.5425911978647695
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B005H05TWC",
+          "weight_kg": 13.263947938122929,
+          "volume_m3": 0.2298159120215802,
+          "dimensions_m": [
+            0.44868449708760205,
+            0.8541973646761197,
+            0.5996264805671606
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CMX4CMMS",
+          "weight_kg": 1.7820281623112064,
+          "volume_m3": 0.011491517062412927,
+          "dimensions_m": [
+            0.43179329827336654,
+            0.26916806848940383,
+            0.09887304984429209
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "weight_kg": 70.20225566121353,
+      "volume_m3": 1.0670318845879039,
+      "service_minutes": 9.951,
+      "items": [
+        {
+          "catalog_id": "B0BJZPV117",
+          "weight_kg": 14.015102517824081,
+          "volume_m3": 0.09059035223227349,
+          "dimensions_m": [
+            0.35520857282431173,
+            0.3487465584871926,
+            0.7312882222037252
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B24KQJS9",
+          "weight_kg": 2.989796291515702,
+          "volume_m3": 0.029990469193433903,
+          "dimensions_m": [
+            0.26221024881851757,
+            0.3308555025699225,
+            0.34569670147793774
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CM1B86CJ",
+          "weight_kg": 26.90995981347704,
+          "volume_m3": 0.19692706758896153,
+          "dimensions_m": [
+            0.3996477126736438,
+            0.6103490493390471,
+            0.8073276183593501
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CBBMQPVC",
+          "weight_kg": 17.171514875371187,
+          "volume_m3": 0.579910988344039,
+          "dimensions_m": [
+            0.6065661381721479,
+            0.7321231002060277,
+            1.3058673571698356
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B07W56HHX5",
+          "weight_kg": 9.11588216302551,
+          "volume_m3": 0.16961300722919606,
+          "dimensions_m": [
+            0.3018109642090062,
+            0.6064419736813168,
+            0.9266908799742752
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "weight_kg": 49.68921002755561,
+      "volume_m3": 1.2883917349702845,
+      "service_minutes": 8.455,
+      "items": [
+        {
+          "catalog_id": "B09NZY3R1T",
+          "weight_kg": 8.248696912250717,
+          "volume_m3": 0.3638947082073863,
+          "dimensions_m": [
+            0.31898640453626886,
+            0.631170517191225,
+            1.8074107557836068
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B092HVNQQ4",
+          "weight_kg": 0.4521980736580315,
+          "volume_m3": 0.295776960264183,
+          "dimensions_m": [
+            0.49090621190816336,
+            0.7025298440681906,
+            0.8576321153606004
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B005FFA3LQ",
+          "weight_kg": 13.934478467926933,
+          "volume_m3": 0.2217629029097552,
+          "dimensions_m": [
+            0.5889629312411536,
+            0.4300582708066972,
+            0.8755352420960297
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B099VZPTWT",
+          "weight_kg": 2.991847852788839,
+          "volume_m3": 0.027148981065469233,
+          "dimensions_m": [
+            0.2430565548449198,
+            0.31989157277056873,
+            0.34917520569831195
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BW4WN2NL",
+          "weight_kg": 24.061988720931087,
+          "volume_m3": 0.3798081825234907,
+          "dimensions_m": [
+            0.4258624205067008,
+            0.8300041330861527,
+            1.0745205944648588
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "weight_kg": 19.041887349329016,
+      "volume_m3": 1.0827181179627126,
+      "service_minutes": 10.447,
+      "items": [
+        {
+          "catalog_id": "B08ZHPDZX5",
+          "weight_kg": 4.307202653501347,
+          "volume_m3": 0.5367603862554642,
+          "dimensions_m": [
+            0.7281588391851062,
+            1.1297337768550855,
+            0.6524965465015632
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08FC5HPBS",
+          "weight_kg": 0.45738068609707977,
+          "volume_m3": 0.007309880604596058,
+          "dimensions_m": [
+            0.2552412159247619,
+            0.24536897104862482,
+            0.11671853744245828
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CP45784G",
+          "weight_kg": 0.9505298119986202,
+          "volume_m3": 0.08073220329248042,
+          "dimensions_m": [
+            0.5012641720000799,
+            0.5084877589292492,
+            0.31673761217455343
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CLC3XWR6",
+          "weight_kg": 5.598088674382956,
+          "volume_m3": 0.20798362421702296,
+          "dimensions_m": [
+            0.4848747706771872,
+            1.0035350893775195,
+            0.4274319598288515
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0CB5G1BHX",
+          "weight_kg": 7.7286855233490135,
+          "volume_m3": 0.24993202359314898,
+          "dimensions_m": [
+            0.38745238224959666,
+            0.8101591826664432,
+            0.79622023628967
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "weight_kg": 14.621465914158447,
+      "volume_m3": 0.3748285624636175,
+      "service_minutes": 11.488,
+      "items": [
+        {
+          "catalog_id": "B01B65BYYI",
+          "weight_kg": 5.629847372877081,
+          "volume_m3": 0.13182989734641226,
+          "dimensions_m": [
+            0.4596813928073156,
+            0.4660364120849654,
+            0.6153711608124678
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0722V6KMX",
+          "weight_kg": 0.3906828690847412,
+          "volume_m3": 0.0723470823200826,
+          "dimensions_m": [
+            0.466767363817462,
+            0.46935288191905616,
+            0.3302334407765348
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B099VZPTWT",
+          "weight_kg": 2.803583174172967,
+          "volume_m3": 0.02540030002967088,
+          "dimensions_m": [
+            0.24258446592468944,
+            0.3138314534882782,
+            0.3336409823881282
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0B4CL1M1M",
+          "weight_kg": 0.020380213844474818,
+          "volume_m3": 0.006122710169816022,
+          "dimensions_m": [
+            0.32792796817776043,
+            0.27119076907386763,
+            0.06884784339662552
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B093KMM9D3",
+          "weight_kg": 5.776972284179184,
+          "volume_m3": 0.13912857259763575,
+          "dimensions_m": [
+            0.3716648641160106,
+            0.527770039935605,
+            0.7092838808854433
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "weight_kg": 46.36839900330777,
+      "volume_m3": 1.197149899469678,
+      "service_minutes": 8.122,
+      "items": [
+        {
+          "catalog_id": "B0C99D3V15",
+          "weight_kg": 13.773350117051491,
+          "volume_m3": 0.5811765791004153,
+          "dimensions_m": [
+            0.6367158016708279,
+            0.6479007935974371,
+            1.408814991196222
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BHVLGGYL",
+          "weight_kg": 0.37897072529737696,
+          "volume_m3": 0.00117833497598411,
+          "dimensions_m": [
+            0.24257812552878552,
+            0.09787405261033802,
+            0.04963060413935282
+          ],
+          "dimension_basis": "explicit_package",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09DLBNY6W",
+          "weight_kg": 4.86390208998438,
+          "volume_m3": 0.09197233210242721,
+          "dimensions_m": [
+            0.3510439758814429,
+            0.39789647017773416,
+            0.6584542235194085
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B00R5VYYIG",
+          "weight_kg": 0.10930211299806705,
+          "volume_m3": 0.00025048864561157006,
+          "dimensions_m": [
+            0.10759556762960222,
+            0.09199280133711843,
+            0.02530695072163808
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B09DS1VPFS",
+          "weight_kg": 27.242873957976453,
+          "volume_m3": 0.5225721646452399,
+          "dimensions_m": [
+            0.8725047287798862,
+            0.6316704026872567,
+            0.9481738098541391
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "weight_kg": 43.76809097398751,
+      "volume_m3": 1.1732649247517863,
+      "service_minutes": 11.205,
+      "items": [
+        {
+          "catalog_id": "B0CCRXWDF1",
+          "weight_kg": 7.6124199065252585,
+          "volume_m3": 0.47793389569839223,
+          "dimensions_m": [
+            0.7312505422426467,
+            0.6965603200251507,
+            0.938302557853618
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BVQSPCCF",
+          "weight_kg": 13.233315293581926,
+          "volume_m3": 0.22677991626824723,
+          "dimensions_m": [
+            0.4951182257079262,
+            0.5093377456429296,
+            0.899269399652748
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0C48X7JQB",
+          "weight_kg": 6.9220209715931285,
+          "volume_m3": 0.12265757017604073,
+          "dimensions_m": [
+            0.7895915613249475,
+            0.42569563950027045,
+            0.36491579126597484
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B08FC5HPBS",
+          "weight_kg": 0.44292900942048946,
+          "volume_m3": 0.006786768599760284,
+          "dimensions_m": [
+            0.25584300337969434,
+            0.23869161858820695,
+            0.11113537715383567
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        },
+        {
+          "catalog_id": "B0BVT748HV",
+          "weight_kg": 15.55740579286671,
+          "volume_m3": 0.3391067740093459,
+          "dimensions_m": [
+            0.5899899117635018,
+            0.5990540749272288,
+            0.9594577449900453
+          ],
+          "dimension_basis": "unverified_column_or_assembled_proxy",
+          "weight_basis": "item_weight_proxy"
+        }
+      ]
     }
   ],
   "coordinates_km": [
@@ -3141,6 +4018,62 @@
     [
       -4.5464,
       -27.7745
+    ],
+    [
+      12.1695,
+      -6.5744
+    ],
+    [
+      7.9507,
+      -8.2878
+    ],
+    [
+      -22.6969,
+      14.8884
+    ],
+    [
+      -0.4804,
+      -13.2007
+    ],
+    [
+      -19.4699,
+      -7.3926
+    ],
+    [
+      -3.2874,
+      9.6743
+    ],
+    [
+      -6.6458,
+      -1.4761
+    ],
+    [
+      -5.2445,
+      22.6628
+    ],
+    [
+      -0.7246,
+      6.4296
+    ],
+    [
+      -11.4627,
+      -7.3373
+    ],
+    [
+      9.98,
+      2.1221
+    ],
+    [
+      -21.7211,
+      -10.0139
+    ],
+    [
+      -7.622,
+      -3.8937
+    ],
+    [
+      3.9089,
+      -0.7429
     ]
   ],
   "distance_matrix_m": [
@@ -3179,7 +4112,21 @@
       18327,
       13706,
       11154,
-      28144
+      28144,
+      13832,
+      11485,
+      27144,
+      13209,
+      20826,
+      10218,
+      6808,
+      23262,
+      6470,
+      13610,
+      10203,
+      23918,
+      8559,
+      3979
     ],
     [
       11445,
@@ -3216,7 +4163,21 @@
       25340,
       2406,
       22259,
-      20829
+      20829,
+      20937,
+      16728,
+      26269,
+      10118,
+      10718,
+      17903,
+      6263,
+      30241,
+      15968,
+      2711,
+      21002,
+      13235,
+      3660,
+      14293
     ],
     [
       18063,
@@ -3253,7 +4214,21 @@
       22242,
       31722,
       7327,
-      44655
+      44655,
+      20454,
+      22452,
+      34283,
+      29633,
+      37625,
+      15440,
+      23820,
+      18976,
+      14372,
+      31310,
+      11856,
+      40974,
+      26152,
+      16500
     ],
     [
       8082,
@@ -3290,7 +4265,21 @@
       14344,
       21468,
       6693,
-      33227
+      33227,
+      10896,
+      11527,
+      32287,
+      18225,
+      28902,
+      12490,
+      14822,
+      23193,
+      8743,
+      21629,
+      2797,
+      31999,
+      16634,
+      5293
     ],
     [
       8609,
@@ -3327,7 +4316,21 @@
       26900,
       12411,
       15343,
-      30775
+      30775,
+      22368,
+      19538,
+      18925,
+      17732,
+      15230,
+      8426,
+      4521,
+      20084,
+      8265,
+      10656,
+      18136,
+      18661,
+      6703,
+      12560
     ],
     [
       11767,
@@ -3364,7 +4367,21 @@
       23684,
       2835,
       22881,
-      18518
+      18518,
+      19424,
+      15038,
+      28917,
+      7572,
+      12591,
+      19466,
+      7960,
+      32139,
+      17068,
+      4888,
+      20571,
+      14689,
+      5562,
+      13977
     ],
     [
       7407,
@@ -3401,7 +4418,21 @@
       11893,
       19606,
       10070,
-      30016
+      30016,
+      7927,
+      8066,
+      33688,
+      15170,
+      27809,
+      14580,
+      14103,
+      26163,
+      10514,
+      20157,
+      3496,
+      30720,
+      15463,
+      3530
     ],
     [
       9077,
@@ -3438,7 +4469,21 @@
       27153,
       15843,
       12874,
-      33884
+      33884,
+      22762,
+      20547,
+      18213,
+      20242,
+      18476,
+      5043,
+      7513,
+      16697,
+      6068,
+      14170,
+      17211,
+      21928,
+      9965,
+      12657
     ],
     [
       17632,
@@ -3475,7 +4520,21 @@
       5015,
       23265,
       22606,
-      24091
+      24091,
+      5134,
+      6278,
+      44678,
+      13868,
+      33030,
+      26960,
+      22355,
+      38942,
+      22825,
+      25118,
+      14101,
+      35050,
+      22284,
+      14339
     ],
     [
       13772,
@@ -3512,7 +4571,21 @@
       22704,
       27069,
       2734,
-      41508
+      41508,
+      19865,
+      20713,
+      28917,
+      26380,
+      32307,
+      9767,
+      18805,
+      15342,
+      9037,
+      26383,
+      10930,
+      35698,
+      21264,
+      13270
     ],
     [
       21800,
@@ -3549,7 +4622,21 @@
       25105,
       12952,
       32597,
-      6459
+      6459,
+      22306,
+      18070,
+      40488,
+      9088,
+      20391,
+      31016,
+      19948,
+      43984,
+      28011,
+      15585,
+      27588,
+      20539,
+      17687,
+      22252
     ],
     [
       12967,
@@ -3586,7 +4673,21 @@
       14153,
       26315,
       7443,
-      37047
+      37047,
+      12082,
+      14300,
+      35697,
+      22341,
+      33771,
+      15599,
+      19667,
+      24148,
+      12502,
+      26520,
+      3810,
+      36885,
+      21523,
+      10017
     ],
     [
       20660,
@@ -3623,7 +4724,21 @@
       33242,
       31545,
       12608,
-      48586
+      48586,
+      30075,
+      30178,
+      22827,
+      33852,
+      33796,
+      11299,
+      22936,
+      5053,
+      14222,
+      30019,
+      21341,
+      37230,
+      25527,
+      21866
     ],
     [
       8560,
@@ -3660,7 +4775,21 @@
       26424,
       9935,
       16922,
-      28404
+      28404,
+      21848,
+      18626,
+      20286,
+      15770,
+      13382,
+      10712,
+      2638,
+      22561,
+      9914,
+      8216,
+      18618,
+      16755,
+      4341,
+      12509
     ],
     [
       2807,
@@ -3697,7 +4826,21 @@
       20047,
       10996,
       13665,
-      26440
+      26440,
+      15474,
+      12440,
+      26020,
+      11940,
+      18065,
+      11128,
+      4225,
+      24248,
+      8031,
+      10806,
+      12897,
+      21127,
+      5759,
+      6366
     ],
     [
       14288,
@@ -3734,7 +4877,21 @@
       31989,
       20096,
       15190,
-      38698
+      38698,
+      27715,
+      25770,
+      13794,
+      25478,
+      20522,
+      6367,
+      12423,
+      12827,
+      9793,
+      18029,
+      21323,
+      23914,
+      14620,
+      17626
     ],
     [
       7372,
@@ -3771,7 +4928,21 @@
       12905,
       14001,
       16105,
-      22988
+      22988,
+      8411,
+      4620,
+      33922,
+      8066,
+      23255,
+      17498,
+      11488,
+      30369,
+      13535,
+      15257,
+      10502,
+      25746,
+      11643,
+      5600
     ],
     [
       6205,
@@ -3808,7 +4979,21 @@
       14199,
       13006,
       15616,
-      23226
+      23226,
+      9666,
+      6009,
+      32549,
+      8128,
+      22085,
+      16405,
+      10099,
+      29373,
+      12523,
+      14110,
+      10760,
+      24656,
+      10321,
+      5100
     ],
     [
       9256,
@@ -3845,7 +5030,21 @@
       27581,
       13702,
       14937,
-      32103
+      32103,
+      23084,
+      20434,
+      17990,
+      18992,
+      16037,
+      7485,
+      5823,
+      18802,
+      7917,
+      11877,
+      18381,
+      19487,
+      8031,
+      13132
     ],
     [
       5663,
@@ -3882,7 +5081,21 @@
       21933,
       17642,
       7529,
-      33597
+      33597,
+      17775,
+      16409,
+      23807,
+      18813,
+      22774,
+      4780,
+      9204,
+      17629,
+      821,
+      16790,
+      11304,
+      26133,
+      11715,
+      7891
     ],
     [
       17521,
@@ -3919,7 +5132,21 @@
       35754,
       16140,
       22797,
-      35069
+      35069,
+      31198,
+      28106,
+      11449,
+      24494,
+      12780,
+      14231,
+      12065,
+      21005,
+      16093,
+      13517,
+      26908,
+      15904,
+      12822,
+      21481
     ],
     [
       18197,
@@ -3956,7 +5183,21 @@
       13508,
       18117,
       26626,
-      15572
+      15572,
+      11750,
+      8753,
+      43288,
+      8044,
+      27802,
+      28408,
+      20389,
+      41350,
+      24505,
+      20493,
+      19355,
+      29195,
+      19331,
+      16428
     ],
     [
       14822,
@@ -3993,7 +5234,21 @@
       16237,
       28383,
       7169,
-      39570
+      39570,
+      14501,
+      16844,
+      35907,
+      24807,
+      35474,
+      15912,
+      21353,
+      23090,
+      13336,
+      28432,
+      6335,
+      38661,
+      23359,
+      12222
     ],
     [
       14019,
@@ -4030,7 +5285,21 @@
       7089,
       25244,
       13736,
-      32378
+      32378,
+      5656,
+      9288,
+      40042,
+      18774,
+      34003,
+      20401,
+      20614,
+      30644,
+      16559,
+      26156,
+      5196,
+      36757,
+      21754,
+      10068
     ],
     [
       16674,
@@ -4067,7 +5336,21 @@
       5493,
       27355,
       16216,
-      33048
+      33048,
+      6090,
+      10445,
+      42816,
+      20186,
+      36342,
+      23144,
+      23175,
+      33120,
+      19326,
+      28425,
+      7894,
+      39004,
+      24188,
+      12702
     ],
     [
       19836,
@@ -4104,7 +5387,21 @@
       34636,
       29033,
       14336,
-      46928
+      46928,
+      31025,
+      30415,
+      18033,
+      32689,
+      30147,
+      9661,
+      20678,
+      3514,
+      13476,
+      27223,
+      22794,
+      33530,
+      23173,
+      21868
     ],
     [
       22685,
@@ -4141,7 +5438,21 @@
       34869,
       33564,
       14303,
-      50631
+      50631,
+      31822,
+      32063,
+      23669,
+      35883,
+      35639,
+      13336,
+      24966,
+      4897,
+      16257,
+      32011,
+      23009,
+      39062,
+      27554,
+      23809
     ],
     [
       10432,
@@ -4178,7 +5489,21 @@
       23022,
       23113,
       3394,
-      38565
+      38565,
+      19496,
+      19348,
+      25356,
+      23549,
+      27924,
+      5533,
+      14655,
+      14534,
+      4779,
+      22238,
+      11195,
+      31329,
+      17184,
+      11065
     ],
     [
       5123,
@@ -4215,7 +5540,21 @@
       20445,
       8599,
       16193,
-      24023
+      24023,
+      15880,
+      12272,
+      26802,
+      9885,
+      16412,
+      13451,
+      3928,
+      26499,
+      10566,
+      8758,
+      14679,
+      19296,
+      4162,
+      7970
     ],
     [
       26852,
@@ -4252,7 +5591,21 @@
       39421,
       37006,
       18855,
-      54560
+      54560,
+      36368,
+      36532,
+      23498,
+      39991,
+      38163,
+      17092,
+      28536,
+      4970,
+      20384,
+      35263,
+      27563,
+      41522,
+      31078,
+      28204
     ],
     [
       17609,
@@ -4289,7 +5642,21 @@
       34172,
       24979,
       15185,
-      43390
+      43390,
+      30175,
+      28854,
+      14237,
+      29733,
+      25342,
+      7751,
+      17012,
+      7912,
+      11881,
+      22971,
+      22754,
+      28695,
+      19351,
+      20373
     ],
     [
       18327,
@@ -4326,7 +5693,21 @@
       0,
       26517,
       20644,
-      29077
+      29077,
+      4581,
+      8647,
+      45362,
+      17899,
+      36056,
+      26462,
+      24075,
+      37476,
+      22407,
+      28051,
+      11919,
+      38369,
+      24519,
+      14507
     ],
     [
       13706,
@@ -4363,7 +5744,21 @@
       26517,
       0,
       24616,
-      19036
+      19036,
+      22241,
+      17870,
+      27552,
+      10100,
+      9821,
+      20276,
+      8651,
+      32495,
+      18373,
+      2681,
+      23010,
+      11854,
+      6044,
+      16334
     ],
     [
       11154,
@@ -4400,7 +5795,21 @@
       20644,
       24616,
       0,
-      38781
+      38781,
+      17526,
+      18107,
+      28749,
+      23651,
+      30299,
+      8860,
+      16534,
+      16912,
+      7079,
+      24067,
+      8734,
+      33647,
+      18918,
+      10538
     ],
     [
       28144,
@@ -4437,6 +5846,734 @@
       29077,
       19036,
       38781,
+      0,
+      26998,
+      23150,
+      46363,
+      15130,
+      25261,
+      37470,
+      26382,
+      50442,
+      34417,
+      21576,
+      33239,
+      24706,
+      24078,
+      28323
+    ],
+    [
+      13832,
+      20937,
+      20454,
+      10896,
+      22368,
+      19424,
+      7927,
+      22762,
+      5134,
+      19865,
+      22306,
+      12082,
+      30075,
+      21848,
+      15474,
+      27715,
+      8411,
+      9666,
+      23084,
+      17775,
+      31198,
+      11750,
+      14501,
+      5656,
+      6090,
+      31025,
+      31822,
+      19496,
+      15880,
+      36368,
+      30175,
+      4581,
+      22241,
+      17526,
+      26998,
+      0,
+      4553,
+      40943,
+      14280,
+      31650,
+      22426,
+      19494,
+      34030,
+      18313,
+      23645,
+      8968,
+      34065,
+      19972,
+      10112
+    ],
+    [
+      11485,
+      16728,
+      22452,
+      11527,
+      19538,
+      15038,
+      8066,
+      20547,
+      6278,
+      20713,
+      18070,
+      14300,
+      30178,
+      18626,
+      12440,
+      25770,
+      4620,
+      6009,
+      20434,
+      16409,
+      28106,
+      8753,
+      16844,
+      9288,
+      10445,
+      30415,
+      32063,
+      19348,
+      12272,
+      36532,
+      28854,
+      8647,
+      17870,
+      18107,
+      23150,
+      4553,
+      0,
+      38424,
+      9758,
+      27435,
+      21188,
+      16108,
+      33646,
+      17084,
+      19437,
+      10606,
+      29722,
+      16181,
+      8559
+    ],
+    [
+      27144,
+      26269,
+      34283,
+      32287,
+      18925,
+      28917,
+      33688,
+      18213,
+      44678,
+      28917,
+      40488,
+      35697,
+      22827,
+      20286,
+      26020,
+      13794,
+      33922,
+      32549,
+      17990,
+      23807,
+      11449,
+      43288,
+      35907,
+      40042,
+      42816,
+      18033,
+      23669,
+      25356,
+      26802,
+      23498,
+      14237,
+      45362,
+      27552,
+      28749,
+      46363,
+      40943,
+      38424,
+      0,
+      35813,
+      22513,
+      20098,
+      22922,
+      19106,
+      23544,
+      24904,
+      35082,
+      24921,
+      24084,
+      30858
+    ],
+    [
+      13209,
+      10118,
+      29633,
+      18225,
+      17732,
+      7572,
+      15170,
+      20242,
+      13868,
+      26380,
+      9088,
+      22341,
+      33852,
+      15770,
+      11940,
+      25478,
+      8066,
+      8128,
+      18992,
+      18813,
+      24494,
+      8044,
+      24807,
+      18774,
+      20186,
+      32689,
+      35883,
+      23549,
+      9885,
+      39991,
+      29733,
+      17899,
+      10100,
+      23651,
+      15130,
+      14280,
+      9758,
+      35813,
+      0,
+      19858,
+      23047,
+      13247,
+      36179,
+      19632,
+      12450,
+      18553,
+      21478,
+      11731,
+      13208
+    ],
+    [
+      20826,
+      10718,
+      37625,
+      28902,
+      15230,
+      12591,
+      27809,
+      18476,
+      33030,
+      32307,
+      20391,
+      33771,
+      33796,
+      13382,
+      18065,
+      20522,
+      23255,
+      22085,
+      16037,
+      22774,
+      12780,
+      27802,
+      35474,
+      34003,
+      36342,
+      30147,
+      35639,
+      27924,
+      16412,
+      38163,
+      25342,
+      36056,
+      9821,
+      30299,
+      25261,
+      31650,
+      27435,
+      22513,
+      19858,
+      0,
+      23519,
+      14123,
+      33252,
+      23290,
+      8007,
+      30949,
+      3455,
+      12354,
+      24306
+    ],
+    [
+      10218,
+      17903,
+      15440,
+      12490,
+      8426,
+      19466,
+      14580,
+      5043,
+      26960,
+      9767,
+      31016,
+      15599,
+      11299,
+      10712,
+      11128,
+      6367,
+      17498,
+      16405,
+      7485,
+      4780,
+      14231,
+      28408,
+      15912,
+      20401,
+      23144,
+      9661,
+      13336,
+      5533,
+      13451,
+      17092,
+      7751,
+      26462,
+      20276,
+      8860,
+      37470,
+      22426,
+      21188,
+      20098,
+      23047,
+      23519,
+      0,
+      11645,
+      13135,
+      4135,
+      18874,
+      15266,
+      26971,
+      14244,
+      12661
+    ],
+    [
+      6808,
+      6263,
+      23820,
+      14822,
+      4521,
+      7960,
+      14103,
+      7513,
+      22355,
+      18805,
+      19948,
+      19667,
+      22936,
+      2638,
+      4225,
+      12423,
+      11488,
+      10099,
+      5823,
+      9204,
+      12065,
+      20389,
+      21353,
+      20614,
+      23175,
+      20678,
+      24966,
+      14655,
+      3928,
+      28536,
+      17012,
+      24075,
+      8651,
+      16534,
+      26382,
+      19494,
+      16108,
+      22922,
+      13247,
+      14123,
+      11645,
+      0,
+      24180,
+      9877,
+      7587,
+      17011,
+      17325,
+      2607,
+      10580
+    ],
+    [
+      23262,
+      30241,
+      18976,
+      23193,
+      20084,
+      32139,
+      26163,
+      16697,
+      38942,
+      15342,
+      43984,
+      24148,
+      5053,
+      22561,
+      24248,
+      12827,
+      30369,
+      29373,
+      18802,
+      17629,
+      21005,
+      41350,
+      23090,
+      30644,
+      33120,
+      3514,
+      4897,
+      14534,
+      26499,
+      4970,
+      7912,
+      37476,
+      32495,
+      16912,
+      50442,
+      34030,
+      33646,
+      19106,
+      36179,
+      33252,
+      13135,
+      24180,
+      0,
+      16851,
+      30638,
+      25568,
+      36596,
+      26663,
+      25132
+    ],
+    [
+      6470,
+      15968,
+      14372,
+      8743,
+      8265,
+      17068,
+      10514,
+      6068,
+      22825,
+      9037,
+      28011,
+      12502,
+      14222,
+      9914,
+      8031,
+      9793,
+      13535,
+      12523,
+      7917,
+      821,
+      16093,
+      24505,
+      13336,
+      16559,
+      19326,
+      13476,
+      16257,
+      4779,
+      10566,
+      20384,
+      11881,
+      22407,
+      18373,
+      7079,
+      34417,
+      18313,
+      17084,
+      23544,
+      19632,
+      23290,
+      4135,
+      9877,
+      16851,
+      0,
+      17460,
+      11539,
+      26669,
+      12416,
+      8539
+    ],
+    [
+      13610,
+      2711,
+      31310,
+      21629,
+      10656,
+      4888,
+      20157,
+      14170,
+      25118,
+      26383,
+      15585,
+      26520,
+      30019,
+      8216,
+      10806,
+      18029,
+      15257,
+      14110,
+      11877,
+      16790,
+      13517,
+      20493,
+      28432,
+      26156,
+      28425,
+      27223,
+      32011,
+      22238,
+      8758,
+      35263,
+      22971,
+      28051,
+      2681,
+      24067,
+      21576,
+      23645,
+      19437,
+      24904,
+      12450,
+      8007,
+      18874,
+      7587,
+      30638,
+      17460,
+      0,
+      23437,
+      10602,
+      5158,
+      16726
+    ],
+    [
+      10203,
+      21002,
+      11856,
+      2797,
+      18136,
+      20571,
+      3496,
+      17211,
+      14101,
+      10930,
+      27588,
+      3810,
+      21341,
+      18618,
+      12897,
+      21323,
+      10502,
+      10760,
+      18381,
+      11304,
+      26908,
+      19355,
+      6335,
+      5196,
+      7894,
+      22794,
+      23009,
+      11195,
+      14679,
+      27563,
+      22754,
+      11919,
+      23010,
+      8734,
+      33239,
+      8968,
+      10606,
+      35082,
+      18553,
+      30949,
+      15266,
+      17011,
+      25568,
+      11539,
+      23437,
+      0,
+      33945,
+      18602,
+      6713
+    ],
+    [
+      23918,
+      13235,
+      40974,
+      31999,
+      18661,
+      14689,
+      30720,
+      21928,
+      35050,
+      35698,
+      20539,
+      36885,
+      37230,
+      16755,
+      21127,
+      23914,
+      25746,
+      24656,
+      19487,
+      26133,
+      15904,
+      29195,
+      38661,
+      36757,
+      39004,
+      33530,
+      39062,
+      31329,
+      19296,
+      41522,
+      28695,
+      38369,
+      11854,
+      33647,
+      24706,
+      34065,
+      29722,
+      24921,
+      21478,
+      3455,
+      26971,
+      17325,
+      36596,
+      26669,
+      10602,
+      33945,
+      0,
+      15370,
+      27255
+    ],
+    [
+      8559,
+      3660,
+      26152,
+      16634,
+      6703,
+      5562,
+      15463,
+      9965,
+      22284,
+      21264,
+      17687,
+      21523,
+      25527,
+      4341,
+      5759,
+      14620,
+      11643,
+      10321,
+      8031,
+      11715,
+      12822,
+      19331,
+      23359,
+      21754,
+      24188,
+      23173,
+      27554,
+      17184,
+      4162,
+      31078,
+      19351,
+      24519,
+      6044,
+      18918,
+      24078,
+      19972,
+      16181,
+      24084,
+      11731,
+      12354,
+      14244,
+      2607,
+      26663,
+      12416,
+      5158,
+      18602,
+      15370,
+      0,
+      11954
+    ],
+    [
+      3979,
+      14293,
+      16500,
+      5293,
+      12560,
+      13977,
+      3530,
+      12657,
+      14339,
+      13270,
+      22252,
+      10017,
+      21866,
+      12509,
+      6366,
+      17626,
+      5600,
+      5100,
+      13132,
+      7891,
+      21481,
+      16428,
+      12222,
+      10068,
+      12702,
+      21868,
+      23809,
+      11065,
+      7970,
+      28204,
+      20373,
+      14507,
+      16334,
+      10538,
+      28323,
+      10112,
+      8559,
+      30858,
+      13208,
+      24306,
+      12661,
+      10580,
+      25132,
+      8539,
+      16726,
+      6713,
+      27255,
+      11954,
       0
     ]
   ],
@@ -4507,6 +6644,42 @@
       "finish_minutes": 761.4318571428571,
       "distance_km": 366.804,
       "fuel_litres": 79.5556793952
+    },
+    {
+      "vehicle": 3,
+      "cycle": 0,
+      "customers": [
+        39,
+        40,
+        38,
+        36,
+        37,
+        35
+      ],
+      "target_utilization": 0.7700598993291966,
+      "start_minutes": 0.0,
+      "finish_minutes": 348.64185714285713,
+      "distance_km": 170.349,
+      "fuel_litres": 9.8369903889
+    },
+    {
+      "vehicle": 4,
+      "cycle": 0,
+      "customers": [
+        42,
+        47,
+        45,
+        44,
+        43,
+        41,
+        46,
+        48
+      ],
+      "target_utilization": 0.6869629003148476,
+      "start_minutes": 0.0,
+      "finish_minutes": 370.14099999999996,
+      "distance_km": 167.86,
+      "fuel_litres": 15.201686962000002
     }
   ],
   "provenance": {
@@ -4528,7 +6701,7 @@
   },
   "model": {
     "depot": 0,
-    "one_physical_vehicle_per_type": true,
+    "fleet_mix_is_decision": true,
     "multiple_sequential_trips": true,
     "all_orders_available_at_time_zero": true,
     "time_horizon_minutes": null,
@@ -4544,13 +6717,15 @@
     ]
   },
   "generation_statistics": {
-    "transports": 3,
+    "transports": 5,
     "requested_stops": [
       12,
       8,
-      14
+      14,
+      6,
+      8
     ],
-    "mean_stops_per_transport": 11.333333333333334,
-    "total_items": 222
+    "mean_stops_per_transport": 9.6,
+    "total_items": 278
   }
 }

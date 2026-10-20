@@ -24,7 +24,7 @@ multiple-package ambiguity remain a limitation; this is not verified carton data
 
 ```powershell
 python import_catalog.py data/amazon_furniture_sample.csv
-python generate.py --catalog data/catalog_proxy.json --allow-proxy --cycles 2 --seed 42 --output data/development.json
+python generate.py --catalog data/catalog_proxy.json --allow-proxy --fleet-size 5 --cycles 2 --seed 42 --output data/development.json
 python -m unittest -v test_generator
 ```
 
@@ -35,8 +35,9 @@ to `explicit_package` and `weight_basis` to `shipping_or_package` and omit that 
 
 ## Simulation procedure
 
-Assume one physical vehicle of each supplied type. For each loading cycle and
-vehicle, draw a target number of stops from bounded normal N(10,2), rounded to
+Generate a feasible witness with five physical vehicles: two Caddies, two
+Sprinters and one MAN. This mix does not constrain the GA. For each loading
+cycle and witness vehicle, draw a target number of stops from bounded normal N(10,2), rounded to
 an integer. Draw a limiting-resource utilization target from bounded N(0.8,0.07).
 Select appropriately small catalog units categorically and draw their synthetic
 weights and three dimensions around catalog means (CV 5% and 3%). Reject load
@@ -46,9 +47,10 @@ and service times. Shuffle delivery order, return to depot and start the next
 transport for that same physical vehicle. Each generated transport is retained
 as a known feasible witness.
 
-For seed 42 and two cycles, the included development case has 64 customers,
-437 synthetic furniture units and six transports: 11, 10, 12, 11, 12 and 8 stops,
-averaging 10.67. Targeting ten on average is not forcing every trip to have ten.
+For seed 42 and two cycles, the included development case has 102 customers,
+584 synthetic furniture units and ten transports: 11, 10, 12, 11, 12, 8, 8,
+10, 9 and 11 stops, averaging 10.2. Targeting ten on average does not force
+every trip to have ten.
 Catalog suitability filtering, truncation and capacity rejection condition the
 distributions; the resulting demands are not unconditioned normal samples.
 
@@ -60,9 +62,9 @@ specifications. Payload and volume apply separately to every trip. Overall
 vehicle length is not cargo-bay length; top speed is not operating speed.
 
 Input/outputs use kg, m3, km coordinates, nearest-integer Euclidean metres and
-minutes. Fuel consumption is sampled once per physical vehicle/instance from a
-bounded normal around the supplied range midpoint and then kept fixed for all
-candidate solutions. The illustrative schedule uses 35 km/h, not vehicle top
+minutes. Fuel consumption is sampled once per type per instance from a bounded
+normal around the supplied range midpoint. All vehicles of that type use the
+same fixed rate in candidate comparisons. The illustrative schedule uses 35 km/h, not vehicle top
 speed. This assumption is editable in the model metadata.
 
 ## Simplification boundary

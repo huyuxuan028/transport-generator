@@ -20,16 +20,23 @@ def distance_matrix(coords):
 
 def route_metres(route,d):return sum(d[a][b] for a,b in zip([0]+route,route+[0]))
 
-def generate(catalog,vehicle_specs,seed=42,cycles=2,allow_proxy=False):
-    if cycles<1:raise ValueError('cycles must be positive')
+def generate(catalog,vehicle_specs,seed=42,cycles=2,allow_proxy=False,fleet_size=5,witness_types=None):
+    if cycles<1 or fleet_size!=5:raise ValueError('cycles must be positive and fleet_size must equal five')
     if not catalog:raise ValueError('Empty catalog: supply audited data or explicitly allow a proxy catalog')
     if not allow_proxy and any(x['dimension_basis']!='explicit_package' or x['weight_basis']!='shipping_or_package' for x in catalog):
         raise ValueError('Proxy catalog requires --allow-proxy; do not claim assembled dimensions are packaging')
-    rng=random.Random(seed);vehicles=[]
+    rng=random.Random(seed);vehicle_types=[]
     for spec in vehicle_specs:
         v=dict(spec);lo,hi=v['fuel_range_l_per_100km']
         v['fuel_l_per_100km']=round(bounded_normal(rng,(lo+hi)/2,(hi-lo)/6,lo,hi),5)
-        vehicles.append(v)
+        vehicle_types.append(v)
+    if len(set(v['id'] for v in vehicle_types))!=len(vehicle_types):raise ValueError('Vehicle type IDs must be unique')
+    # A feasible generating witness, not an imposed fleet mix for optimization.
+    if witness_types is None:witness_types=[i%len(vehicle_types) for i in range(fleet_size)]
+    if len(witness_types)!=fleet_size or any(not isinstance(i,int) or i<0 or i>=len(vehicle_types) for i in witness_types):
+        raise ValueError('Exactly fleet_size valid witness type indices are required')
+    vehicles=[dict(vehicle_types[t],id=f'{vehicle_types[t]["id"]}-{k+1}',type_id=vehicle_types[t]['id'])
+              for k,t in enumerate(witness_types)]
     coords=[[0.,0.]];customers=[{'id':0,'weight_kg':0.,'volume_m3':0.,'service_minutes':0.,'items':[]}]
     witness=[];counts=[];util_targets=[];clocks=[0.]*len(vehicles)
     for cycle in range(cycles):
@@ -73,15 +80,16 @@ def generate(catalog,vehicle_specs,seed=42,cycles=2,allow_proxy=False):
         trip.update({'start_minutes':clocks[k],'finish_minutes':clocks[k]+duration,'distance_km':dist,
             'fuel_litres':dist*vehicles[k]['fuel_l_per_100km']/100})
         clocks[k]+=duration
-    return {'schema_version':1,'name':f'Heterogeneous-{len(customers)-1}-seed{seed}',
-        'seed':seed,'cycles_per_vehicle':cycles,'vehicles':vehicles,'customers':customers,
+    return {'schema_version':2,'name':f'Heterogeneous-{len(customers)-1}-five-vehicle-seed{seed}',
+        'seed':seed,'cycles_per_vehicle':cycles,'fleet_size':fleet_size,'vehicle_types':vehicle_types,
+        'vehicles':vehicles,'customers':customers,
         'coordinates_km':coords,'distance_matrix_m':d,'reference_transports':witness,
         'provenance':{'catalog_source':'Audited Kaggle Amazon furniture sample',
             'proxy_mode':allow_proxy,'normal_parameters':{'stop_count_mean':10,'stop_count_sd':2,
             'utilization_mean':.8,'utilization_sd':.07,'dimension_cv':.03,'weight_cv':.05,
             'location_mean_km':0,'location_sd_km':10,'service_mean_minutes':10,'service_sd_minutes':2},
             'warning':'Synthetic orders and locations. Sampling is truncated and capacity-conditioned; proxy dimensions/item weights are not verified package measurements.'},
-        'model':{'depot':0,'one_physical_vehicle_per_type':True,'multiple_sequential_trips':True,
+        'model':{'depot':0,'fleet_mix_is_decision':True,'multiple_sequential_trips':True,
             'all_orders_available_at_time_zero':True,'time_horizon_minutes':None,
             'objective':'fuel_litres','schedule_average_speed_kmh':35,
             'not_implemented':['3D packing','time windows','release times','shift limits','road network','load-dependent fuel']},
@@ -92,8 +100,9 @@ def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('--catalog',type=Path,default=ROOT/'data/catalog_strict.json');p.add_argument('--allow-proxy',action='store_true')
     p.add_argument('--seed',type=int,default=42);p.add_argument('--cycles',type=int,default=2)
+    p.add_argument('--fleet-size',type=int,default=5)
     p.add_argument('--output',type=Path,default=ROOT/'data/development.json');a=p.parse_args()
-    x=generate(json.loads(a.catalog.read_text()),json.loads((ROOT/'data/vehicles.json').read_text()),a.seed,a.cycles,a.allow_proxy)
+    x=generate(json.loads(a.catalog.read_text()),json.loads((ROOT/'data/vehicles.json').read_text()),a.seed,a.cycles,a.allow_proxy,a.fleet_size)
     a.output.parent.mkdir(parents=True,exist_ok=True);a.output.write_text(json.dumps(x,indent=2,allow_nan=False),encoding='utf-8')
     print(json.dumps({'instance':x['name'],**x['generation_statistics']},indent=2))
 
