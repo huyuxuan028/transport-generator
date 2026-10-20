@@ -1,0 +1,462 @@
+{
+  "dataset": "https://www.kaggle.com/datasets/crawlfeeds/furniture-products-dataset-from-amazon",
+  "license": "CC0: Public Domain as reported by the public Kaggle metadata API",
+  "raw_sha256": "1abcffb5b4ef26026c030738a5f542b1fdf98d17ad596be18f1e429bbecb572f",
+  "raw_rows": 312,
+  "unique_asins": 305,
+  "duplicate_or_empty_asin_rows": 7,
+  "strict_packaging_records": 0,
+  "proxy_capable_records": 193,
+  "rejected_unique_records": 112,
+  "rejections": [
+    {
+      "asin": "B0CJHKVG6P",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BXRTWLYK",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0C1MRB2M8",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0B9PLM9P8",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B007E40Z5K",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B00N2OZU42",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B08Q5KDSQK",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B07W8SF5CF",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B07GBVFZ1Y",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B077ZDFXYK",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0C4PL1R3F",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09PND1VQ5",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CHYDTQKN",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B0BC85H7Y7",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B07X61R7N8",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09TKH23M1",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0C8SJSZYS",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BZ85JVBN",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CFL2G31X",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B08WRLKR7T",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BT9SVN1V",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B094F897P3",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09F3SGZ8Y",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B00U0ECLG2",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0C2HNGCRX",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B08GSH4KVM",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B07TXMJ5FQ",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B001AS8D82",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B08WF83LMF",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09DGFRM4B",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09LVSZRZS",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B08VWTB8CH",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BWRVGQRM",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0C3QDL2XW",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CBRGS5D7",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B00FM0WG7I",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0B7Q5LB2C",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B07D7RQNJV",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09J1RM23P",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B07SPYM4M5",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BNL8CC5X",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B00PNJAACG",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BWJLZF5G",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0C289KQNK",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09ZQM2FX3",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B08T8ZRZ1F",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0C2VF2S6R",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CC28VDSV",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BSHFVY3J",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B07WLK9TNS",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BP9QYFTL",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B07ZSF42WD",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CDWH5PQP",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BBKQ3XW9",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B0CMJCCT9C",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CJCRFZCG",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0044G9M2S",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CB6HZR7Z",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0C8SGN73S",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0B31DB3LN",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B01AA0SO7A",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B01L0YHBB0",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09FXM34DV",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B0CG5SJN86",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09PBH963M",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0C5BBYRDN",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B00JMTNK0W",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CJNJMY5H",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B0882HQRJX",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B087Z3RXLN",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0003SDM18",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CGX7Y9HQ",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CM6PR2ZB",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BMXD3D6J",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B099NTP2SZ",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BZYWTH2D",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B0751KYGV4",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BGN333H4",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B08TTKV6LY",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BJ1Y5TDN",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BWY1HPMB",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CGXJ3VR7",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B07X5VSLV1",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CJV7SF48",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0CF9W6WW2",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B097R4M5Y5",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0C9QHJ611",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B001AHXWQ6",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BT6FF83T",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0B6HXHQSW",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B08C7Y4RB3",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B0CFSPXPYF",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BZNKKCC3",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BL9CDX29",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B07DQ6GPK6",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B07K2Q2NRC",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09QCMCPYC",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B07N41BVDG",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B083WKFRRR",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B07BQHWWRW",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0B6P65LGH",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0B5VJNZHL",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B01MR9GSZE",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B01LYD3YB1",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BNWVLYV1",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B0C2GZNDXF",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09JSR3CYZ",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BJ7PQ9XH",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B09VFPFBND",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BGL3QXKR",
+      "reason": "Missing/unparsed 3D dimensions or an explicit item/shipping weight"
+    },
+    {
+      "asin": "B09KN5ZTXC",
+      "reason": "Not classified as Furniture in the sample"
+    },
+    {
+      "asin": "B0BN7T57NK",
+      "reason": "Not classified as Furniture in the sample"
+    }
+  ],
+  "warning": "A field called package_dimensions is not treated as verified packaging: source examples repeat Product Dimensions. Item weight is not automatically shipping weight."
+}
