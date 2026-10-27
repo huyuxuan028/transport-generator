@@ -28,6 +28,7 @@ class Tests(unittest.TestCase):
         for v in x['vehicles']+x['vehicle_types']:
             for key in ['wage_eur_per_h','maintenance_eur_per_1000km','speed_kmh']:
                 self.assertGreater(v[key],0)
+            self.assertEqual(v['speed_kmh'],x['model']['schedule_average_speed_kmh'])
         for key in ['shift_hours','overtime_multiplier','fuel_price_eur_per_l','volume_buffer',
                     'min_stops_per_trip','max_stops_per_trip']:
             self.assertIn(key,x['model'])
@@ -45,9 +46,17 @@ class Tests(unittest.TestCase):
         x=generate(catalog,vs,42,5,True,customers_target=250,fixed_fleet=True)
         self.assertEqual(x['schema_version'],3)
         self.assertEqual(len(x['customers'])-1,250)
+        self.assertEqual(len(x['reference_transports']),25)
+        self.assertGreaterEqual(min(len(t['customers']) for t in x['reference_transports']),3)
         self.assertFalse(x['model']['fleet_mix_is_decision'])
         self.assertEqual([v['type_id'] for v in x['vehicles']],
                          ['caddy','sprinter','sprinter','man','man'])
+        for v in x['vehicles']:
+            self.assertEqual(v['speed_kmh'],x['model']['schedule_average_speed_kmh'])
+        for name in ('development.json','benchmark_250.json'):
+            frozen=json.loads((ROOT/'data'/name).read_text())
+            self.assertTrue(all(v['speed_kmh']==frozen['model']['schedule_average_speed_kmh']
+                                for v in frozen['vehicles']))
         visits=[]
         for trip in x['reference_transports']:
             v=x['vehicles'][trip['vehicle']]

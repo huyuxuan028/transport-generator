@@ -67,6 +67,10 @@ def generate(catalog,vehicle_specs,seed=42,cycles=2,allow_proxy=False,fleet_size
     coords=[[0.,0.]];customers=[{'id':0,'weight_kg':0.,'volume_m3':0.,'service_minutes':0.,'items':[]}]
     witness=[];counts=[];util_targets=[];clocks=[0.]*len(vehicles)
     target_counts=None if customers_target is None else exact_stop_counts(rng,customers_target,cycles*fleet_size)
+    # Preserve the legacy development instance's sampling and customer IDs.
+    # New exact-size instances reserve volume during loading instead of splitting
+    # an otherwise full transport after its customers have been assigned.
+    loading_volume_factor=1-volume_buffer if target_counts is not None else 1.
     for cycle in range(cycles):
         for k,v in enumerate(vehicles):
             requested=(target_counts[cycle*fleet_size+k] if target_counts is not None
@@ -74,18 +78,18 @@ def generate(catalog,vehicle_specs,seed=42,cycles=2,allow_proxy=False,fleet_size
             utilization=bounded_normal(rng,.8,.07,.6,.95)
             counts.append(requested);util_targets.append(utilization)
             eligible=[x for x in catalog if x['mean_weight_kg']<=v['payload_kg']*utilization/requested
-                and x['volume_m3']<=v['volume_m3']*utilization/requested]
+                and x['volume_m3']<=v['volume_m3']*loading_volume_factor*utilization/requested]
             if not eligible:
                 raise ValueError(f'No small-enough catalog unit to target {requested} stops on {v["id"]}')
             items=[];weight=volume=0.;attempts=0
-            while max(weight/v['payload_kg'],volume/v['volume_m3']) < utilization or len(items)<requested:
+            while max(weight/v['payload_kg'],volume/(v['volume_m3']*loading_volume_factor)) < utilization or len(items)<requested:
                 attempts+=1
                 if attempts>10000:raise ValueError('Loading could not reach target safely')
                 product=rng.choice(eligible)
                 dims=[bounded_normal(rng,x,.03*x,.8*x,1.2*x) for x in product['mean_dimensions_m']]
                 kg=bounded_normal(rng,product['mean_weight_kg'],.05*product['mean_weight_kg'],.7*product['mean_weight_kg'],1.3*product['mean_weight_kg'])
                 m3=math.prod(dims)
-                if weight+kg>v['payload_kg'] or volume+m3>v['volume_m3']:continue
+                if weight+kg>v['payload_kg'] or volume+m3>v['volume_m3']*loading_volume_factor:continue
                 items.append({'catalog_id':product['id'],'weight_kg':kg,'volume_m3':m3,'dimensions_m':dims,
                     'dimension_basis':product['dimension_basis'],'weight_basis':product['weight_basis']})
                 weight+=kg;volume+=m3
@@ -103,10 +107,11 @@ def generate(catalog,vehicle_specs,seed=42,cycles=2,allow_proxy=False,fleet_size
             rng.shuffle(stops)
             witness.append({'vehicle':k,'cycle':cycle,'customers':stops,'target_utilization':utilization})
     d=distance_matrix(coords)
-    # The 10% reserve is an effective capacity rule for tours. Keeping original
-    # customer sampling preserves the development case's exact 102 locations.
-    witness=[piece for trip in witness for piece in
-             split_reference_trip(trip,customers,vehicles[trip['vehicle']],volume_buffer)]
+    # The original development case keeps its exact 102 customers and visit
+    # order; only that legacy path needs post-loading capacity splitting.
+    if target_counts is None:
+        witness=[piece for trip in witness for piece in
+                 split_reference_trip(trip,customers,vehicles[trip['vehicle']],volume_buffer)]
     for trip in witness:
         k=trip['vehicle'];route=trip['customers'];dist=route_metres(route,d)/1000
         duration=dist/vehicles[k]['speed_kmh']*60+sum(customers[i]['service_minutes'] for i in route)

@@ -48,20 +48,23 @@ weights and three dimensions around catalog means (CV 5% and 3%). Reject load
 additions that violate either vehicle capacity. Partition the accepted furniture
 units among the generated customers, then generate bounded normal coordinates
 and service times. Shuffle delivery order, return to depot and start the next
-transport for that same physical vehicle. Finally, split reference transports
-whose volume exceeds the effective `vehicle.volume_m3 * (1 - volume_buffer)`
-limit. The resulting witness is feasible for both capacity dimensions.
+transport for that same physical vehicle. For new exact-size instances,
+`--volume-buffer` reduces usable volume during item selection and loading, so
+the witness transports already respect `vehicle.volume_m3 * (1 - volume_buffer)`.
+The legacy development instance retains its exact original customer sampling;
+only its overfilled reference transport is split after loading. The resulting
+witness is feasible for both capacity dimensions.
 
 For seed 42 and two cycles, the included development case retains the same 102
 customers and 584 synthetic furniture units as the original pilot. Ten
 loading cycles requested 11, 10, 12, 11, 12, 8, 8, 10, 9 and 11 stops,
 averaging 10.2. The 10% volume reserve splits one of those into two, so the
 schema-v3 instance has eleven feasible reference transports. The frozen
-250-customer benchmark candidate has 25 loading cycles and 32 reference
-transports after buffer-based splitting. `--customers` allocates exact stop
+250-customer benchmark candidate has 25 loading cycles and 25 reference
+transports, each with at least three stops. `--customers` allocates exact stop
 counts across its cycles using bounded normal draws adjusted to the target.
 The 10–50 stops per trip range is audited softly by the solver; capacity
-splitting can create shorter trips.
+constraints or requested counts can still yield trips below ten stops.
 Catalog suitability filtering, truncation and capacity rejection condition the
 distributions; the resulting demands are not unconditioned normal samples.
 
@@ -78,6 +81,8 @@ normal around the supplied range midpoint. All vehicles of that type use the
 same fixed rate in candidate comparisons. The illustrative schedule uses
 `vehicles[].speed_kmh=35`, not vehicle top speed. It also retains
 `model.schedule_average_speed_kmh=35` for compatibility with the initial solver.
+All vehicle speeds must equal that model value until the solver validates
+per-vehicle travel time; tests check the included development and benchmark cases.
 
 Schema v3 adds `wage_eur_per_h`, `maintenance_eur_per_1000km`, and `speed_kmh`
 to vehicle types and the five physical vehicles. `model` adds `shift_hours=8`,
