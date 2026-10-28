@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "name": "Heterogeneous-102-five-vehicle-seed42",
   "seed": 42,
   "cycles_per_vehicle": 2,
@@ -19,6 +19,9 @@
         178,
         178
       ],
+      "wage_eur_per_h": 12.0,
+      "maintenance_eur_per_1000km": 80.0,
+      "speed_kmh": 35.0,
       "source": "Instructor-provided VW MY26 spec-sheet values; adopted course inputs, not independently verified vehicle documentation.",
       "fuel_l_per_100km": 5.30917
     },
@@ -36,6 +39,9 @@
         161,
         161
       ],
+      "wage_eur_per_h": 12.0,
+      "maintenance_eur_per_1000km": 110.0,
+      "speed_kmh": 35.0,
       "source": "Instructor-provided Vanaways (CAP HPI) spec values; adopted course inputs.",
       "fuel_l_per_100km": 9.04712
     },
@@ -53,6 +59,9 @@
         90,
         110
       ],
+      "wage_eur_per_h": 12.0,
+      "maintenance_eur_per_1000km": 180.0,
+      "speed_kmh": 35.0,
       "source": "Instructor-provided Mascus listing and operator-report values; adopted course inputs.",
       "fuel_l_per_100km": 20.88868
     }
@@ -72,6 +81,9 @@
         178,
         178
       ],
+      "wage_eur_per_h": 12.0,
+      "maintenance_eur_per_1000km": 80.0,
+      "speed_kmh": 35.0,
       "source": "Instructor-provided VW MY26 spec-sheet values; adopted course inputs, not independently verified vehicle documentation.",
       "fuel_l_per_100km": 5.30917,
       "type_id": "caddy"
@@ -90,6 +102,9 @@
         161,
         161
       ],
+      "wage_eur_per_h": 12.0,
+      "maintenance_eur_per_1000km": 110.0,
+      "speed_kmh": 35.0,
       "source": "Instructor-provided Vanaways (CAP HPI) spec values; adopted course inputs.",
       "fuel_l_per_100km": 9.04712,
       "type_id": "sprinter"
@@ -108,6 +123,9 @@
         90,
         110
       ],
+      "wage_eur_per_h": 12.0,
+      "maintenance_eur_per_1000km": 180.0,
+      "speed_kmh": 35.0,
       "source": "Instructor-provided Mascus listing and operator-report values; adopted course inputs.",
       "fuel_l_per_100km": 20.88868,
       "type_id": "man"
@@ -126,6 +144,9 @@
         178,
         178
       ],
+      "wage_eur_per_h": 12.0,
+      "maintenance_eur_per_1000km": 80.0,
+      "speed_kmh": 35.0,
       "source": "Instructor-provided VW MY26 spec-sheet values; adopted course inputs, not independently verified vehicle documentation.",
       "fuel_l_per_100km": 5.30917,
       "type_id": "caddy"
@@ -144,6 +165,9 @@
         161,
         161
       ],
+      "wage_eur_per_h": 12.0,
+      "maintenance_eur_per_1000km": 110.0,
+      "speed_kmh": 35.0,
       "source": "Instructor-provided Vanaways (CAP HPI) spec values; adopted course inputs.",
       "fuel_l_per_100km": 9.04712,
       "type_id": "sprinter"
@@ -19395,14 +19419,25 @@
         91,
         86,
         83,
-        85,
-        87
+        85
       ],
       "target_utilization": 0.9008521253343338,
       "start_minutes": 521.8667142857144,
-      "finish_minutes": 895.3777142857143,
-      "distance_km": 160.944,
-      "fuel_litres": 8.5447905648
+      "finish_minutes": 847.8547142857143,
+      "distance_km": 139.629,
+      "fuel_litres": 7.413140979299999
+    },
+    {
+      "vehicle": 3,
+      "cycle": 1,
+      "customers": [
+        87
+      ],
+      "target_utilization": 0.9008521253343338,
+      "start_minutes": 847.8547142857143,
+      "finish_minutes": 897.0182857142858,
+      "distance_km": 22.272,
+      "fuel_litres": 1.1824583424
     },
     {
       "vehicle": 4,
@@ -19442,6 +19477,7 @@
       "service_mean_minutes": 10,
       "service_sd_minutes": 2
     },
+    "cost_parameter_basis": "Illustrative scenario assumptions, pending supervisor approval and official-source calibration; shift 8h and double overtime are team clarifications.",
     "warning": "Synthetic orders and locations. Sampling is truncated and capacity-conditioned; proxy dimensions/item weights are not verified package measurements."
   },
   "model": {
@@ -19452,17 +19488,24 @@
     "time_horizon_minutes": null,
     "objective": "fuel_litres",
     "schedule_average_speed_kmh": 35,
+    "shift_hours": 8,
+    "overtime_multiplier": 2.0,
+    "fuel_price_eur_per_l": 1.6,
+    "volume_buffer": 0.1,
+    "min_stops_per_trip": 10,
+    "max_stops_per_trip": 50,
     "not_implemented": [
       "3D packing",
       "time windows",
       "release times",
-      "shift limits",
       "road network",
       "load-dependent fuel"
-    ]
+    ],
+    "cost_parameters_are_assumptions": true
   },
   "generation_statistics": {
-    "transports": 10,
+    "transports": 11,
+    "original_loading_cycles": 10,
     "requested_stops": [
       11,
       10,
@@ -19476,6 +19519,7 @@
       11
     ],
     "mean_stops_per_transport": 10.2,
+    "actual_mean_stops_per_reference_transport": 9.272727272727273,
     "total_items": 584
   }
 }
