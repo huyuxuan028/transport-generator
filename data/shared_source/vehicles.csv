@@ -1,0 +1,7 @@
+vehicle_id,type_id,model,max_weight_kg,max_volume_m3,cargo_length_m,cargo_width_m,cargo_height_m,fuel_l_per_km,top_speed_kmh,avg_speed_kmh,wage_per_h,maintenance_per_1000km
+1,caddy,VW Caddy Cargo SWB,680,3.1,1.8,1.55,1.11,0.0535,178,50,12.0,80.0
+2,caddy,VW Caddy Cargo SWB,680,3.1,1.8,1.55,1.11,0.0535,178,50,12.0,80.0
+3,sprinter,Mercedes Sprinter 315 CDI L2H2,1231,10.5,3.27,1.78,1.8,0.0905,161,48,13.0,120.0
+4,sprinter,Mercedes Sprinter 315 CDI L2H2,1231,10.5,3.27,1.78,1.8,0.0905,161,48,13.0,120.0
+5,man_tgl,MAN TGL 12.190 box,5480,42.7,7.2,2.42,2.45,0.21,100,40,16.0,250.0
+

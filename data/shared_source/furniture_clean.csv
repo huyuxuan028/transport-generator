@@ -1,0 +1,170 @@
+id,name,length_m,width_m,height_m,weight_kg,material,color,country_of_origin
+fid001,Shoe Rack,0.06,0.2,0.549,1.225,Metal,White,China
+fid002,Dining Chair,0.47,0.406,0.889,11.521,Sponge,Black,Unknown
+fid003,Tray Table,0.48,0.361,0.66,12.156,Iron,Grey,Unknown
+fid004,Bathroom Vanity,0.533,0.762,0.876,34.927,Wood,Cameo Scotch,Vietnam
+fid005,Bathroom Shelf,0.32,0.64,1.74,8.301,Unknown,Unknown,China
+fid006,Nightstand,0.35,0.45,0.6,9.53,Stone,Grey,Unknown
+fid007,Office Chair,0.686,0.66,1.041,14.515,Foam,Grey,Unknown
+fid008,End Table,0.3,0.4,0.6,4.536,Metal,Black,Unknown
+fid009,Tray Table,0.381,0.533,0.737,5.77,Unknown,Slate Gray,China
+fid010,Armoire,0.813,0.483,1.143,18.144,Unknown,Unknown,China
+fid011,Bookcase,0.305,0.813,0.775,14.016,Unknown,Unknown,China
+fid012,Saucer Chair,0.549,0.599,0.8,5.897,PP Cotton,Grey,China
+fid013,Storage Bench,0.993,0.45,0.493,9.525,Unknown,Green,China
+fid014,Outdoor Table,0.61,0.61,0.737,12.247,Metal,Blue,Unknown
+fid015,Dining Chair,0.561,0.483,0.829,4.359,Unknown,Black,China
+fid016,End Table,0.463,0.61,0.457,4.581,Glass,Black,Unknown
+fid017,Storage Ottoman,0.711,0.711,0.4,13.789,Engineered Wood,Dark Gray,Unknown
+fid018,Wine Cabinet,0.419,0.836,1.09,23.59,Wood,White/Pine Oak,Unknown
+fid019,Office Chair,0.511,0.521,0.889,12.292,Sponge,Black,Unknown
+fid020,End Table,0.286,0.603,0.61,9.072,"Manufactured Wood,MDF",Charcoal Gray / Black,Unknown
+fid021,Kitchen Cart,0.406,0.279,0.102,1.624,Plastic,Black,China
+fid022,Office Chair,0.42,0.5,1.29,12.701,Foam,Beige,China
+fid023,Coat Rack,0.61,0.33,1.702,8.618,Metal,C gold,China
+fid024,Storage Ottoman,0.356,0.356,0.356,2.48,Fabric,Team Color,Unknown
+fid025,Shoe Rack,0.343,0.762,0.584,4.082,Unknown,Unknown,China
+fid026,Storage Ottoman,0.404,0.404,0.404,2.722,Wood,Grey,Unknown
+fid027,Workbench,0.508,1.2,0.18,10.16,Metal,Teak Color Desktop & Warm White Folding Brackets,Unknown
+fid028,Corner Cabinet,0.68,0.638,0.927,18.8,Unknown,White&teak,China
+fid029,Bar Stool,0.47,0.387,1.111,10.297,Unknown,Brown,Unknown
+fid030,End Table,0.451,0.451,0.61,5.443,"Solid + Manufactured Wood,Particle Board/Chipboard",Pink,Unknown
+fid031,Conference Chair,0.686,0.61,0.8,9.979,Foam,Black Vinyl,Unknown
+fid032,Office Chair,0.699,0.699,1.28,17.237,Sponge,S-black,Unknown
+fid033,Footstool,0.457,0.457,0.457,5.443,Engineered Wood,Brown,Unknown
+fid034,Wall Cabinet,0.285,0.35,0.64,6.201,Alloy Steel,Blue,Unknown
+fid035,Bookcase,0.361,0.457,0.739,5.398,Recycled Material,White,Taiwan
+fid036,Counter Stool,0.381,0.457,0.991,14.742,Unknown,Dark Grey,China
+fid037,Shoe Rack,0.305,0.813,1.219,7.602,Unknown,Black,China
+fid038,Ottoman,0.483,0.483,0.432,6.804,Wood,Smoke Grey,USA
+fid039,Footstool,0.279,0.406,0.254,3.629,Pine,Green,China
+fid040,Dining Table,1.067,1.067,0.762,6.804,"Rubber Wood, Engineered Wood",Natural Wood Wash,Unknown
+fid041,Office Chair,0.5,0.521,1.219,11.022,Foam,All Black,Unknown
+fid042,End Table,0.356,0.356,0.654,1.996,Iron,Black,Unknown
+fid043,Floating Nightstand,0.15,0.48,0.32,7.19,Wood,White,Unknown
+fid044,Footstool,0.66,0.66,0.432,3.983,Engineered Wood,Rainforest,USA
+fid045,Kitchen Island,1.35,0.47,0.94,13.608,Wood,Dark Blue,China
+fid046,Office Chair,0.64,0.62,1.379,12.927,Memory Foam,Black,China
+fid047,Storage Ottoman,0.48,0.48,0.419,5.488,Wood,Orange,China
+fid048,Counter Stool,0.33,0.47,0.66,5.08,Unknown,Blue,Unknown
+fid049,Saucer Chair,0.495,0.838,0.826,5.198,Polyester,Burgundy,China
+fid050,Storage Ottoman,0.295,0.4,0.48,4.491,Unknown,Dusty Blue,Unknown
+fid051,Tray Table,0.375,0.483,0.648,12.701,Wood,Espresso,Unknown
+fid052,End Table,0.5,0.5,0.55,9.48,Tempered Glass,Shiny Black,Unknown
+fid053,Counter Stool,0.559,0.48,1.001,26.943,Unknown,Black,Unknown
+fid054,End Table,0.381,0.381,0.572,5.897,Wood,Brown Marble High Gloss / Gold Legs,Unknown
+fid055,Accent Chair,0.69,0.715,0.798,11.975,Sponge,Navy,Unknown
+fid056,Vanity Stool,0.4,0.4,0.46,4.45,Unknown,Black,China
+fid057,Bean Bag,0.762,0.711,0.686,4.141,Unknown,Blue-red,USA
+fid058,Shoe Bench,0.305,0.8,0.419,5.897,Unknown,Rustic Walnut,Unknown
+fid059,Counter Stool,0.318,0.45,0.622,21.636,Unknown,Grey & Black,Unknown
+fid060,Gaming Chair,0.508,0.584,1.321,19.051,Memory Foam,Grey,China
+fid061,Saucer Chair,0.549,0.599,0.8,5.897,Unknown,Beige With Ottoman,Unknown
+fid062,Counter Stool,0.381,0.508,0.61,10.614,Unknown,Black,China
+fid063,Dresser,0.267,0.343,0.343,2.966,Wood,Mahogany Wood Brown,Unknown
+fid064,Dresser,0.305,0.584,0.94,8.918,Unknown,Camel,China
+fid065,Wine Rack,0.203,0.432,0.102,1.361,Unknown,Wine Gold,Unknown
+fid066,Computer Desk,0.399,0.8,0.79,7.394,Engineered Wood,Rustic Brown,Unknown
+fid067,Counter Stool,0.559,0.48,1.001,26.943,Unknown,White (Multi-colored),Unknown
+fid068,Storage Ottoman,0.749,0.749,0.465,14.787,Wood,Orange Brown,China
+fid069,End Table,0.559,0.597,0.565,27.079,Wood,Two Tone Cream/Brown,Malaysia
+fid070,Storage Trunk,0.318,0.356,0.279,0.998,Unknown,Unknown,China
+fid071,Office Chair,0.555,0.555,0.745,7.62,Unknown,Red,China
+fid072,Bedside Crib,1.05,0.635,0.72,8.165,Fabric,Unknown,Unknown
+fid073,Folding Desk,0.457,0.902,0.749,9.072,Engineered Wood,Rustic,Unknown
+fid074,Counter Stool,0.349,0.349,0.94,9.48,Unknown,Dark Brown,China
+fid075,Storage Ottoman,0.8,0.419,0.351,7.666,Wood,Light Green,China
+fid076,Wine Rack,0.234,0.417,0.432,1.588,Unknown,Brown,Unknown
+fid077,Bar Stool,0.483,0.457,1.041,7.257,Unknown,Cream/Walnut,China
+fid078,Storage Ottoman,0.33,0.33,0.432,4.427,Wood,Dusty Pink,Unknown
+fid079,Bean Bag,0.458,0.351,0.184,4.713,Unknown,Unknown,China
+fid080,Office Chair,0.584,0.724,1.3,15.876,Memory Foam,Black,China
+fid081,Office Chair,0.737,0.648,1.187,17.327,Foam,Harvard Pink,China
+fid082,Floor Chair,0.826,0.406,0.076,2.082,Foam,Stripe,China
+fid083,Shoe Cabinet,0.3,0.749,0.94,12.247,Engineered Wood,Unknown,Unknown
+fid084,Gaming Chair,0.584,0.813,1.092,22.997,Unknown,Green,China
+fid085,Wine Cabinet,0.475,0.8,1.034,33.13,Walnut Wood,Walnut,Unknown
+fid086,Loveseat,0.737,1.509,0.8,32.25,Wood,Dark Gray,Unknown
+fid087,Ladder Shelf,0.503,0.091,1.575,5.488,Unknown,Unknown,Unknown
+fid088,Desk,0.559,0.914,0.775,15.876,Engineered Wood,Driftwood/White,Unknown
+fid089,End Table,0.508,0.508,0.686,9.072,Engineered Wood,Green and Brown,Unknown
+fid090,Bar Stool,1.035,0.546,0.546,8.165,Unknown,Red,Unknown
+fid091,Chair,0.724,0.711,0.8,12.066,Unknown,Light Lavender,China
+fid092,Footstool,0.249,0.351,0.231,1.678,Unknown,Faux Leather Celadon,China
+fid093,Step Stool,0.239,0.318,0.338,2.898,Bamboo,Brown,Unknown
+fid094,Bar Stool,0.457,0.508,0.965,8.165,Unknown,Black,Unknown
+fid095,Storage Bench,0.401,0.749,0.45,13.018,Unknown,Rustic Brown,Unknown
+fid096,Shoe Rack,0.267,0.267,0.323,0.68,Unknown,Grey&white,Unknown
+fid097,Office Chair,0.648,0.648,1.041,16.511,Foam,White,China
+fid098,Computer Desk,0.599,0.699,0.813,7.711,Engineered Wood,Black,Unknown
+fid099,Storage Cabinet,0.3,0.749,0.803,16.964,Engineered Wood,Grey,Unknown
+fid100,End Table,0.3,0.401,0.554,6.985,Iron,Brown,Unknown
+fid101,Box Spring,1.905,0.965,0.127,8.881,Unknown,Unknown,China
+fid102,Counter Stool,0.343,0.343,0.711,13.971,Unknown,Unknown,Unknown
+fid103,Bathroom Cabinet,0.239,0.599,1.669,14.2,"Engineered Wood, Metal",Rustic Brown,China
+fid104,Counter Stool,0.559,0.508,0.94,11.204,Unknown,White and Gray,Vietnam
+fid105,Dining Set,0.737,0.737,0.762,17.237,Unknown,Unknown,China
+fid106,Coat Rack,0.34,0.34,1.778,6.359,"Metal, Wood",Tree Gold,Unknown
+fid107,Shoe Bench,0.348,0.699,0.45,12.701,Unknown,White,China
+fid108,Bed Frame,1.892,0.953,0.457,11.34,Unknown,Black,China
+fid109,Bar Stool,0.432,0.432,1.118,16.329,Unknown,Black,China
+fid110,Storage Ottoman,0.381,0.762,0.381,6.804,Engineered Wood,White,China
+fid111,Footstool,0.33,0.4,0.33,3.084,Unknown,Unknown,China
+fid112,Accent Chair,0.699,0.719,0.95,8.278,Unknown,Grey,Unknown
+fid113,Shoe Rack,0.63,0.33,0.9,12.247,Bamboo,Brown,Unknown
+fid114,Dining Chair,0.578,0.438,0.902,14.243,Foam,Black,China
+fid115,Gaming Chair,0.533,0.47,1.016,14.969,Unknown,Black,China
+fid116,End Table,0.406,0.559,0.508,10.433,Engineered Wood,White and Brown,Unknown
+fid117,Bed Frame,1.905,0.991,0.356,16.103,Unknown,Black,Unknown
+fid118,Counter Stool,0.432,0.483,1.194,12.202,Unknown,White,China
+fid119,Folding Table,0.701,1.199,0.7,4.536,"Aluminum,Bamboo","Yellow-27.6""d X 47.2""w X 27.56""h",Unknown
+fid120,Pouf,0.508,0.508,0.356,3.402,Engineered Wood,Slate,India
+fid121,End Table,0.499,0.499,0.6,8.21,Glass,Antique Brass/Mirror,Unknown
+fid122,Table Set,0.851,0.584,0.127,15.15,Unknown,Unknown,Unknown
+fid123,Coffee Table,0.8,0.8,0.43,11.05,Wood,Octagonal Coffee Table,Unknown
+fid124,Pouf,0.508,0.508,0.406,2.268,Cotton,Grey / White,Unknown
+fid125,Coat Rack,0.33,0.33,1.845,2.998,Wood,Black,Unknown
+fid126,Nightstand,0.38,0.27,0.6,5.801,"Glass, Engineered Wood",Black,Unknown
+fid127,Bar Stool,0.406,0.406,0.61,16.375,Unknown,Gunmetal,Unknown
+fid128,Gaming Desk,0.61,1.397,0.762,15.876,Alloy Steel,Black,Unknown
+fid129,Office Chair,0.711,0.66,1.168,17.735,Foam,Black/Blue,Unknown
+fid130,Storage Ottoman,0.483,0.483,0.457,4.99,Engineered Wood,Tan Floral Jacquard,China
+fid131,Bathroom Cabinet,0.3,0.63,1.664,12.247,Wood,Over the Toilet Storage Cabinet White,China
+fid132,Coat Rack,0.318,0.318,1.702,4.559,Metal,"Gold - T 67""/170cm",Unknown
+fid133,Recliner Chair,0.908,0.629,0.965,27.397,Foam,Navy Blue + Teak,China
+fid134,End Table,0.401,0.241,0.599,0.907,Engineered Wood,White,Unknown
+fid135,Dining Bench,0.229,0.838,0.616,7.711,Unknown,Storm Gray Wire-brush,Unknown
+fid136,Shelf,0.544,0.372,0.14,3.234,Unknown,Unknown,Unknown
+fid137,Storage Ottoman,0.483,0.483,0.457,6.486,Engineered Wood,Tan Woven,China
+fid138,Footstool,0.406,0.356,0.356,5.996,Wood,Kiwi,Unknown
+fid139,Storage Ottoman,0.33,0.406,0.457,2.722,Iron,Black,Unknown
+fid140,Dresser,0.399,0.599,0.78,25.809,Unknown,Black,China
+fid141,Nightstand,0.351,0.399,0.64,4.99,Engineered Wood,Black,Unknown
+fid142,Counter Stool,0.483,0.533,0.991,6.804,Unknown,Black Pad,China
+fid143,Accent Chair,0.48,0.67,0.98,13.835,Unknown,Blue,China
+fid144,End Table,0.5,0.3,0.6,4.5,Wood,Black,Unknown
+fid145,Storage Ottoman,0.381,0.381,0.381,1.946,Engineered Wood,Coffee,Unknown
+fid146,Nightstand,0.362,0.445,0.622,6.201,"Walnut,Solid Wood,MDF",Espresso,Unknown
+fid147,Storage Ottoman,0.381,0.381,0.381,3.493,Wood,Khaki,Unknown
+fid148,End Table,0.432,0.432,0.572,4.99,Steel/Mirror,Soft Brass/Mirror,China
+fid149,End Table,0.5,0.5,0.569,7.983,Tempered Glass,Black,Unknown
+fid150,Dining Chair,0.528,0.457,0.737,11.793,Unknown,Thick Chair | Red,China
+fid151,Bar Cart,0.399,0.399,0.848,11.839,"Solid Wood,Iron",Brown+black,Unknown
+fid152,Bean Bag,1.524,1.524,0.864,24.948,Unknown,Microsuede - Lime,Unknown
+fid153,Counter Stool,0.387,0.508,1.162,11.612,Unknown,Begin,Unknown
+fid154,Kitchen Island,0.438,0.826,0.876,23.224,"MDF,Metal,Plastic",Red,Unknown
+fid155,Chest,0.451,0.845,0.622,13.698,"Engineered Wood, Beechwood, Metal",Walnut Finish,China
+fid156,Nesting Table,0.699,0.711,0.384,14.0,Manufactured Wood,Walnut/Gold,Unknown
+fid157,Bookcase,0.305,0.671,0.63,6.35,Recycled Material,Unknown,Unknown
+fid158,Adirondack Chair,0.909,0.744,0.919,14.515,Unknown,Grey,Unknown
+fid159,Coffee Table,0.584,0.838,0.483,13.608,Wood,Smoke Gray,Unknown
+fid160,Dresser,0.861,0.46,0.859,29.937,"pine, Wood",Grey,Unknown
+fid161,Dining Chair,0.533,0.635,0.978,9.979,Foam,Grey,China
+fid162,Folding Stool,0.249,0.249,0.45,0.907,Unknown,Unknown,China
+fid163,Sofa,0.508,0.991,0.406,6.169,High Density Comfort Foam,Rainbow Unicorn,Unknown
+fid164,Bar Table,0.599,0.599,0.965,16.329,"Wood Tabletop,Wooden Tabletop",Copper,Unknown
+fid165,Gaming Chair,0.432,0.432,1.448,20.502,Textile,Pink,Unknown
+fid166,Bar Stool,0.457,0.394,0.737,11.113,Wood,Black Sand,Malaysia
+fid167,Storage Ottoman,0.33,0.33,0.381,4.99,Engineered Wood,Ivory/Gold Ava,China
+fid168,Dining Chair,0.61,0.47,1.003,7.257,Foam,Beige,Unknown
+
